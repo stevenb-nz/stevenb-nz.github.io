@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "More Jekyll"
+date:   2016-05-29 22:29:00 +1200
+categories: jekyll rails
+---
+I went along to WellRailed on Thursday. First time I've been able to make it in quite a while. The first two talks were on security issues (one about timing attacks, the other about ImageTragick, both very interesting and useful). The third talk was about starting work as a developer for a bootcamp graduate, so quite relevant to me as an older career switcher.
+
+Otherwise, I've been adding a projects page here, and beginning to populate it (and getting to know jeckyll a little better in the process).
+
+And between now and Wednesday week I'll be coming up with a presentation to give at Enspiral Dev Academy (as part of the Code Gym programme to facilitate continued learning for EDA graduates). It'll either be something about using Jekyll, or it'll be about implementing Scrabble-playing algorithms.
