@@ -4,9 +4,19 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### EDA final project (Rails)
+### EDA solo project (Rails)
 
-\[ link to come \]
+This was a 'simple as possible' (in terms of the schema) shopping cart implementation. It includes a flash message when you check out, telling you what you've just spent.
+
+[code at GitHub](https://github.com/stevenb-nz/shopping_cart_from_scratch)
+
+### EDA final group project (Rails)
+
+Our final group project at EDA was a website for maintaining a personal list of movies that you might like to see in future. My main responsibilities were setting up the Rails project at the start of the project including the initial db schema, getting the Windows-based member of the team set up to work at [Cloud9](c9.io), getting authentication set up using devise including getting emails sent for forgotten passwords, applying authorisation for a basic admin page, and general trouble-shooting. The forgotten password emails will no longer be working due to changes in the interim to the service provided by Mandrill.
+
+[code at GitHub](https://github.com/juliangommans/jam)
+
+[deployed at Heroku](https://moviejam.herokuapp.com/)
 
 ### Advent of Code (Ruby)
 
