@@ -1,8 +1,9 @@
 ---
-layout: page
-title: About me
-permalink: /about-me/
+layout: default
+permalink: /
 ---
+<h1 class="page-title">About me</h1>
+
 I've recently retrained as a web developer.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
