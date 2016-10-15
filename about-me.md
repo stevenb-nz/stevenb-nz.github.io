@@ -4,7 +4,12 @@ permalink: /
 ---
 <h1 class="page-title">About me</h1>
 
-I've recently retrained as a web developer.
+Hi, I'm Steven. The first code I ever wrote was at the age of 13. We wrote some Fortran on graph paper in maths class, mailed it off to a mainframe to get run, and received the results several weeks later.
+
+Some years later I completed a computer science major and worked in computer support for the next ten years. I then drifted away from tech, working to support various Parliamentary functions for another ten years (mainly in publishing to web and print, or drafting written reports).
+
+I've recently retrained as a web developer, specialising in Ruby on Rails, along with HTML5, CSS, and Javascript.
+Get in touch.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
