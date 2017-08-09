@@ -3,7 +3,7 @@ layout: page
 permalink: /scrabble/ratings/
 ---
 
-{% assign allratings = site.data.allratings.ratings | where: 'current', true | sort: 'seed' %}
+{% assign allratings = site.data.allratings.ratings | where: 'Current', true | sort: 'Seed' %}
 
 <ul>
     {% for a in allratings %}
