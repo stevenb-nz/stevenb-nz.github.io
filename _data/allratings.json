@@ -1,4 +1,5 @@
-[
+{
+"ratings": [
   {
     "Name":"Alastair Richards",
     "Rating":2189,
@@ -10826,3 +10827,4 @@
     "Club":"Rotorua"
   }
 ]
+}
