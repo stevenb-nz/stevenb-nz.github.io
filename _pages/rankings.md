@@ -3,10 +3,10 @@ layout: page
 permalink: /scrabble/rankings/
 ---
 
-{% assign allratings = site.data.allratings | where_exp:"item", 'item.Ranking > 0' | sort: 'Ranking' %}
+{% assign list = site.data.allratings.List | where_exp:"item", 'item.Ranking > 0' | sort: 'Ranking' %}
 
 <ul>
-    {% for a in allratings %}
-    <li>{{ a.Name }}{{ a.Rating }}</li>
+    {% for l in list %}
+    <li>{{ l.Name }}{{ l.Rating }}</li>
     {% endfor %}
 </ul>
