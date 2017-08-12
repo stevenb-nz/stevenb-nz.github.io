@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /scrabble/ratings/
+permalink: /scrabble/ratingsbyrating/
 ---
 
 {% assign allratings = site.data.allratings | where: 'Current', true | sort: 'Seed' %}

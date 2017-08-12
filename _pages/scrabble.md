@@ -14,7 +14,13 @@ I have reviewed the old ratings system, recommended changes, had these changes a
 
 ### links to current rankings and ratings from the new system
 
-\[ data uploaded as json - now working on pages to display it \]
+[Rankings](/scrabble/rankings/)
+
+[Ratings by rating](/scrabble/ratingsbyrating/)
+
+[Ratings by name](/scrabble/ratingsbyname/)
+
+[All ratings](/scrabble/allratings/)
 
 ### new tournament scoring program
 
