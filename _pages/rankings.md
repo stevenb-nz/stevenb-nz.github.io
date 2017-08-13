@@ -5,8 +5,10 @@ permalink: /scrabble/rankings/
 
 {% assign list = site.data.allratings.List | where_exp:"item", 'item.Ranking > 0' | sort: 'Ranking' %}
 
+#### Rankings {{ site.data.allratings.Date }}
 <table>
+  <tr><td>Rank</td><td>Name</td><td>Rating</td><td>Wins</td><td>Games</td><td>%</td></tr>
   {% for l in list %}
-    <tr><td>{{ l.Name }}</td><td>{{ l.Rating }}</td></tr>
+    <tr><td align='right'>{{ l.Ranking }}</td><td>{{ l.Name }} {{ l.LifetimeAward }}</td><td align='right'>{{ l.Rating }}</td><td align='right'>{{ l.Wins }}</td><td align='right'>{{ l.Games }}</td><td align='right'>{{ l.PercentText }}</td></tr>
   {% endfor %}
 </table>
