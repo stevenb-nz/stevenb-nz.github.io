@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Scrabble
+nav: true
 permalink: /scrabble/
 ---
 

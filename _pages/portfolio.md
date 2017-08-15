@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Portfolio
+nav: true
 permalink: /portfolio/
 ---
 

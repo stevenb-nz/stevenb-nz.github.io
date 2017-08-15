@@ -1,11 +1,12 @@
 ---
 layout: page
+title: Ratings by rating
 permalink: /scrabble/ratingsbyrating/
 ---
 
 {% assign list = site.data.allratings.List | where: 'Current', true | sort: 'Seed' %}
 
-#### Ratings by rating {{ site.data.allratings.Date }}
+#### {{ site.data.allratings.Date }}
 <table>
   <tr><td>Name</td><td>Rating</td><td>Seeding</td><td>Status</td><td>Wins</td><td>Games</td><td>%</td></tr>
   {% for l in list %}
