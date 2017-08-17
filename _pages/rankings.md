@@ -10,6 +10,6 @@ permalink: /scrabble/rankings/
 <table>
   <tr><th>Rank</th><th>Name</th><th>Rating</th><th>Wins</th><th>Games</th><th>%</th></tr>
   {% for l in list %}
-    <tr><td align='right'>{{ l.Ranking }}</td><td>{{ l.Name }} {{ l.LifetimeAward }}</td><td align='right'>{{ l.Rating }}</td><td align='right'>{{ l.Wins }}</td><td align='right'>{{ l.Games }}</td><td align='right'>{{ l.PercentText }}</td></tr>
+    <tr><td class="ranking">{{ l.Ranking }}</td><td class="name">{{ l.Name }} {{ l.LifetimeAward }}</td><td class="rating">{{ l.Rating }}</td><td class="wins">{{ l.Wins }}</td><td class="games">{{ l.Games }}</td><td class="percent">{{ l.PercentText }}</td></tr>
   {% endfor %}
 </table>
