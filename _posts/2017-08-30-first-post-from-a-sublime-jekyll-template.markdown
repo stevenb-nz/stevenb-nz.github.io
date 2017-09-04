@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post from a sublime-jekyll template
-date: 2017-08-30 13:19:51 +1200
+title:  "First post from a sublime-jekyll template"
+date:   2017-08-30 13:19:51 +1200
 categories: jekyll
 ---
 The title should be fairly self-explanatory - just getting used to using this before starting a couple of more substantial posts.
