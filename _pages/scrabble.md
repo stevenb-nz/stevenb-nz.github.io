@@ -15,7 +15,7 @@ I have reviewed the old ratings system, recommended changes, had these changes a
 
 [Interim report on the ratings system review (pdf)](/assets/pdf/interimreport_june2.pdf)<br>
 [Final report on the ratings system review (pdf)](/assets/pdf/finalreport.pdf)<br>
-Report on the implementation of the new ratings system (to come).<br>
+Report on the implementation of the new ratings system (to come)<br>
 [Implementation of new ratings system (code at github)](https://github.com/stevenb-nz/nzasp-ratings)
 
 ### links to current rankings and ratings from the new system
