@@ -13,6 +13,11 @@ There are two .dmg's available for download - T-Score 1.4.2 compiled for i) [PPC
 
 I have reviewed the old ratings system, recommended changes, had these changes adopted, and implemented the new system. I will link to a description of the new system, sufficient for someone else to do their own implementation, once I have written this description.
 
+[Interim report on the ratings system review (pdf)](/assets/pdf/interimreport_june2.pdf)<br>
+[Final report on the ratings system review (pdf)](/assets/pdf/finalreport.pdf)<br>
+Report on the implementation of the new ratings system (to come).<br>
+[Implementation of new ratings system (code at github)](https://github.com/stevenb-nz/nzasp-ratings)
+
 ### links to current rankings and ratings from the new system
 
 #### {{ site.data.allratings.Date }}
