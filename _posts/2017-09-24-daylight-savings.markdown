@@ -6,3 +6,4 @@ categories: jekyll testing
 ---
 The clocks went forward overnight, and I've remembered to change the settings for sublime-jekyll to match (i.e. changing the time-zone offset from +1200 to +1300). I'm creating and posting this blog post to test if this works.
 
+And yes, it works.
