@@ -23,9 +23,9 @@ Our final group project at EDA was a website for maintaining a personal list of 
 
 [Advent of Code](http://adventofcode.com) was a series of code challenges (two related challenges each day) released each day of December through to Christmas 2015. I caught up with it after the fact in January, and got through to Day 12 ([rough solutions on GitHub](https://github.com/stevenb-nz/AdventOfCode)). If and when I get back to focussing on Ruby, I'm intending to do rough solutions to the remaining days, then go back through adding tests, and then refactoring.
 
-### trial Electron project
+### Word Clock (planning to do several alternative implementations)
 
-\[ to come \]
+[Xojo version at GitHub](https://github.com/stevenb-nz/word-clock-xojo)
 
 ### Ember front-end to Phoenix (Elixir) back-end?
 
