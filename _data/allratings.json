@@ -1,8 +1,9 @@
 {
-  "Date":"as at Thursday, 23 November 2017",
+  "Date":"as at Sunday, 31 December 2017",
   "List":[
     {
       "Name":"Alastair Richards",
+      "LifetimeAward":"(GM)",
       "Rating":2258,
       "Seed":1,
       "LastSeed":1,
@@ -594,7 +595,7 @@
     },
     {
       "Name":"Cicely Bruce",
-      "LifetimeAward":"(E)",
+      "LifetimeAward":"(GM)",
       "Rating":1779,
       "Seed":51,
       "LastSeed":28,
@@ -774,6 +775,7 @@
     },
     {
       "Name":"Olivia Godfrey",
+      "LifetimeAward":"(E)",
       "Rating":1700,
       "Seed":66,
       "LastSeed":58,
