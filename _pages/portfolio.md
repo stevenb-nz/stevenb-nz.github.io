@@ -19,17 +19,21 @@ Our final group project at EDA was a website for maintaining a personal list of 
 
 [deployed at Heroku](https://moviejam.herokuapp.com/)
 
+### freeCodeCamp
+
+In 2016, I worked through several sections of the freeCodeCamp curriculum - [my profile there](https://www.freecodecamp.org/stevenb-nz) lists the challenges I completed, with links to my code where appropriate.
+
 ### Advent of Code (Ruby)
 
-[Advent of Code](http://adventofcode.com) is a series of code challenges (two related challenges each day) that have been released each day of December through to Christmas for each of the last 3 years. Here are my [rough solutions on GitHub](https://github.com/stevenb-nz/AdventOfCode2017) for this year (2017).
+[Advent of Code](http://adventofcode.com) is a series of code challenges (two related challenges each day) that have been released each day of December through to Christmas for each of the last 3 years. Here are my [rough solutions on GitHub](https://github.com/stevenb-nz/AdventOfCode2017) for last year (2017) (finished up to Day 20 of 25 before moving on to other things).
+
+### codewars (Ruby, Javascript, Swift, C#, Elixir)
+
+As of January 2018, I'm just getting started at [codewars](https://www.codewars.com). A list of the kata I have trained on (mostly Ruby so far) can be found at [my profile there](https://www.codewars.com/users/stevenb-nz).
 
 ### Word Clock (planning to do several alternative implementations)
 
 [Xojo version at GitHub](https://github.com/stevenb-nz/word-clock-xojo)
-
-### Ember front-end to Phoenix (Elixir) back-end?
-
-\[ in due course, time permitting \]
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
