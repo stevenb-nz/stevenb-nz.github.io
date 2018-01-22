@@ -19,5 +19,8 @@ github_username:      stevenb-nz
 linkedin_username:    stevengraemebrown
 linkedin_displayname: Steven Brown
 
+# Google Analytics
+google_analytics: UA-112882110-1
+
 # Build settings
 markdown: kramdown
