@@ -11,7 +11,7 @@ There are two .dmg's available for download - T-Score 1.4.2 compiled for i) [PPC
 
 ### implementation of new ratings system
 
-I have reviewed the old ratings system, recommended changes, had these changes adopted, and implemented the new system. I will link to a description of the new system, sufficient for someone else to do their own implementation, once I have written this description.
+I have reviewed the old ratings system, recommended changes, had these changes adopted, and implemented the new system. Here are the two reports, analysing the old system and recommending the new system; a description of the calculations that are carried out in the new system; and the code for the current implementation of the new system.
 
 [Interim report on the ratings system review (pdf)](/assets/pdf/interimreport_june2.pdf)<br>
 [Final report on the ratings system review (pdf)](/assets/pdf/finalreport.pdf)<br>
