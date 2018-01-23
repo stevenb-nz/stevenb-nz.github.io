@@ -9,9 +9,9 @@
 title: Steven's Work in Progress
 email: sgbrown@mac.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hi, I'm Steven Brown. I've recently retrained as a web
-  developer; this site is where I'll be putting all things
-  dev-related, such as my developer blog and portfolio page.
+  Hi, I'm Steven. This is my site for all things
+  dev-related, such as my developer blog, portfolio
+  page, and work for the Scrabble community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 include: ['_pages']
