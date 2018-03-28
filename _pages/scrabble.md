@@ -9,6 +9,10 @@ permalink: /scrabble/
 
 There are two .dmg's available for download - T-Score 1.4.2 compiled for i) [PPC Macs](/assets/dmg/T-Score1.4.2(PPC).dmg) or ii) [Intel Macs](/assets/dmg/T-Score1.4.2(Intel).dmg). The PPC version hasn't been tested as I no longer have easy access to a PPC-based machine (or even one running Rosetta).
 
+### new tournament scoring program
+
+I have just started working on a Rails implementation of a tournament scoring program. It's on [Github as nztscore](https://github.com/stevenb-nz/nztscore), but not much to see as of yet.
+
 ### implementation of new ratings system
 
 I have reviewed the old ratings system, recommended changes, had these changes adopted, and implemented the new system. Here are the two reports, analysing the old system and recommending the new system; a description of the calculations that are carried out in the new system; and the code for the current implementation of the new system.
