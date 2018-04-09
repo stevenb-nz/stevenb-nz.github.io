@@ -5761,24 +5761,11 @@
       "Club":"Independent"
     },
     {
-      "Name":"Madelaine Green",
-      "Rating":864,
-      "Seed":495,
-      "LastSeed":571,
-      "EqualSeed":"(=2)",
-      "Current":true,
-      "Ranking":116,
-      "Wins":149.5,
-      "Games":278,
-      "PercentText":"54%",
-      "Club":"Christchurch"
-    },
-    {
       "Name":"Frank Newmarch",
       "Rating":864,
-      "Seed":496,
+      "Seed":495,
       "LastSeed":495,
-      "EqualSeed":"(=3)",
+      "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
       "Current":false,
       "Wins":5.0,
@@ -5788,7 +5775,7 @@
     {
       "Name":"Andrew Wylie",
       "Rating":863,
-      "Seed":497,
+      "Seed":496,
       "LastSeed":496,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5800,7 +5787,7 @@
     {
       "Name":"Elizabeth Arlington",
       "Rating":863,
-      "Seed":498,
+      "Seed":497,
       "LastSeed":497,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5812,11 +5799,11 @@
     {
       "Name":"Yvonne McLaughlan",
       "Rating":862,
-      "Seed":499,
+      "Seed":498,
       "LastSeed":498,
       "EqualSeed":"(=1)",
       "Current":true,
-      "Ranking":117,
+      "Ranking":116,
       "Wins":525.5,
       "Games":1094,
       "PercentText":"48%",
@@ -5825,7 +5812,7 @@
     {
       "Name":"Catherine Styles",
       "Rating":862,
-      "Seed":500,
+      "Seed":499,
       "LastSeed":499,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5837,10 +5824,10 @@
     {
       "Name":"Tony Charlton",
       "Rating":860,
-      "Seed":501,
+      "Seed":500,
       "LastSeed":500,
       "Current":true,
-      "Ranking":118,
+      "Ranking":117,
       "Wins":335.5,
       "Games":703,
       "PercentText":"48%",
@@ -5849,10 +5836,10 @@
     {
       "Name":"Judith Thomas",
       "Rating":857,
-      "Seed":502,
+      "Seed":501,
       "LastSeed":501,
       "Current":true,
-      "Ranking":119,
+      "Ranking":118,
       "Wins":258.5,
       "Games":532,
       "PercentText":"49%",
@@ -5861,7 +5848,7 @@
     {
       "Name":"Leighton Gelling",
       "Rating":855,
-      "Seed":503,
+      "Seed":502,
       "LastSeed":502,
       "Status":"(hist)",
       "Current":false,
@@ -5872,7 +5859,7 @@
     {
       "Name":"Kerry Dawkins",
       "Rating":853,
-      "Seed":504,
+      "Seed":503,
       "LastSeed":503,
       "Status":"(hist)",
       "Current":false,
@@ -5883,7 +5870,7 @@
     {
       "Name":"Bev Morris",
       "Rating":851,
-      "Seed":505,
+      "Seed":504,
       "LastSeed":504,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5895,7 +5882,7 @@
     {
       "Name":"Jane Shaw",
       "Rating":851,
-      "Seed":506,
+      "Seed":505,
       "LastSeed":505,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5907,7 +5894,7 @@
     {
       "Name":"Karen Heppleston",
       "Rating":851,
-      "Seed":507,
+      "Seed":506,
       "LastSeed":506,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -5919,7 +5906,7 @@
     {
       "Name":"Gloria Jordan",
       "Rating":851,
-      "Seed":508,
+      "Seed":507,
       "LastSeed":507,
       "EqualSeed":"(=4)",
       "Status":"(prov/hist)",
@@ -5931,7 +5918,7 @@
     {
       "Name":"Ray Jefferies",
       "Rating":851,
-      "Seed":509,
+      "Seed":508,
       "LastSeed":508,
       "EqualSeed":"(=5)",
       "Status":"(prov/hist)",
@@ -5943,7 +5930,7 @@
     {
       "Name":"Liz Richards",
       "Rating":849,
-      "Seed":510,
+      "Seed":509,
       "LastSeed":509,
       "Status":"(hist)",
       "Current":false,
@@ -5954,7 +5941,7 @@
     {
       "Name":"Debbie Lang",
       "Rating":847,
-      "Seed":511,
+      "Seed":510,
       "LastSeed":510,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5966,7 +5953,7 @@
     {
       "Name":"Cecily Brockie",
       "Rating":847,
-      "Seed":512,
+      "Seed":511,
       "LastSeed":511,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5978,7 +5965,7 @@
     {
       "Name":"Margaret Bell",
       "Rating":846,
-      "Seed":513,
+      "Seed":512,
       "LastSeed":512,
       "Status":"(hist)",
       "Current":false,
@@ -5989,7 +5976,7 @@
     {
       "Name":"Terry McLaughlin",
       "Rating":845,
-      "Seed":514,
+      "Seed":513,
       "LastSeed":513,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6001,7 +5988,7 @@
     {
       "Name":"Abby Pluijmers",
       "Rating":845,
-      "Seed":515,
+      "Seed":514,
       "LastSeed":514,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6013,7 +6000,7 @@
     {
       "Name":"Liz Jackman",
       "Rating":838,
-      "Seed":516,
+      "Seed":515,
       "LastSeed":515,
       "Status":"(prov)",
       "Current":true,
@@ -6021,6 +6008,18 @@
       "Games":24,
       "PercentText":"33%",
       "Club":"overseas"
+    },
+    {
+      "Name":"Hanna Dodge",
+      "Rating":834,
+      "Seed":516,
+      "LastSeed":516,
+      "Current":true,
+      "Ranking":119,
+      "Wins":153.5,
+      "Games":305,
+      "PercentText":"50%",
+      "Club":"Christchurch"
     },
     {
       "Name":"Susan Ball",
@@ -6092,11 +6091,24 @@
       "PercentText":"51%"
     },
     {
-      "Name":"Trish Hellriegel",
+      "Name":"Madelaine Green",
       "Rating":827,
       "Seed":523,
-      "LastSeed":523,
+      "LastSeed":571,
       "EqualSeed":"(=2)",
+      "Current":true,
+      "Ranking":120,
+      "Wins":148.5,
+      "Games":278,
+      "PercentText":"53%",
+      "Club":"Christchurch"
+    },
+    {
+      "Name":"Trish Hellriegel",
+      "Rating":827,
+      "Seed":524,
+      "LastSeed":523,
+      "EqualSeed":"(=3)",
       "Status":"(hist)",
       "Current":false,
       "Wins":75.5,
@@ -6106,7 +6118,7 @@
     {
       "Name":"Valerie Holbrook",
       "Rating":826,
-      "Seed":524,
+      "Seed":525,
       "LastSeed":524,
       "Status":"(hist)",
       "Current":false,
@@ -6117,7 +6129,7 @@
     {
       "Name":"Connie Gervasi",
       "Rating":824,
-      "Seed":525,
+      "Seed":526,
       "LastSeed":525,
       "Status":"(hist)",
       "Current":false,
@@ -6128,7 +6140,7 @@
     {
       "Name":"Jean Walsh",
       "Rating":821,
-      "Seed":526,
+      "Seed":527,
       "LastSeed":526,
       "Status":"(hist)",
       "Current":false,
@@ -6139,7 +6151,7 @@
     {
       "Name":"Leigh Montford",
       "Rating":819,
-      "Seed":527,
+      "Seed":528,
       "LastSeed":527,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6151,7 +6163,7 @@
     {
       "Name":"Merv Fendall",
       "Rating":819,
-      "Seed":528,
+      "Seed":529,
       "LastSeed":528,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6163,7 +6175,7 @@
     {
       "Name":"Bev Barker",
       "Rating":818,
-      "Seed":529,
+      "Seed":530,
       "LastSeed":529,
       "Status":"(hist)",
       "Current":false,
@@ -6174,7 +6186,7 @@
     {
       "Name":"Pauline Scott",
       "Rating":817,
-      "Seed":530,
+      "Seed":531,
       "LastSeed":530,
       "Status":"(hist)",
       "Current":false,
@@ -6185,10 +6197,10 @@
     {
       "Name":"Sandra Cowen",
       "Rating":812,
-      "Seed":531,
+      "Seed":532,
       "LastSeed":531,
       "Current":true,
-      "Ranking":120,
+      "Ranking":121,
       "Wins":104.5,
       "Games":229,
       "PercentText":"46%",
@@ -6197,7 +6209,7 @@
     {
       "Name":"Catherine Henry",
       "Rating":811,
-      "Seed":532,
+      "Seed":533,
       "LastSeed":532,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -6208,7 +6220,7 @@
     {
       "Name":"Mary Thornber",
       "Rating":811,
-      "Seed":533,
+      "Seed":534,
       "LastSeed":533,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6218,24 +6230,10 @@
       "PercentText":"29%"
     },
     {
-      "Name":"Hanna Dodge",
-      "Rating":809,
-      "Seed":534,
-      "LastSeed":516,
-      "EqualSeed":"(=1)",
-      "Current":true,
-      "Ranking":121,
-      "Wins":152.5,
-      "Games":305,
-      "PercentText":"50%",
-      "Club":"Christchurch"
-    },
-    {
       "Name":"Rebecca Pullman",
       "Rating":809,
       "Seed":535,
       "LastSeed":534,
-      "EqualSeed":"(=2)",
       "Status":"(prov)",
       "Current":true,
       "Wins":8.0,
@@ -7059,7 +7057,6 @@
       "Rating":713,
       "Seed":605,
       "LastSeed":605,
-      "EqualSeed":"(=1)",
       "Current":true,
       "Ranking":134,
       "Wins":707.0,
@@ -7068,28 +7065,27 @@
       "Club":"Kiwi"
     },
     {
-      "Name":"Anne-Louise Milne",
-      "Rating":713,
-      "Seed":606,
-      "LastSeed":638,
-      "EqualSeed":"(=2)",
-      "Current":true,
-      "Ranking":135,
-      "Wins":168.0,
-      "Games":491,
-      "PercentText":"34%",
-      "Club":"Dunedin"
-    },
-    {
       "Name":"Leah Ward",
       "Rating":712,
-      "Seed":607,
+      "Seed":606,
       "LastSeed":606,
       "Status":"(prov/hist)",
       "Current":false,
       "Wins":0.0,
       "Games":7,
       "PercentText":"0%"
+    },
+    {
+      "Name":"Anne-Louise Milne",
+      "Rating":711,
+      "Seed":607,
+      "LastSeed":638,
+      "Current":true,
+      "Ranking":135,
+      "Wins":168.0,
+      "Games":491,
+      "PercentText":"34%",
+      "Club":"Dunedin"
     },
     {
       "Name":"Suzanne Anderson",
@@ -8095,9 +8091,10 @@
     },
     {
       "Name":"Marilyn Sinclair",
-      "Rating":575,
+      "Rating":574,
       "Seed":695,
       "LastSeed":637,
+      "EqualSeed":"(=1)",
       "Current":true,
       "Ranking":146,
       "Wins":122.5,
@@ -8110,6 +8107,7 @@
       "Rating":574,
       "Seed":696,
       "LastSeed":696,
+      "EqualSeed":"(=2)",
       "Status":"(hist)",
       "Current":false,
       "Wins":33.0,
@@ -10709,7 +10707,7 @@
     },
     {
       "Name":"Bev Allen",
-      "Rating":167,
+      "Rating":165,
       "Seed":921,
       "LastSeed":910,
       "Current":true,
