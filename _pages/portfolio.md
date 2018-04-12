@@ -35,7 +35,7 @@ As of January 2018, I'm just getting started at [codewars](https://www.codewars.
 
 Finished: [Xojo version at GitHub](https://github.com/stevenb-nz/word-clock-xojo)
 
-In progress: [electron.js version at GitHub](https://github.com/stevenb-nz/word-clock-electron)
+finished (1st version): [electron.js version at GitHub](https://github.com/stevenb-nz/word-clock-electron)
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
