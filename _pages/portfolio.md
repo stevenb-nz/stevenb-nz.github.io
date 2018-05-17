@@ -29,7 +29,7 @@ Finished:
 
 [electron.js version at GitHub](https://github.com/stevenb-nz/word-clock-electron)
 
-[Xojo version at GitHub](https://github.com/stevenb-nz/word-clock-xojo) (needs feature catchup with electron.js version)
+[Xojo version at GitHub](https://github.com/stevenb-nz/word-clock-xojo)
 
 ### Advent of Code (Ruby)
 
