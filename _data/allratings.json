@@ -5,6 +5,7 @@
       "Name":"Alastair Richards",
       "LifetimeAward":"(GM)",
       "Rating":2294,
+      "RatingChange":"( +11 )",
       "Seed":1,
       "LastSeed":1,
       "Current":true,
@@ -31,6 +32,7 @@
       "Name":"Lyres Freeth",
       "LifetimeAward":"(GM)",
       "Rating":2202,
+      "RatingChange":"( -1 )",
       "Seed":3,
       "LastSeed":3,
       "Current":true,
@@ -213,6 +215,7 @@
       "Name":"Andrew Bradley",
       "LifetimeAward":"(GM)",
       "Rating":1969,
+      "RatingChange":"( +16 )",
       "Seed":18,
       "LastSeed":19,
       "Current":true,
@@ -282,6 +285,7 @@
       "Name":"Lawson Sue",
       "LifetimeAward":"(GM)",
       "Rating":1903,
+      "RatingChange":"( -19 )",
       "Seed":24,
       "LastSeed":24,
       "Current":true,
@@ -295,6 +299,7 @@
       "Name":"Cicely Bruce",
       "LifetimeAward":"(GM)",
       "Rating":1897,
+      "RatingChange":"( +12 )",
       "Seed":25,
       "LastSeed":26,
       "Current":true,
@@ -568,6 +573,7 @@
       "Name":"Liz Fagerlund",
       "LifetimeAward":"(GM)",
       "Rating":1784,
+      "RatingChange":"( -19 )",
       "Seed":48,
       "LastSeed":44,
       "Current":true,
@@ -1169,6 +1175,7 @@
     {
       "Name":"Margie Hurly",
       "Rating":1596,
+      "RatingChange":"( +29 )",
       "Seed":99,
       "LastSeed":110,
       "Current":true,
@@ -1331,6 +1338,7 @@
     {
       "Name":"Jeanette Grimmer",
       "Rating":1560,
+      "RatingChange":"( +18 )",
       "Seed":113,
       "LastSeed":120,
       "EqualSeed":"(=2)",
@@ -1489,6 +1497,7 @@
     {
       "Name":"Lynn Wood",
       "Rating":1522,
+      "RatingChange":"( +62 )",
       "Seed":127,
       "LastSeed":153,
       "Current":true,
@@ -1723,6 +1732,7 @@
     {
       "Name":"Su Walker",
       "Rating":1486,
+      "RatingChange":"( -39 )",
       "Seed":147,
       "LastSeed":126,
       "EqualSeed":"(=2)",
@@ -1736,6 +1746,7 @@
     {
       "Name":"Delcie Macbeth",
       "Rating":1483,
+      "RatingChange":"( +49 )",
       "Seed":148,
       "LastSeed":161,
       "Current":true,
@@ -1974,6 +1985,7 @@
     {
       "Name":"David Gunn",
       "Rating":1416,
+      "RatingChange":"( +13 )",
       "Seed":168,
       "LastSeed":172,
       "EqualSeed":"(=2)",
@@ -2173,6 +2185,7 @@
     {
       "Name":"Betty Eriksen",
       "Rating":1378,
+      "RatingChange":"( +30 )",
       "Seed":185,
       "LastSeed":203,
       "Current":true,
@@ -2231,6 +2244,7 @@
     {
       "Name":"Joanne Morley",
       "Rating":1371,
+      "RatingChange":"( -31 )",
       "Seed":190,
       "LastSeed":173,
       "Current":true,
@@ -2586,6 +2600,7 @@
     {
       "Name":"Jena Yousif",
       "Rating":1310,
+      "RatingChange":"( +25 )",
       "Seed":220,
       "LastSeed":231,
       "Current":true,
@@ -2658,6 +2673,7 @@
     {
       "Name":"Allie Quinn",
       "Rating":1295,
+      "RatingChange":"( -66 )",
       "Seed":226,
       "LastSeed":195,
       "Current":true,
@@ -2791,6 +2807,7 @@
     {
       "Name":"Glenda Geard",
       "Rating":1276,
+      "RatingChange":"( +5 )",
       "Seed":237,
       "LastSeed":238,
       "Current":true,
@@ -2826,6 +2843,7 @@
     {
       "Name":"Bev Edwards",
       "Rating":1270,
+      "RatingChange":"( +7 )",
       "Seed":240,
       "LastSeed":245,
       "EqualSeed":"(=2)",
@@ -3052,6 +3070,7 @@
     {
       "Name":"Joan Thomas",
       "Rating":1224,
+      "RatingChange":"( -105 )",
       "Seed":260,
       "LastSeed":212,
       "EqualSeed":"(=1)",
@@ -3334,6 +3353,7 @@
     {
       "Name":"Jenny Litchfield",
       "Rating":1179,
+      "RatingChange":"( +93 )",
       "Seed":284,
       "LastSeed":340,
       "EqualSeed":"(=1)",
@@ -3406,6 +3426,7 @@
     {
       "Name":"Suzanne Harding",
       "Rating":1166,
+      "RatingChange":"( +19 )",
       "Seed":290,
       "LastSeed":299,
       "EqualSeed":"(=1)",
@@ -3478,6 +3499,7 @@
     {
       "Name":"Malcolm Graham",
       "Rating":1158,
+      "RatingChange":"( +64 )",
       "Seed":296,
       "LastSeed":333,
       "Current":true,
@@ -4641,6 +4663,7 @@
     {
       "Name":"Antonia Aarts",
       "Rating":999,
+      "RatingChange":"( -60 )",
       "Seed":396,
       "LastSeed":355,
       "EqualSeed":"(=1)",
@@ -4756,6 +4779,7 @@
     {
       "Name":"Merelyn Fuemana",
       "Rating":983,
+      "RatingChange":"( +25 )",
       "Seed":406,
       "LastSeed":428,
       "Current":true,
@@ -4851,6 +4875,7 @@
     {
       "Name":"Julia Schiller",
       "Rating":977,
+      "RatingChange":"( +28 )",
       "Seed":414,
       "LastSeed":439,
       "Current":true,
@@ -5218,6 +5243,7 @@
     {
       "Name":"Suzanne Liddall",
       "Rating":938,
+      "RatingChange":"( +103 )",
       "Seed":446,
       "LastSeed":519,
       "Current":true,
@@ -5591,6 +5617,7 @@
     {
       "Name":"June Dowling",
       "Rating":889,
+      "RatingChange":"( +10 )",
       "Seed":478,
       "LastSeed":485,
       "EqualSeed":"(=3)",
@@ -5894,6 +5921,7 @@
     {
       "Name":"Junior Gesmundo",
       "Rating":852,
+      "RatingChange":"( -103 )",
       "Seed":504,
       "LastSeed":431,
       "Current":true,
@@ -6421,6 +6449,7 @@
     {
       "Name":"Annette Coombes",
       "Rating":794,
+      "RatingChange":"( -53 )",
       "Seed":549,
       "LastSeed":510,
       "Current":true,
@@ -6756,6 +6785,7 @@
     {
       "Name":"Janny Henneveld",
       "Rating":751,
+      "RatingChange":"( +100 )",
       "Seed":578,
       "LastSeed":645,
       "EqualSeed":"(=1)",
@@ -6901,6 +6931,7 @@
     {
       "Name":"Margaret Toso",
       "Rating":736,
+      "RatingChange":"( +31 )",
       "Seed":590,
       "LastSeed":612,
       "Current":true,
@@ -7023,6 +7054,7 @@
     {
       "Name":"Tim Henneveld",
       "Rating":722,
+      "RatingChange":"( +29 )",
       "Seed":600,
       "LastSeed":622,
       "Current":true,
@@ -7247,6 +7279,7 @@
     {
       "Name":"Ruth Godwin",
       "Rating":701,
+      "RatingChange":"( +1 )",
       "Seed":619,
       "LastSeed":617,
       "EqualSeed":"(=2)",
@@ -7466,6 +7499,7 @@
     {
       "Name":"Wendy Anastasi",
       "Rating":671,
+      "RatingChange":"( -3 )",
       "Seed":638,
       "LastSeed":635,
       "Current":true,
@@ -8799,6 +8833,7 @@
     {
       "Name":"Joan Stanners",
       "Rating":486,
+      "RatingChange":"( +76 )",
       "Seed":754,
       "LastSeed":804,
       "EqualSeed":"(=2)",
@@ -9076,6 +9111,7 @@
     {
       "Name":"Noelene Bettjeman",
       "Rating":450,
+      "RatingChange":"( -53 )",
       "Seed":778,
       "LastSeed":744,
       "EqualSeed":"(=1)",
@@ -9253,6 +9289,7 @@
     {
       "Name":"Jan Kite",
       "Rating":433,
+      "RatingChange":"( -27 )",
       "Seed":793,
       "LastSeed":774,
       "EqualSeed":"(=1)",
@@ -9477,6 +9514,7 @@
     {
       "Name":"Joyce Mowbray",
       "Rating":397,
+      "RatingChange":"( +35 )",
       "Seed":812,
       "LastSeed":827,
       "Current":true,
@@ -9593,6 +9631,7 @@
     {
       "Name":"Lynn Thompson",
       "Rating":371,
+      "RatingChange":"( -113 )",
       "Seed":822,
       "LastSeed":757,
       "Current":true,
@@ -10210,6 +10249,7 @@
     {
       "Name":"Margaret Peters",
       "Rating":268,
+      "RatingChange":"( +73 )",
       "Seed":876,
       "LastSeed":905,
       "EqualSeed":"(=2)",
@@ -11006,6 +11046,7 @@
     {
       "Name":"Susan Schiller",
       "Rating":90,
+      "RatingChange":"( -78 )",
       "Seed":945,
       "LastSeed":924,
       "Current":true,
