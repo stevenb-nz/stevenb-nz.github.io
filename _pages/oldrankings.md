@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Rankings
-list: true
-permalink: /scrabble/rankings/
-previouslink: /scrabble/oldrankings/
+oldlist: true
+permalink: /scrabble/oldrankings/
+currentlink: /scrabble/rankings/
 ---
 
-{% assign list = site.data.currentlists.List | where_exp:"item", 'item.Ranking > 0' | sort: 'Ranking' %}
+{% assign list = site.data.previouslists.List | where_exp:"item", 'item.Ranking > 0' | sort: 'Ranking' %}
 
 <table>
   <tr><th>Rank</th><th>Name</th><th>Rating</th><th class="ratingchange">Rating<br />change</th><th>Wins</th><th>Games</th><th>%</th></tr>

@@ -30,3 +30,11 @@ I have reviewed the old ratings system, recommended changes, had these changes a
 [Ratings by rating](/scrabble/ratingsbyrating/)<br>
 [Ratings by name](/scrabble/ratingsbyname/)<br>
 [All ratings](/scrabble/allratings/)<br>
+
+### links to previous rankings and ratings from the new system
+
+#### {{ site.data.previouslists.Date }}
+[Rankings](/scrabble/oldrankings/)<br>
+[Ratings by rating](/scrabble/oldratingsbyrating/)<br>
+[Ratings by name](/scrabble/oldratingsbyname/)<br>
+[All ratings](/scrabble/oldallratings/)<br>

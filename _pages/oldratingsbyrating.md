@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Ratings by rating
-list: true
-permalink: /scrabble/ratingsbyrating/
-previouslink: /scrabble/oldratingsbyrating/
+oldlist: true
+permalink: /scrabble/oldratingsbyrating/
+currentlink: /scrabble/ratingsbyrating/
 ---
 
-{% assign list = site.data.currentlists.List | where: 'Current', true | sort: 'Seed' %}
+{% assign list = site.data.previouslists.List | where: 'Current', true | sort: 'Seed' %}
 
 <table>
   <tr><th>Rank</th><th>Name</th><th>Rating</th><th class="ratingchange">Rating<br />change</th><th>Seeding</th><th>Status</th><th>Wins</th><th>Games</th><th>%</th></tr>

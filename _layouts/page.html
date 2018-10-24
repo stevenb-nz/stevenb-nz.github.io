@@ -11,8 +11,12 @@ layout: default
 
     <div class="post-content">
       {% if page.list %}
-        <h4 class="page-title">{{ page.title }} {{ site.data.currentlists.Date }}
-  </h4>
+        <h4 class="page-title">{{ page.title }} {{ site.data.currentlists.Date }}</h4>
+        <h5>( Go to: <a href={{ page.previouslink }}>{{ page.title }} {{ site.data.previouslists.Date }}</a> )</h5>
+      {% endif %}
+      {% if page.oldlist %}
+        <h4 class="page-title">{{ page.title }} {{ site.data.previouslists.Date }}</h4>
+        <h5>( Go to: <a href={{ page.currentlink }}>{{ page.title }} {{ site.data.currentlists.Date }}</a> )</h5>
       {% endif %}
       {{ content }}
     </div>
