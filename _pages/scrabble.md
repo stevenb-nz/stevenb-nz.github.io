@@ -25,7 +25,7 @@ I have reviewed the old ratings system, recommended changes, had these changes a
 
 ### links to current rankings and ratings from the new system
 
-#### {{ site.data.allratings.Date }}
+#### {{ site.data.currentlists.Date }}
 [Rankings](/scrabble/rankings/)<br>
 [Ratings by rating](/scrabble/ratingsbyrating/)<br>
 [Ratings by name](/scrabble/ratingsbyname/)<br>
