@@ -33,7 +33,7 @@ Finished:
 
 ### Advent of Code (Ruby)
 
-[Advent of Code](http://adventofcode.com) is a series of code challenges (two related challenges each day) that have been released each day of December through to Christmas for each of the last 3 years. Here are my [rough solutions on GitHub](https://github.com/stevenb-nz/AdventOfCode2017) for last year (2017) (finished up to Day 20 of 25 before moving on to other things).
+[Advent of Code](http://adventofcode.com) is a series of code challenges (two related challenges each day) that have been released each day of December through to Christmas for each of the last 4 years. Here are my rough solutions on GitHub for last year ([2017](https://github.com/stevenb-nz/AdventOfCode2017)) (finished up to Day 20 of 25 before moving on to other things), and this year ([2018](https://github.com/stevenb-nz/AdventOfCode2018)) so far.
 
 ### codewars (Ruby, Javascript, Swift, C#, Elixir)
 
