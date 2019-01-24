@@ -21,18 +21,18 @@ permalink: /scrabble/
 [Ratings by name](/scrabble/oldratingsbyname/)<br>
 [All ratings](/scrabble/oldallratings/)<br>
 
-### implementation of changes to the ratings system for 2017
+### changes to the ratings system in 2017 and 2019
 
-I have reviewed the old ratings system, recommended changes, had these changes adopted, and implemented the new system. Here are the two reports, analysing the old system and recommending the new system; a description of the calculations that are carried out in the new system; and the code for the current implementation of the new system.
+In 2015-16, I reviewed the 1999 ratings system, recommended changes, had these changes adopted, and implemented the new system for 2017. Here are: the two reports analysing the old system and recommending the new system; and a description of the calculations that are carried out in the new system.
 
-[Interim report on the ratings system review (pdf)](/assets/pdf/interimreport_june2.pdf)<br>
-[Final report on the ratings system review (pdf)](/assets/pdf/finalreport.pdf)<br>
-[A worked example of how the new ratings system is currently implemented (pdf)](/assets/pdf/workedexample.pdf)<br>
-[Reference implementation of new ratings system (code at github)](https://github.com/stevenb-nz/nzasp-ratings)
+[Interim report on the review of the 1999 ratings system (pdf)](/assets/pdf/interimreport_june2.pdf)<br>
+[Final report on the review of the 1999 ratings system (pdf)](/assets/pdf/finalreport.pdf)<br>
+[A worked example of how the 2017 ratings system was implemented (pdf)](/assets/pdf/workedexample.pdf)
 
-### implementation of changes to the ratings system for 2019
+In late 2018 / early 2019, a group of New Zealand Scrabble players, including myself, undertook the review of the 2017 changes that I recommended in my report above. Here is: our final report; and the code for the current implementation of both 2017 and 2019 systems.
 
-A group of New Zealand Scrabble players, including myself, are undertaking the review of the 2017 changes that I recommended in my report above. At this stage it seems likely that we will be recommending further changes to the ratings system, for adoption from the beginning of 2019.
+[Final report on the review of the 2017 ratings system (pdf)](/assets/pdf/2019finalreportv2.pdf)<br>
+[Reference implementation of 2017 and 2019 ratings systems (code at github)](https://github.com/stevenb-nz/nzasp-ratings)
 
 ### Words utility program
 
