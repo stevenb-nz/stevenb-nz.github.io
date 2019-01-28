@@ -29,14 +29,14 @@ In 2015-16, I reviewed the 1999 ratings system, recommended changes, had these c
 [Final report on the review of the 1999 ratings system (pdf)](/assets/pdf/finalreport.pdf)<br>
 [A worked example of how the 2017 ratings system was implemented (pdf)](/assets/pdf/workedexample.pdf)
 
-In late 2018 / early 2019, a group of New Zealand Scrabble players, including myself, undertook the review of the 2017 changes that I recommended in my report above. Here is: our final report; and the code for the current implementation of both 2017 and 2019 systems.
+In late 2018 / early 2019, a group of New Zealand Scrabble players, including myself, undertook the review of the 2017 changes that I recommended in my report above. Here is: our final report, which was adopted on 26/1/2019; and the code for the current implementation of both the 2017 and 2019 systems.
 
 [Final report on the review of the 2017 ratings system (pdf)](/assets/pdf/2019finalreportv2.pdf)<br>
 [Reference implementation of 2017 and 2019 ratings systems (code at github)](https://github.com/stevenb-nz/nzasp-ratings)
 
 ### Words utility program
 
-Anagrams, superstrings, substrings, supersets, subsets, Regular Expression search, 'Word Show' study aid, Quiz study aid, Mastermind-style word game.
+Anagrams, superstrings, substrings, supersets, subsets, Regular Expression search, 'Word Show' study aid, Quiz study aid, Mastermind-style word game. 'Judge' feature currently being implemented.
 
 [Xojo version at GitHub](https://github.com/stevenb-nz/Words)
 
