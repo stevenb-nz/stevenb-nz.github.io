@@ -9,3 +9,5 @@ According to the rules for taking part in [100 Days of Swift](https://www.hackin
 The topic for Day 4 was: loops.
 
 All good stuff.
+
+Also this day, I made a new Jekyll post template for these 100 Days of Swift posts.
