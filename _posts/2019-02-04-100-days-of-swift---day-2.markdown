@@ -2,7 +2,7 @@
 layout: post
 title:  "100 Days of Swift - Day 2"
 date:   2019-02-03 13:32:58 +1300
-categories: swift
+categories: 100daysofswift
 ---
 Day 2 (covering: arrays, dictionaries, sets, and enums) done.
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "100 Days of Swift - Day 1"
 date:   2019-02-02 17:31:23 +1300
-categories: swift
+categories: 100daysofswift
 ---
 I have just finished Day 1 of [100 Days of Swift](https://www.hackingwithswift.com/100).
 
