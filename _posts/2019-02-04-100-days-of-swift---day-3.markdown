@@ -2,7 +2,7 @@
 layout: post
 title:  "100 Days of Swift - Day 3"
 date:   2019-02-04 15:34:12 +1300
-categories: 100daysofswift
+categories: ohdos
 ---
 Finished Day 3 (which covered: operators and conditions).
 
