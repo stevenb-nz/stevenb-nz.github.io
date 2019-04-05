@@ -9,4 +9,3 @@ According to the rules for taking part in [100 Days of Swift](https://www.hackin
 The topic for Day 61 was: Project 16, Part Two.
 
 This consisted of a wrap up and review of what was learned in Project 16, and some challenges. Still working on catching up on previous days' challenges.
-
