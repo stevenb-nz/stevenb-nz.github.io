@@ -1,9 +1,0 @@
----
-layout: post
-title:
-date:   2019-04-17 16:08:52 +1200
-categories: ohdos
----
-According to the rules for taking part in [100 Days of Swift](https://www.hackingwithswift.com/100), as soon as I've finished each day, I have to post about it.
-
-
