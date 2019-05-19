@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "100 Days of Swift - Day 100"
+date:   2019-05-19 20:39:00 +1200
+categories: ohdos
+---
+According to the rules for taking part in [100 Days of Swift](https://www.hackingwithswift.com/100), as soon as I've finished each day, I have to post about it.
+
+The topic for Day 100 was: Final Exam.
+
+This consisted of 100 questions, with 70 correct required for a pass, 80 for merit, or 95 for distinction. I managed 89, so closer to distinction than a bare pass, but not so close as to be an annoying miss!
