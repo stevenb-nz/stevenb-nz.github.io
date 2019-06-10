@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Ratings system software II"
-date:  2018-02-25 02:02:56 +1300
+title:  "Ratings system software II"
+date:   2018-02-25 02:02:56 +1300
 categories: scrabble xojo
 ---
 When I made the previous post on this topic, at the end of October, the most recent commit was a stub (i.e. a menuItem with an empty function in the handler) for an export custom list facility.
