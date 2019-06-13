@@ -37,7 +37,11 @@ Finished:
 
 ### codewars (Ruby, Javascript, Swift, C#, Elixir)
 
-As of January 2018, I'm just getting started at [codewars](https://www.codewars.com). A list of the kata I have trained on (mostly Ruby so far) can be found at [my profile there](https://www.codewars.com/users/stevenb-nz).
+In January 2018, I got started at [codewars](https://www.codewars.com). A list of the kata I have trained on (mostly Ruby so far) can be found at [my profile there](https://www.codewars.com/users/stevenb-nz).
+
+### 100 Days of Swift
+
+In the first half of 2019 I took part in Paul Hudson's 100 Days of Swift, completing the final test with a Merit grade. I am now focussing on getting up to speed with the new SwiftUI framework announced at WWDC19.
 
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
