@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Apple TV 4K"
+date:   2019-06-24 22:11:43 +1200
+categories: appletv swift
+---
+So, I've replaced my 3rd-gen Apple TV with a 5th-gen model. So far, I've mostly been trying (and mostly failing) to workaround differences between the two generations of software. At some point, I'll move on to figuring out how to get something into the TVOS version of the App Store - there seems to still be some biggish gaps in what's available.
+
+One annoyance is that when airplaying music from the Mac, the elapsed and total playing-time for the track is no longer displayed as part of what is displayed instead of the TVOS screensaver - now it's just album artwork plus the track and artist names, not even an album name, let alone album track number. The closest I can get to this displaying the elapsed and total track time for the currently-playing track with the correct combination of up and down swipes, but this only lasts until the end of that track.
+
+The new (alphabetical) arrangement of subscribed shows in the podcasts app also took a bit of getting used to, but I think I'm used to it now. I'm sure there must be a way to get the onscreen keyboard for searches to display as a grid like it used to rather than a single line (I've seen it pop up on screen it that format, very briefly). The way the iPhone (if it's handy) offers to be used for search input is very handy, the version of Siri - less so. I tried to use it to search for videos on YouTube about "Core Data", and couldn't get past "cool data" - even trying to spell out C-O-R-E gave me something else again.
