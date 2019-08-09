@@ -36,7 +36,7 @@ In late 2018 / early 2019, a group of New Zealand Scrabble players, including my
 
 ### Words utility program
 
-Anagrams, superstrings, substrings, supersets, subsets, 'Judge' feature, Regular Expression search, 'Word Show' study aid, Quiz study aid, Mastermind-style word game.
+Anagrams, superstrings, substrings, supersets, subsets, 'Judge' feature, Regular Expression search, 'Word Show' study aid, Quiz study aid, Mastermind-style word game, word patterns for basic cyphers, run user-supplied XojoScript against words in DB.
 
 [Xojo version at GitHub](https://github.com/stevenb-nz/Words)
 
