@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  border for xy grids
+title:  "Border for xy grids"
 date:   2019-09-09 21:12:58 +1200
 categories: games arrays
 ---
