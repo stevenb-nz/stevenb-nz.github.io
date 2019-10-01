@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "100 Days of SwiftUI - Day 6"
-date:   2019-09-29 16:45:38 +1200
+date:   2019-09-29 16:45:38 +1300
 categories: ohdos
 ---
 According to the rules for taking part in [100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui), as soon as I've finished each day, I have to post about it.
