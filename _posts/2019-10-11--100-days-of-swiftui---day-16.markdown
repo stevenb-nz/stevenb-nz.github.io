@@ -9,4 +9,3 @@ According to the rules for taking part in [100 Days of SwiftUI](https://www.hack
 The topic for Day 16 was: Project 1, part one.
 
 This included: WeSplit: Introduction; Understanding the basic structure of a SwiftUI app; Creating a form; Adding a navigation bar; Modifying program state; Binding state to user interface controls; and Creating views in a loop.
-
