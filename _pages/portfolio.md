@@ -43,6 +43,8 @@ In January 2018, I got started at [codewars](https://www.codewars.com). A list o
 
 In the first half of 2019 I took part in Paul Hudson's 100 Days of Swift, completing the final test with a Merit grade. I am now focussing on getting up to speed with the new SwiftUI framework announced at WWDC19.
 
+![image](/assets/img/certificate.jpg)
+
 <!-- This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
