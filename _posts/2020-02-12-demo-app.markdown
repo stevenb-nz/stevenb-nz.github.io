@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Demo App
+date:   2020-02-12 23:11:13 +1300
+categories:
+---
+Quite pleased with the concept of the most recent demo app I've been working on. Enough so that I think the next step is to try reimplementing the idea on a different platform, or figuring out what would need to be adapted to work as a multi-user tool.
