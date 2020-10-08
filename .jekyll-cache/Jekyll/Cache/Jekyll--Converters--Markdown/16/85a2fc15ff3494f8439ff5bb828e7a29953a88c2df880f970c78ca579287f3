@@ -1,0 +1,2 @@
+I"0<p>Not long after the previous post, the error occurred again. It seemed that iTunes was still responding to the AppleScript instructions out of order. So, I put code in to force it to wait after each repeat loop until some condition had been met. I.e. count the tracks in “done” before the first repeat loop, then after the first repeat loop, wait until the number of tracks in “done” equalled the initial count plus the number of tracks in “copy”. And after the second repeat loop, wait until the track count of “copy” was equal to zero.</p>
+:ET

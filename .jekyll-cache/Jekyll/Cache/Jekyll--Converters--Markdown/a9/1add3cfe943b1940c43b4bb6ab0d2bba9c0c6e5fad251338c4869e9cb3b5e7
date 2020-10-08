@@ -1,0 +1,8 @@
+I"U<p>According to the rules for taking part in <a href="https://www.hackingwithswift.com/100">100 Days of Swift</a>, as soon as I’ve finished each day, I have to post about it.</p>
+
+<p>The topic for Day 46 was: Project 11, Part Two.</p>
+
+<p>This consisted of: Spinning slots: SKAction; Collision detection: SKPhysicsContactDelegate; and Scores on the board: SKLabelNode.</p>
+
+<p>Very interesting SpriteKit stuff. Trying hard not to get too distracted by wondering how different SpriteKit is in desktop (MacOS) apps, or by how I could make use of Xojo’s implementation of property observers.</p>
+:ET

@@ -1,0 +1,2 @@
+I"—<p>I was recently reminded that when coding any game where the play area is a rectangle of rows and columns, it is a good idea to represent this not as a bare x by y array, but by an x+1 by y+1 array of whatever slots, cells, or squares characterise the game in question. I.e. define the border of the play area as cells with a defined value, not as extra conditionals or potential out-of-range errors.</p>
+:ET

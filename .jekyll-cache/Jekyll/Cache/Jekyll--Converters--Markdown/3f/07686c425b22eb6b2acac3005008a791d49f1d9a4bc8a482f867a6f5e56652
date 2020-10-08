@@ -1,0 +1,2 @@
+I"�<p>I’ve started on adapting the DAG/DAWG (trie-based) data structure I used for my Scrabble analysis tool years ago, into a GADDAG. So, I’ve also been thinking about how I’ll need to change the move-generation algorithm to match.</p>
+:ET

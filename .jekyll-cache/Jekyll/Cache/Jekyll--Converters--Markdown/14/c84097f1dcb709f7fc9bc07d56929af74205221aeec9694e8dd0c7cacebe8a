@@ -1,0 +1,2 @@
+I"/<p>Back after it was first released, I tried installing Visual Studio for Mac, but persistently had a crash immediately on clicking “Continue” in response to “By continuing, you agree to the License Terms” (a ‘System.NullReferenceException’ to be precise). Clicking OK to the unhandled exception window quit the installer, and the log text in this window was not selectable or copyable. So, I couldn’t use the problem reporter in either the installer or the IDE, and couldn’t provide more than screenshots to the Developer Community page.</p>
+:ET

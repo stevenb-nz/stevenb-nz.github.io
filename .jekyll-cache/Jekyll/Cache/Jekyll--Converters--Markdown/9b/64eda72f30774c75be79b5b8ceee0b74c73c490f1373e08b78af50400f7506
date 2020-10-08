@@ -1,0 +1,2 @@
+I"<p>While trying to get a gaddag working, it has ocurred to me that if <em>all</em> the permutations of prefix and suffix are included for each work, then the new sub-tree of the gaddag that has the pivot symbol as its root can be used the same way as a stand-alone dawg would be.</p>
+:ET

@@ -1,0 +1,2 @@
+I"<p>At the first Kapiti community hackathon a couple of months ago, I started work on the idea of adding a bot to the NZ Scrabble Slack I administer that would provide ratings information. To that end, I added to my existing software implementing the ratings system, the ability to export a JSON file of all current ratings information (i.e. as at the conclusion of the immediately previous tournament). The person I was working with produced a basic API to either import or serve up this information in response to HTTP requests.</p>
+:ET

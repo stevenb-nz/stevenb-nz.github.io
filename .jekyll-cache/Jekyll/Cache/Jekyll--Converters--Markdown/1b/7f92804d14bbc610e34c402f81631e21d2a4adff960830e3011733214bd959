@@ -1,0 +1,12 @@
+I"X<p>According to the rules for taking part in <a href="https://www.hackingwithswift.com/100/swiftui">100 Days of SwiftUI</a>, as soon as I’ve finished each day, I have to post about it.</p>
+
+<p>The topic for Day 22 was: Project 2, part three.</p>
+
+<p>This included a project wrap-up, a project review, and 3 challenges. Managed to achieve all three challenges in about 15-20 minutes, so I still seem to be learning something.</p>
+
+<p>Question: why does SwiftUI render (for example): Text(“Tap the flag of”)
+as: Tap the flag…
+but renders: Text(“Tap the flag of “)
+as: Tap the flag of
+?</p>
+:ET
