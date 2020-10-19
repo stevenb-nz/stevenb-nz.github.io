@@ -6128,28 +6128,28 @@
       "PercentText":"0%"
     },
     {
+      "Name":"Junior Gesmundo",
+      "Rating":844,
+      "RatingChange":"( +92 )",
+      "Seed":521,
+      "LastSeed":585,
+      "Current":true,
+      "Ranking":104,
+      "Wins":320.5,
+      "Games":660,
+      "PercentText":"49%",
+      "Club":"Papatoetoe"
+    },
+    {
       "Name":"Sandra Cowen",
       "Rating":842,
-      "Seed":521,
+      "Seed":522,
       "LastSeed":521,
       "Current":true,
       "Wins":125.5,
       "Games":270,
       "PercentText":"46%",
       "Club":"Tauranga"
-    },
-    {
-      "Name":"Junior Gesmundo",
-      "Rating":841,
-      "RatingChange":"( +89 )",
-      "Seed":522,
-      "LastSeed":585,
-      "Current":true,
-      "Ranking":104,
-      "Wins":319.5,
-      "Games":659,
-      "PercentText":"48%",
-      "Club":"Papatoetoe"
     },
     {
       "Name":"Hanna Dodge",
@@ -11403,14 +11403,14 @@
     },
     {
       "Name":"Susan Schiller",
-      "Rating":10,
-      "RatingChange":"( -18 )",
+      "Rating":6,
+      "RatingChange":"( -22 )",
       "Seed":977,
       "LastSeed":974,
       "Current":true,
       "Ranking":136,
       "Wins":100.0,
-      "Games":533,
+      "Games":534,
       "PercentText":"19%",
       "Club":"Mt Albert"
     },
