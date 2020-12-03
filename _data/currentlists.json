@@ -4643,6 +4643,7 @@
       "Rating":1012,
       "Seed":393,
       "LastSeed":394,
+      "EqualSeed":"(=1)",
       "Status":"(hist)",
       "Current":false,
       "Wins":35.0,
@@ -4650,9 +4651,23 @@
       "PercentText":"69%"
     },
     {
+      "Name":"Kim Clifton",
+      "Rating":1012,
+      "RatingChange":"( +1,012 )",
+      "Seed":394,
+      "LastSeed":9999,
+      "EqualSeed":"(=2)",
+      "Status":"(prov)",
+      "Current":true,
+      "Wins":12.0,
+      "Games":14,
+      "PercentText":"86%",
+      "Club":"Dunedin"
+    },
+    {
       "Name":"Paula Alchin",
       "Rating":1011,
-      "Seed":394,
+      "Seed":395,
       "LastSeed":395,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4663,7 +4678,7 @@
     {
       "Name":"Leanne Field",
       "Rating":1008,
-      "Seed":395,
+      "Seed":396,
       "LastSeed":396,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -4675,7 +4690,7 @@
     {
       "Name":"Susan Olson",
       "Rating":1008,
-      "Seed":396,
+      "Seed":397,
       "LastSeed":397,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4687,7 +4702,7 @@
     {
       "Name":"Jenny Knight",
       "Rating":1007,
-      "Seed":397,
+      "Seed":398,
       "LastSeed":398,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4698,7 +4713,7 @@
     {
       "Name":"Jan Evans",
       "Rating":1005,
-      "Seed":398,
+      "Seed":399,
       "LastSeed":399,
       "Status":"(hist)",
       "Current":false,
@@ -4709,7 +4724,7 @@
     {
       "Name":"Hilda Richardson",
       "Rating":1003,
-      "Seed":399,
+      "Seed":400,
       "LastSeed":400,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4720,7 +4735,7 @@
     {
       "Name":"Christine Trubuhovich",
       "Rating":1001,
-      "Seed":400,
+      "Seed":401,
       "LastSeed":402,
       "Status":"(hist)",
       "Current":false,
@@ -4731,7 +4746,7 @@
     {
       "Name":"Jane Martingdale",
       "Rating":1000,
-      "Seed":401,
+      "Seed":402,
       "LastSeed":403,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4743,7 +4758,7 @@
     {
       "Name":"Leigh Mekalik",
       "Rating":1000,
-      "Seed":402,
+      "Seed":403,
       "LastSeed":404,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4755,7 +4770,7 @@
     {
       "Name":"Mark Wilson",
       "Rating":997,
-      "Seed":403,
+      "Seed":404,
       "LastSeed":405,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4766,7 +4781,7 @@
     {
       "Name":"Glen Madigan",
       "Rating":996,
-      "Seed":404,
+      "Seed":405,
       "LastSeed":406,
       "Status":"(hist)",
       "Current":false,
@@ -4778,7 +4793,7 @@
       "Name":"Marian Ross",
       "Rating":995,
       "RatingChange":"( -49 )",
-      "Seed":405,
+      "Seed":406,
       "LastSeed":368,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -4791,7 +4806,7 @@
     {
       "Name":"Doreen Poole",
       "Rating":995,
-      "Seed":406,
+      "Seed":407,
       "LastSeed":407,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4803,7 +4818,7 @@
     {
       "Name":"Alice O'Callahan",
       "Rating":991,
-      "Seed":407,
+      "Seed":408,
       "LastSeed":408,
       "Status":"(hist)",
       "Current":false,
@@ -4814,7 +4829,7 @@
     {
       "Name":"Martin Bardell",
       "Rating":990,
-      "Seed":408,
+      "Seed":409,
       "LastSeed":409,
       "Status":"(hist)",
       "Current":false,
@@ -4823,25 +4838,10 @@
       "PercentText":"43%"
     },
     {
-      "Name":"Kim Clifton",
-      "Rating":989,
-      "RatingChange":"( +989 )",
-      "Seed":409,
-      "LastSeed":9999,
-      "EqualSeed":"(=1)",
-      "Status":"(prov)",
-      "Current":true,
-      "Wins":12.5,
-      "Games":15,
-      "PercentText":"83%",
-      "Club":"Dunedin"
-    },
-    {
       "Name":"Kathy Solomon",
       "Rating":989,
       "Seed":410,
       "LastSeed":410,
-      "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
       "Current":false,
       "Wins":2.0,
@@ -6680,6 +6680,7 @@
       "Rating":775,
       "Seed":567,
       "LastSeed":565,
+      "EqualSeed":"(=1)",
       "Status":"(hist)",
       "Current":false,
       "Wins":9.0,
@@ -6688,14 +6689,15 @@
     },
     {
       "Name":"Phyllis Paltridge",
-      "Rating":774,
-      "RatingChange":"( +70 )",
+      "Rating":775,
+      "RatingChange":"( +71 )",
       "Seed":568,
       "LastSeed":617,
+      "EqualSeed":"(=2)",
       "Current":true,
       "Ranking":113,
-      "Wins":189.5,
-      "Games":391,
+      "Wins":189.0,
+      "Games":390,
       "PercentText":"48%",
       "Club":"Christchurch"
     },
@@ -7482,7 +7484,6 @@
       "Rating":675,
       "Seed":636,
       "LastSeed":636,
-      "EqualSeed":"(=1)",
       "Status":"(hist)",
       "Current":false,
       "Wins":48.0,
@@ -7490,23 +7491,9 @@
       "PercentText":"59%"
     },
     {
-      "Name":"Francisco Araya",
-      "Rating":675,
-      "RatingChange":"( +675 )",
-      "Seed":637,
-      "LastSeed":9999,
-      "EqualSeed":"(=2)",
-      "Status":"(prov)",
-      "Current":true,
-      "Wins":8.0,
-      "Games":15,
-      "PercentText":"53%",
-      "Club":"Dunedin"
-    },
-    {
       "Name":"Roni Sigley",
       "Rating":673,
-      "Seed":638,
+      "Seed":637,
       "LastSeed":637,
       "Status":"(hist)",
       "Current":false,
@@ -7517,7 +7504,7 @@
     {
       "Name":"Daphne Hick",
       "Rating":670,
-      "Seed":639,
+      "Seed":638,
       "LastSeed":638,
       "Status":"(hist)",
       "Current":false,
@@ -7528,7 +7515,7 @@
     {
       "Name":"Kathleen Mori-Barker",
       "Rating":669,
-      "Seed":640,
+      "Seed":639,
       "LastSeed":639,
       "Current":true,
       "Wins":433.0,
@@ -7539,7 +7526,7 @@
     {
       "Name":"Meg Hewlett",
       "Rating":668,
-      "Seed":641,
+      "Seed":640,
       "LastSeed":640,
       "Status":"(prov)",
       "Current":true,
@@ -7551,7 +7538,7 @@
     {
       "Name":"Sala Jones",
       "Rating":664,
-      "Seed":642,
+      "Seed":641,
       "LastSeed":641,
       "Current":true,
       "Wins":19.5,
@@ -7562,7 +7549,7 @@
     {
       "Name":"Judith Kuchler",
       "Rating":660,
-      "Seed":643,
+      "Seed":642,
       "LastSeed":642,
       "Status":"(hist)",
       "Current":false,
@@ -7574,7 +7561,7 @@
     {
       "Name":"Bertha Pegler",
       "Rating":658,
-      "Seed":644,
+      "Seed":643,
       "LastSeed":643,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7585,7 +7572,7 @@
     {
       "Name":"Henry Goldstein",
       "Rating":656,
-      "Seed":645,
+      "Seed":644,
       "LastSeed":644,
       "Status":"(hist)",
       "Current":false,
@@ -7596,7 +7583,7 @@
     {
       "Name":"Pam Mayall",
       "Rating":654,
-      "Seed":646,
+      "Seed":645,
       "LastSeed":645,
       "Status":"(hist)",
       "Current":false,
@@ -7607,13 +7594,28 @@
     {
       "Name":"Jeremy Talbot",
       "Rating":652,
-      "Seed":647,
+      "Seed":646,
       "LastSeed":646,
+      "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
       "Current":false,
       "Wins":3.0,
       "Games":11,
       "PercentText":"27%"
+    },
+    {
+      "Name":"Francisco Araya",
+      "Rating":652,
+      "RatingChange":"( +652 )",
+      "Seed":647,
+      "LastSeed":9999,
+      "EqualSeed":"(=2)",
+      "Status":"(prov)",
+      "Current":true,
+      "Wins":7.0,
+      "Games":13,
+      "PercentText":"54%",
+      "Club":"Dunedin"
     },
     {
       "Name":"Marilyn Sinclair",
