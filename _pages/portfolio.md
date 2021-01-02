@@ -29,9 +29,9 @@ Finished:
 
 [Xojo version at GitHub](https://github.com/stevenb-nz/word-clock-xojo)
 
-### Advent of Code (Ruby)
+### Advent of Code (Ruby, Swift)
 
-[Advent of Code](http://adventofcode.com) is a series of code challenges (two related challenges each day) that have been released each day of December through to Christmas for each of the last 4 years. Here are my rough solutions on GitHub for last year ([2017](https://github.com/stevenb-nz/AdventOfCode2017)) (finished up to Day 20 of 25 before moving on to other things), and this year ([2018](https://github.com/stevenb-nz/AdventOfCode2018)) so far.
+[Advent of Code](http://adventofcode.com) is a series of code challenges (two related challenges each day) that have been released each day of December through to Christmas for each of the last 4 years. Here are my rough solutions on GitHub for ([2017](https://github.com/stevenb-nz/AdventOfCode2017)), ([2018](https://github.com/stevenb-nz/AdventOfCode2018)), ([2019](https://github.com/stevenb-nz/AdventOfCode2019)), and ([2020](https://github.com/stevenb-nz/AdventOfCode2020)).
 
 ### codewars (Ruby, Javascript, Swift, C#, Elixir)
 
