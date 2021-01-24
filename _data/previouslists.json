@@ -1,11 +1,10 @@
 {
-  "Date":"as at Sunday, 6 December 2020",
+  "Date":"as at Thursday, 31 December 2020",
   "List":[
     {
       "Name":"Alastair Richards",
       "LifetimeAward":"(GM)",
       "Rating":2393,
-      "RatingChange":"( -1 )",
       "Seed":1,
       "LastSeed":1,
       "Current":true,
@@ -32,7 +31,6 @@
       "Name":"Lyres Freeth",
       "LifetimeAward":"(GM)",
       "Rating":2184,
-      "RatingChange":"( +15 )",
       "Seed":3,
       "LastSeed":3,
       "Current":true,
@@ -168,7 +166,6 @@
       "Name":"Andrew Bradley",
       "LifetimeAward":"(GM)",
       "Rating":2029,
-      "RatingChange":"( +16 )",
       "Seed":14,
       "LastSeed":15,
       "Current":true,
@@ -225,6 +222,7 @@
     },
     {
       "Name":"Stanley Ngundi",
+      "LifetimeAward":"(GM)",
       "Rating":1969,
       "Seed":19,
       "LastSeed":19,
@@ -382,7 +380,6 @@
       "Name":"Cicely Bruce",
       "LifetimeAward":"(GM)",
       "Rating":1883,
-      "RatingChange":"( -12 )",
       "Seed":32,
       "LastSeed":28,
       "Current":true,
@@ -470,7 +467,6 @@
       "Name":"John Foster",
       "LifetimeAward":"(GM)",
       "Rating":1825,
-      "RatingChange":"( -38 )",
       "Seed":39,
       "LastSeed":35,
       "EqualSeed":"(=1)",
@@ -693,7 +689,6 @@
       "Name":"Liz Fagerlund",
       "LifetimeAward":"(GM)",
       "Rating":1770,
-      "RatingChange":"( +15 )",
       "Seed":58,
       "LastSeed":63,
       "Current":true,
@@ -888,7 +883,6 @@
       "Name":"Val Mills",
       "LifetimeAward":"(E)",
       "Rating":1700,
-      "RatingChange":"( +24 )",
       "Seed":74,
       "LastSeed":82,
       "Current":true,
@@ -1084,7 +1078,6 @@
     {
       "Name":"Delcie Macbeth",
       "Rating":1635,
-      "RatingChange":"( +114 )",
       "Seed":91,
       "LastSeed":132,
       "Current":true,
@@ -1272,7 +1265,6 @@
     {
       "Name":"Lynn Wood",
       "Rating":1586,
-      "RatingChange":"( -19 )",
       "Seed":107,
       "LastSeed":100,
       "Current":true,
@@ -1386,7 +1378,6 @@
     {
       "Name":"Margie Hurly",
       "Rating":1554,
-      "RatingChange":"( -37 )",
       "Seed":117,
       "LastSeed":106,
       "EqualSeed":"(=1)",
@@ -1746,7 +1737,6 @@
     {
       "Name":"Jason Simpson",
       "Rating":1481,
-      "RatingChange":"( +54 )",
       "Seed":148,
       "LastSeed":164,
       "Current":true,
@@ -1845,7 +1835,6 @@
     {
       "Name":"Roger Coates",
       "Rating":1453,
-      "RatingChange":"( -62 )",
       "Seed":156,
       "LastSeed":135,
       "Current":true,
@@ -1858,7 +1847,6 @@
     {
       "Name":"Lorraine Van Veen",
       "Rating":1445,
-      "RatingChange":"( -60 )",
       "Seed":157,
       "LastSeed":139,
       "EqualSeed":"(=1)",
@@ -2004,7 +1992,6 @@
     {
       "Name":"Mary Curtis",
       "Rating":1419,
-      "RatingChange":"( +98 )",
       "Seed":169,
       "LastSeed":214,
       "Current":true,
@@ -2125,7 +2112,6 @@
     {
       "Name":"Karl Scherer",
       "Rating":1397,
-      "RatingChange":"( -12 )",
       "Seed":179,
       "LastSeed":174,
       "EqualSeed":"(=1)",
@@ -2223,7 +2209,6 @@
     {
       "Name":"Lynn Carter",
       "Rating":1384,
-      "RatingChange":"( +39 )",
       "Seed":187,
       "LastSeed":206,
       "Current":true,
@@ -2840,7 +2825,6 @@
     {
       "Name":"Betty Eriksen",
       "Rating":1280,
-      "RatingChange":"( +15 )",
       "Seed":239,
       "LastSeed":248,
       "EqualSeed":"(=2)",
@@ -3141,7 +3125,6 @@
     {
       "Name":"Merelyn Fuemana",
       "Rating":1226,
-      "RatingChange":"( +2 )",
       "Seed":265,
       "LastSeed":267,
       "Current":true,
@@ -3257,7 +3240,6 @@
     {
       "Name":"Su Walker",
       "Rating":1209,
-      "RatingChange":"( -66 )",
       "Seed":275,
       "LastSeed":240,
       "Current":true,
@@ -3803,7 +3785,6 @@
     {
       "Name":"Suzanne Liddall",
       "Rating":1120,
-      "RatingChange":"( +17 )",
       "Seed":322,
       "LastSeed":331,
       "EqualSeed":"(=1)",
@@ -3885,7 +3866,6 @@
     {
       "Name":"Megan Scherer",
       "Rating":1104,
-      "RatingChange":"( -18 )",
       "Seed":329,
       "LastSeed":323,
       "Current":true,
@@ -3971,7 +3951,6 @@
     {
       "Name":"Bernie Jardine",
       "Rating":1096,
-      "RatingChange":"( -95 )",
       "Seed":336,
       "LastSeed":285,
       "Current":true,
@@ -4301,7 +4280,6 @@
     {
       "Name":"Glenda Geard",
       "Rating":1052,
-      "RatingChange":"( -40 )",
       "Seed":364,
       "LastSeed":341,
       "EqualSeed":"(=1)",
@@ -4898,7 +4876,6 @@
     {
       "Name":"Junior Gesmundo",
       "Rating":982,
-      "RatingChange":"( +138 )",
       "Seed":415,
       "LastSeed":524,
       "EqualSeed":"(=2)",
@@ -6177,7 +6154,6 @@
     {
       "Name":"Cathy Casey",
       "Rating":838,
-      "RatingChange":"( -40 )",
       "Seed":525,
       "LastSeed":493,
       "EqualSeed":"(=1)",
@@ -6310,7 +6286,6 @@
     {
       "Name":"Rodney Jardine",
       "Rating":826,
-      "RatingChange":"( +17 )",
       "Seed":536,
       "LastSeed":547,
       "EqualSeed":"(=2)",
@@ -7966,7 +7941,6 @@
     {
       "Name":"Awhina Taikato",
       "Rating":612,
-      "RatingChange":"( -67 )",
       "Seed":678,
       "LastSeed":631,
       "Current":true,
@@ -10286,7 +10260,6 @@
     {
       "Name":"Jackie Reid",
       "Rating":292,
-      "RatingChange":"( -7 )",
       "Seed":880,
       "LastSeed":879,
       "Current":true,
