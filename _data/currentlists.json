@@ -2248,18 +2248,18 @@
       "Club":"Independent"
     },
     {
-      "Name":"Bernie Jardine",
+      "Name":"Ruth Groffman",
       "Rating":1383,
       "RatingChange":"( -18 )",
       "Seed":188,
-      "LastSeed":177,
+      "LastSeed":176,
       "EqualSeed":"(=1)",
       "Current":true,
       "Ranking":61,
-      "Wins":328.0,
-      "Games":609,
-      "PercentText":"54%",
-      "Club":"Mt Albert"
+      "Wins":781.0,
+      "Games":1571,
+      "PercentText":"50%",
+      "Club":"Dunedin"
     },
     {
       "Name":"Denise Le Bron",
@@ -2480,17 +2480,17 @@
       "PercentText":"36%"
     },
     {
-      "Name":"Ruth Groffman",
+      "Name":"Bernie Jardine",
       "Rating":1359,
       "RatingChange":"( -42 )",
       "Seed":207,
-      "LastSeed":176,
+      "LastSeed":177,
       "Current":true,
       "Ranking":68,
-      "Wins":780.0,
-      "Games":1571,
-      "PercentText":"50%",
-      "Club":"Dunedin"
+      "Wins":327.0,
+      "Games":609,
+      "PercentText":"54%",
+      "Club":"Mt Albert"
     },
     {
       "Name":"Andrew Coombes",
