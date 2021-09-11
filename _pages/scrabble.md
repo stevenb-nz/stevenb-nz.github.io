@@ -9,7 +9,7 @@ permalink: /scrabble/
 
 #### {{ site.data.currentlists.Date }}
 [Rankings](/scrabble/rankings/)<br>
-[Ratings by rating](/scrabble/ratingsbyrating/)<br>
+[Ratings by position](/scrabble/ratingsbyposition/)<br>
 [Ratings by name](/scrabble/ratingsbyname/)<br>
 [All ratings](/scrabble/allratings/)<br>
 
@@ -17,7 +17,7 @@ permalink: /scrabble/
 
 #### {{ site.data.previouslists.Date }}
 [Rankings](/scrabble/oldrankings/)<br>
-[Ratings by rating](/scrabble/oldratingsbyrating/)<br>
+[Ratings by position](/scrabble/oldratingsbyposition/)<br>
 [Ratings by name](/scrabble/oldratingsbyname/)<br>
 [All ratings](/scrabble/oldallratings/)<br>
 

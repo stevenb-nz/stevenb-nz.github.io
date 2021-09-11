@@ -6,7 +6,7 @@ permalink: /scrabble/allratings/
 previouslink: /scrabble/oldallratings/
 ---
 
-{% assign list = site.data.currentlists.List | sort: 'Name' %}
+{% assign list = site.data.currentlists.List | sort: 'Seed' %}
 
 <table>
   <tr><th>Name</th><th>Rating</th><th>Seeding</th><th>Status</th><th>Wins</th><th>Games</th><th>%</th></tr>
