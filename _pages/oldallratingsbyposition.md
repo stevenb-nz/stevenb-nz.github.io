@@ -1,9 +1,9 @@
 ---
 layout: page
-title: All Ratings
+title: All Ratings by position
 oldlist: true
-permalink: /scrabble/oldallratings/
-currentlink: /scrabble/allratings/
+permalink: /scrabble/oldallratingsbyposition/
+currentlink: /scrabble/allratingsbyposition/
 ---
 
 {% assign list = site.data.previouslists.List | sort: 'Seed' %}

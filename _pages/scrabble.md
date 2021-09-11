@@ -11,7 +11,8 @@ permalink: /scrabble/
 [Rankings](/scrabble/rankings/)<br>
 [Ratings by position](/scrabble/ratingsbyposition/)<br>
 [Ratings by name](/scrabble/ratingsbyname/)<br>
-[All ratings](/scrabble/allratings/)<br>
+[All ratings by position](/scrabble/allratingsbyposition/)<br>
+[All ratings by name](/scrabble/allratingsbyname/)<br>
 
 ### links to previous rankings and ratings from the new system
 
@@ -19,7 +20,8 @@ permalink: /scrabble/
 [Rankings](/scrabble/oldrankings/)<br>
 [Ratings by position](/scrabble/oldratingsbyposition/)<br>
 [Ratings by name](/scrabble/oldratingsbyname/)<br>
-[All ratings](/scrabble/oldallratings/)<br>
+[All ratings by position](/scrabble/oldallratingsbyposition/)<br>
+[All ratings by name](/scrabble/oldallratingsbyname/)<br>
 
 ### changes to the ratings system in 2017 and 2019
 
