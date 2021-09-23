@@ -8,18 +8,12 @@ permalink: /scrabble/
 ### links to current rankings and ratings from the new system
 
 #### {{ site.data.currentlists.Date }}
-[Rankings](/scrabble/rankings/)<br>
-[Ratings by position](/scrabble/ratingsbyposition/)<br>
-[Ratings by name](/scrabble/ratingsbyname/)<br>
 [All ratings by position](/scrabble/allratingsbyposition/)<br>
 [All ratings by name](/scrabble/allratingsbyname/)<br>
 
 ### links to previous rankings and ratings from the new system
 
 #### {{ site.data.previouslists.Date }}
-[Rankings](/scrabble/oldrankings/)<br>
-[Ratings by position](/scrabble/oldratingsbyposition/)<br>
-[Ratings by name](/scrabble/oldratingsbyname/)<br>
 [All ratings by position](/scrabble/oldallratingsbyposition/)<br>
 [All ratings by name](/scrabble/oldallratingsbyname/)<br>
 
