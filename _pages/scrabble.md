@@ -5,17 +5,19 @@ nav: true
 permalink: /scrabble/
 ---
 
-### links to current rankings and ratings from the new system
+### links to current ratings from the new system
 
 #### {{ site.data.currentlists.Date }}
-[All ratings by position](/scrabble/allratingsbyposition/)<br>
 [All ratings by name](/scrabble/allratingsbyname/)<br>
+[All ratings by position](/scrabble/allratingsbyposition/)<br>
+[Ratings for Elixs](/scrabble/ratingsforelixs/)<br>
 
-### links to previous rankings and ratings from the new system
+### links to previous ratings from the new system
 
 #### {{ site.data.previouslists.Date }}
-[All ratings by position](/scrabble/oldallratingsbyposition/)<br>
 [All ratings by name](/scrabble/oldallratingsbyname/)<br>
+[All ratings by position](/scrabble/oldallratingsbyposition/)<br>
+[Old ratings for Elixs](/scrabble/oldratingsforelixs/)<br>
 
 ### changes to the ratings system in 2017 and 2019
 
