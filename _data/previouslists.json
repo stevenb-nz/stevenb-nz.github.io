@@ -1799,23 +1799,10 @@
       "Club":"Mt Albert"
     },
     {
-      "Name":"Anne Warner",
-      "Rating":1479,
-      "Seed":152,
-      "LastSeed":153,
-      "EqualSeed":"(=1)",
-      "Status":"(hist)",
-      "Current":false,
-      "Wins":333.0,
-      "Games":641,
-      "PercentText":"52%"
-    },
-    {
       "Name":"Kaye Bland",
       "Rating":1479,
-      "Seed":153,
+      "Seed":152,
       "LastSeed":154,
-      "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
       "Current":false,
       "Wins":12.0,
@@ -1825,7 +1812,7 @@
     {
       "Name":"Roger Coates",
       "Rating":1476,
-      "Seed":154,
+      "Seed":153,
       "LastSeed":155,
       "Current":true,
       "Ranking":50,
@@ -1837,7 +1824,7 @@
     {
       "Name":"Jyoti Chandna",
       "Rating":1473,
-      "Seed":155,
+      "Seed":154,
       "LastSeed":156,
       "Status":"(prov/hist)",
       "Current":false,
@@ -1849,7 +1836,7 @@
     {
       "Name":"Stan Gregec",
       "Rating":1472,
-      "Seed":156,
+      "Seed":155,
       "LastSeed":157,
       "Current":true,
       "Ranking":51,
@@ -1862,7 +1849,7 @@
       "Name":"Allie Quinn",
       "Rating":1453,
       "RatingChange":"( -27 )",
-      "Seed":157,
+      "Seed":156,
       "LastSeed":151,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -1874,7 +1861,7 @@
     {
       "Name":"Yvette Hewlett",
       "Rating":1453,
-      "Seed":158,
+      "Seed":157,
       "LastSeed":159,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -1887,7 +1874,7 @@
     {
       "Name":"Stan Skinner",
       "Rating":1443,
-      "Seed":159,
+      "Seed":158,
       "LastSeed":160,
       "Status":"(hist)",
       "Current":false,
@@ -1899,7 +1886,7 @@
     {
       "Name":"Ruth Lilian",
       "Rating":1438,
-      "Seed":160,
+      "Seed":159,
       "LastSeed":161,
       "Status":"(hist)",
       "Current":false,
@@ -1911,7 +1898,7 @@
     {
       "Name":"Maree Hunt",
       "Rating":1436,
-      "Seed":161,
+      "Seed":160,
       "LastSeed":162,
       "Status":"(hist)",
       "Current":false,
@@ -1922,7 +1909,7 @@
     {
       "Name":"Paul Freeman",
       "Rating":1434,
-      "Seed":162,
+      "Seed":161,
       "LastSeed":163,
       "Current":true,
       "Ranking":53,
@@ -1935,7 +1922,7 @@
       "Name":"Anne Goldstein",
       "Rating":1432,
       "RatingChange":"( -61 )",
-      "Seed":163,
+      "Seed":162,
       "LastSeed":147,
       "Current":true,
       "Ranking":54,
@@ -1947,7 +1934,7 @@
     {
       "Name":"Penny Dold",
       "Rating":1429,
-      "Seed":164,
+      "Seed":163,
       "LastSeed":164,
       "Status":"(prov/hist)",
       "Current":false,
@@ -1958,7 +1945,7 @@
     {
       "Name":"Julie Atkinson",
       "Rating":1427,
-      "Seed":165,
+      "Seed":164,
       "LastSeed":165,
       "Status":"(hist)",
       "Current":false,
@@ -1970,7 +1957,7 @@
     {
       "Name":"Richard Solomon",
       "Rating":1421,
-      "Seed":166,
+      "Seed":165,
       "LastSeed":166,
       "Status":"(prov/hist)",
       "Current":false,
@@ -1981,7 +1968,7 @@
     {
       "Name":"Mary Morgan",
       "Rating":1416,
-      "Seed":167,
+      "Seed":166,
       "LastSeed":168,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -1993,7 +1980,7 @@
     {
       "Name":"Martin Waterworth",
       "Rating":1416,
-      "Seed":168,
+      "Seed":167,
       "LastSeed":169,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -2006,7 +1993,7 @@
     {
       "Name":"Marj Batchelor",
       "Rating":1412,
-      "Seed":169,
+      "Seed":168,
       "LastSeed":170,
       "Status":"(hist)",
       "Current":false,
@@ -2017,7 +2004,7 @@
     {
       "Name":"Arnold Appelhof",
       "Rating":1409,
-      "Seed":170,
+      "Seed":169,
       "LastSeed":171,
       "Status":"(hist)",
       "Current":false,
@@ -2029,7 +2016,7 @@
     {
       "Name":"Isabel Zyp",
       "Rating":1407,
-      "Seed":171,
+      "Seed":170,
       "LastSeed":172,
       "Status":"(hist)",
       "Current":false,
@@ -2040,7 +2027,7 @@
     {
       "Name":"Lorraine Van Veen",
       "Rating":1402,
-      "Seed":172,
+      "Seed":171,
       "LastSeed":174,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2053,7 +2040,7 @@
     {
       "Name":"Mike Currie",
       "Rating":1402,
-      "Seed":173,
+      "Seed":172,
       "LastSeed":175,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2065,7 +2052,7 @@
     {
       "Name":"Maureen Holliday",
       "Rating":1398,
-      "Seed":174,
+      "Seed":173,
       "LastSeed":176,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2077,7 +2064,7 @@
     {
       "Name":"Jo Jackson",
       "Rating":1398,
-      "Seed":175,
+      "Seed":174,
       "LastSeed":177,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -2090,7 +2077,7 @@
       "Name":"Bev Edwards",
       "Rating":1397,
       "RatingChange":"( -22 )",
-      "Seed":176,
+      "Seed":175,
       "LastSeed":167,
       "Current":true,
       "Ranking":56,
@@ -2102,7 +2089,7 @@
     {
       "Name":"Cathy Woods",
       "Rating":1395,
-      "Seed":177,
+      "Seed":176,
       "LastSeed":178,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2114,7 +2101,7 @@
     {
       "Name":"Trish Reynolds",
       "Rating":1395,
-      "Seed":178,
+      "Seed":177,
       "LastSeed":179,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -2126,7 +2113,7 @@
     {
       "Name":"Yoon Kim Fong",
       "Rating":1393,
-      "Seed":179,
+      "Seed":178,
       "LastSeed":180,
       "Current":true,
       "Ranking":57,
@@ -2138,7 +2125,7 @@
     {
       "Name":"Mary Gray",
       "Rating":1391,
-      "Seed":180,
+      "Seed":179,
       "LastSeed":181,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2151,7 +2138,7 @@
     {
       "Name":"Clare Wall",
       "Rating":1391,
-      "Seed":181,
+      "Seed":180,
       "LastSeed":182,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2164,7 +2151,7 @@
     {
       "Name":"Bill Grigg",
       "Rating":1390,
-      "Seed":182,
+      "Seed":181,
       "LastSeed":183,
       "Status":"(hist)",
       "Current":false,
@@ -2175,7 +2162,7 @@
     {
       "Name":"Bernard Flower",
       "Rating":1389,
-      "Seed":183,
+      "Seed":182,
       "LastSeed":184,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2187,7 +2174,7 @@
     {
       "Name":"John Ozag",
       "Rating":1389,
-      "Seed":184,
+      "Seed":183,
       "LastSeed":185,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -2200,7 +2187,7 @@
     {
       "Name":"Anne Stewart",
       "Rating":1388,
-      "Seed":185,
+      "Seed":184,
       "LastSeed":186,
       "Status":"(hist)",
       "Current":false,
@@ -2211,7 +2198,7 @@
     {
       "Name":"Denise Le Bron",
       "Rating":1383,
-      "Seed":186,
+      "Seed":185,
       "LastSeed":187,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2222,7 +2209,7 @@
     {
       "Name":"Stewart Fleming",
       "Rating":1382,
-      "Seed":187,
+      "Seed":186,
       "LastSeed":188,
       "Status":"(hist)",
       "Current":false,
@@ -2233,7 +2220,7 @@
     {
       "Name":"Mary Curtis",
       "Rating":1379,
-      "Seed":188,
+      "Seed":187,
       "LastSeed":189,
       "Current":true,
       "Ranking":60,
@@ -2245,7 +2232,7 @@
     {
       "Name":"Ella Rushton",
       "Rating":1377,
-      "Seed":189,
+      "Seed":188,
       "LastSeed":191,
       "Status":"(hist)",
       "Current":false,
@@ -2256,7 +2243,7 @@
     {
       "Name":"Peter Bauer",
       "Rating":1375,
-      "Seed":190,
+      "Seed":189,
       "LastSeed":192,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2268,7 +2255,7 @@
     {
       "Name":"Mary Carr",
       "Rating":1375,
-      "Seed":191,
+      "Seed":190,
       "LastSeed":193,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -2280,7 +2267,7 @@
     {
       "Name":"Su Walker",
       "Rating":1373,
-      "Seed":192,
+      "Seed":191,
       "LastSeed":194,
       "Current":true,
       "Ranking":61,
@@ -2293,7 +2280,7 @@
       "Name":"Jenny Litchfield",
       "Rating":1368,
       "RatingChange":"( -10 )",
-      "Seed":193,
+      "Seed":192,
       "LastSeed":190,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2306,7 +2293,7 @@
     {
       "Name":"Chris Higgins",
       "Rating":1368,
-      "Seed":194,
+      "Seed":193,
       "LastSeed":195,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2319,7 +2306,7 @@
     {
       "Name":"Jeff Owens",
       "Rating":1367,
-      "Seed":195,
+      "Seed":194,
       "LastSeed":198,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2331,7 +2318,7 @@
     {
       "Name":"Nola Borrell",
       "Rating":1367,
-      "Seed":196,
+      "Seed":195,
       "LastSeed":199,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2344,7 +2331,7 @@
     {
       "Name":"Jocelyn Millar",
       "Rating":1367,
-      "Seed":197,
+      "Seed":196,
       "LastSeed":200,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -2356,7 +2343,7 @@
     {
       "Name":"Robert Springer",
       "Rating":1365,
-      "Seed":198,
+      "Seed":197,
       "LastSeed":201,
       "Status":"(hist)",
       "Current":false,
@@ -2368,7 +2355,7 @@
     {
       "Name":"Hilda Scott",
       "Rating":1362,
-      "Seed":199,
+      "Seed":198,
       "LastSeed":202,
       "Status":"(hist)",
       "Current":false,
@@ -2379,7 +2366,7 @@
     {
       "Name":"Ngaire Steel",
       "Rating":1361,
-      "Seed":200,
+      "Seed":199,
       "LastSeed":203,
       "Status":"(hist)",
       "Current":false,
@@ -2390,7 +2377,7 @@
     {
       "Name":"Penny Headington",
       "Rating":1360,
-      "Seed":201,
+      "Seed":200,
       "LastSeed":204,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2402,7 +2389,7 @@
     {
       "Name":"Anna Harraway",
       "Rating":1360,
-      "Seed":202,
+      "Seed":201,
       "LastSeed":205,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -2414,7 +2401,7 @@
     {
       "Name":"Bernie Jardine",
       "Rating":1359,
-      "Seed":203,
+      "Seed":202,
       "LastSeed":206,
       "Current":true,
       "Ranking":65,
@@ -2427,7 +2414,7 @@
       "Name":"Jean O'Brien",
       "Rating":1357,
       "RatingChange":"( -11 )",
-      "Seed":204,
+      "Seed":203,
       "LastSeed":196,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2441,7 +2428,7 @@
       "Name":"Shirley Hol",
       "Rating":1357,
       "RatingChange":"( +68 )",
-      "Seed":205,
+      "Seed":204,
       "LastSeed":230,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2454,7 +2441,7 @@
     {
       "Name":"Andrew Coombes",
       "Rating":1353,
-      "Seed":206,
+      "Seed":205,
       "LastSeed":207,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2466,7 +2453,7 @@
     {
       "Name":"Jena Yousif",
       "Rating":1353,
-      "Seed":207,
+      "Seed":206,
       "LastSeed":208,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2479,7 +2466,7 @@
     {
       "Name":"Joyce Bourdot",
       "Rating":1353,
-      "Seed":208,
+      "Seed":207,
       "LastSeed":209,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -2491,7 +2478,7 @@
     {
       "Name":"Keri Heart",
       "Rating":1350,
-      "Seed":209,
+      "Seed":208,
       "LastSeed":210,
       "Status":"(hist)",
       "Current":false,
@@ -2504,7 +2491,7 @@
       "Name":"Carolyn Kyle",
       "Rating":1346,
       "RatingChange":"( -60 )",
-      "Seed":210,
+      "Seed":209,
       "LastSeed":173,
       "Current":true,
       "Ranking":69,
@@ -2517,7 +2504,7 @@
       "Name":"Ruth Groffman",
       "Rating":1344,
       "RatingChange":"( +15 )",
-      "Seed":211,
+      "Seed":210,
       "LastSeed":215,
       "Current":true,
       "Ranking":70,
@@ -2529,7 +2516,7 @@
     {
       "Name":"Lynn Carter",
       "Rating":1343,
-      "Seed":212,
+      "Seed":211,
       "LastSeed":211,
       "Current":true,
       "Ranking":71,
@@ -2541,7 +2528,7 @@
     {
       "Name":"Shirley Bolton",
       "Rating":1341,
-      "Seed":213,
+      "Seed":212,
       "LastSeed":212,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2552,7 +2539,7 @@
     {
       "Name":"Margaret Simpson",
       "Rating":1338,
-      "Seed":214,
+      "Seed":213,
       "LastSeed":213,
       "Status":"(hist)",
       "Current":false,
@@ -2563,7 +2550,7 @@
     {
       "Name":"Philip Spring",
       "Rating":1332,
-      "Seed":215,
+      "Seed":214,
       "LastSeed":214,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2576,7 +2563,7 @@
       "Name":"Betty Eriksen",
       "Rating":1332,
       "RatingChange":"( -36 )",
-      "Seed":216,
+      "Seed":215,
       "LastSeed":197,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2589,7 +2576,7 @@
     {
       "Name":"Barney Bonthron",
       "Rating":1328,
-      "Seed":217,
+      "Seed":216,
       "LastSeed":216,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2602,7 +2589,7 @@
     {
       "Name":"Chris Bell",
       "Rating":1328,
-      "Seed":218,
+      "Seed":217,
       "LastSeed":217,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2615,7 +2602,7 @@
     {
       "Name":"Ruth O'Neill",
       "Rating":1323,
-      "Seed":219,
+      "Seed":218,
       "LastSeed":218,
       "Status":"(hist)",
       "Current":false,
@@ -2626,7 +2613,7 @@
     {
       "Name":"Leila Thomson",
       "Rating":1322,
-      "Seed":220,
+      "Seed":219,
       "LastSeed":219,
       "Current":true,
       "Ranking":75,
@@ -2638,7 +2625,7 @@
     {
       "Name":"Isobel Yorke",
       "Rating":1320,
-      "Seed":221,
+      "Seed":220,
       "LastSeed":220,
       "Status":"(hist)",
       "Current":false,
@@ -2649,7 +2636,7 @@
     {
       "Name":"Gladys Barrett",
       "Rating":1316,
-      "Seed":222,
+      "Seed":221,
       "LastSeed":221,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2660,7 +2647,7 @@
     {
       "Name":"Jenny Sattler",
       "Rating":1313,
-      "Seed":223,
+      "Seed":222,
       "LastSeed":222,
       "Status":"(hist)",
       "Current":false,
@@ -2671,7 +2658,7 @@
     {
       "Name":"Veronica Middleton",
       "Rating":1304,
-      "Seed":224,
+      "Seed":223,
       "LastSeed":223,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -2683,7 +2670,7 @@
     {
       "Name":"Christiane McCann",
       "Rating":1304,
-      "Seed":225,
+      "Seed":224,
       "LastSeed":224,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -2696,7 +2683,7 @@
     {
       "Name":"Selena Chan",
       "Rating":1303,
-      "Seed":226,
+      "Seed":225,
       "LastSeed":225,
       "Current":true,
       "Ranking":76,
@@ -2708,7 +2695,7 @@
     {
       "Name":"June Keightley",
       "Rating":1297,
-      "Seed":227,
+      "Seed":226,
       "LastSeed":226,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2719,7 +2706,7 @@
     {
       "Name":"Jo Logan",
       "Rating":1294,
-      "Seed":228,
+      "Seed":227,
       "LastSeed":227,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -2731,7 +2718,7 @@
     {
       "Name":"Bill Woods",
       "Rating":1294,
-      "Seed":229,
+      "Seed":228,
       "LastSeed":228,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -2743,7 +2730,7 @@
     {
       "Name":"Joan Osborne",
       "Rating":1291,
-      "Seed":230,
+      "Seed":229,
       "LastSeed":229,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2754,7 +2741,7 @@
     {
       "Name":"Joan Thomas",
       "Rating":1289,
-      "Seed":231,
+      "Seed":230,
       "LastSeed":231,
       "Status":"(hist)",
       "Current":false,
@@ -2766,7 +2753,7 @@
     {
       "Name":"Peter Caukwell",
       "Rating":1285,
-      "Seed":232,
+      "Seed":231,
       "LastSeed":232,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2777,7 +2764,7 @@
     {
       "Name":"Anne Hough",
       "Rating":1282,
-      "Seed":233,
+      "Seed":232,
       "LastSeed":233,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2790,7 +2777,7 @@
     {
       "Name":"Robyn Slater",
       "Rating":1282,
-      "Seed":234,
+      "Seed":233,
       "LastSeed":234,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -2802,7 +2789,7 @@
     {
       "Name":"Paula Messer",
       "Rating":1280,
-      "Seed":235,
+      "Seed":234,
       "LastSeed":235,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2814,7 +2801,7 @@
     {
       "Name":"Minuri Undugodage",
       "Rating":1277,
-      "Seed":236,
+      "Seed":235,
       "LastSeed":236,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2826,7 +2813,7 @@
     {
       "Name":"Sharon Sorensen",
       "Rating":1277,
-      "Seed":237,
+      "Seed":236,
       "LastSeed":237,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -2839,7 +2826,7 @@
     {
       "Name":"Julie Maggs",
       "Rating":1271,
-      "Seed":238,
+      "Seed":237,
       "LastSeed":238,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2850,7 +2837,7 @@
     {
       "Name":"Roger French",
       "Rating":1270,
-      "Seed":239,
+      "Seed":238,
       "LastSeed":239,
       "Status":"(hist)",
       "Current":false,
@@ -2861,7 +2848,7 @@
     {
       "Name":"Phyl Wilson",
       "Rating":1269,
-      "Seed":240,
+      "Seed":239,
       "LastSeed":240,
       "Status":"(hist)",
       "Current":false,
@@ -2872,7 +2859,7 @@
     {
       "Name":"Hilary Ruscoe",
       "Rating":1267,
-      "Seed":241,
+      "Seed":240,
       "LastSeed":241,
       "Status":"(hist)",
       "Current":false,
@@ -2883,7 +2870,7 @@
     {
       "Name":"Robert Jones",
       "Rating":1266,
-      "Seed":242,
+      "Seed":241,
       "LastSeed":242,
       "Status":"(hist)",
       "Current":false,
@@ -2894,7 +2881,7 @@
     {
       "Name":"Doreen O'Shea",
       "Rating":1265,
-      "Seed":243,
+      "Seed":242,
       "LastSeed":243,
       "Status":"(hist)",
       "Current":false,
@@ -2905,7 +2892,7 @@
     {
       "Name":"Karen Miller",
       "Rating":1257,
-      "Seed":244,
+      "Seed":243,
       "LastSeed":244,
       "Current":true,
       "Ranking":77,
@@ -2917,7 +2904,7 @@
     {
       "Name":"Heather Simons",
       "Rating":1252,
-      "Seed":245,
+      "Seed":244,
       "LastSeed":245,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2929,7 +2916,7 @@
     {
       "Name":"Val Flint",
       "Rating":1252,
-      "Seed":246,
+      "Seed":245,
       "LastSeed":246,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -2941,7 +2928,7 @@
     {
       "Name":"Nancy Haaker",
       "Rating":1247,
-      "Seed":247,
+      "Seed":246,
       "LastSeed":247,
       "Status":"(prov/hist)",
       "Current":false,
@@ -2952,7 +2939,7 @@
     {
       "Name":"Dianne Cole-Baker",
       "Rating":1246,
-      "Seed":248,
+      "Seed":247,
       "LastSeed":248,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -2965,7 +2952,7 @@
     {
       "Name":"Doris Shearer",
       "Rating":1246,
-      "Seed":249,
+      "Seed":248,
       "LastSeed":249,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -2977,7 +2964,7 @@
     {
       "Name":"Jane Pemberton",
       "Rating":1244,
-      "Seed":250,
+      "Seed":249,
       "LastSeed":250,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -2989,7 +2976,7 @@
     {
       "Name":"Fran Lowe",
       "Rating":1244,
-      "Seed":251,
+      "Seed":250,
       "LastSeed":251,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -3001,7 +2988,7 @@
     {
       "Name":"Marion Bennie",
       "Rating":1243,
-      "Seed":252,
+      "Seed":251,
       "LastSeed":252,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3012,7 +2999,7 @@
     {
       "Name":"Gina Swanson",
       "Rating":1242,
-      "Seed":253,
+      "Seed":252,
       "LastSeed":253,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3023,7 +3010,7 @@
     {
       "Name":"Paul O'Connell",
       "Rating":1241,
-      "Seed":254,
+      "Seed":253,
       "LastSeed":254,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3034,7 +3021,7 @@
     {
       "Name":"Merelyn Fuemana",
       "Rating":1238,
-      "Seed":255,
+      "Seed":254,
       "LastSeed":255,
       "Current":true,
       "Ranking":79,
@@ -3046,7 +3033,7 @@
     {
       "Name":"Teresa Ferrari",
       "Rating":1236,
-      "Seed":256,
+      "Seed":255,
       "LastSeed":256,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -3058,7 +3045,7 @@
     {
       "Name":"Jean Rappitt",
       "Rating":1236,
-      "Seed":257,
+      "Seed":256,
       "LastSeed":257,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -3071,7 +3058,7 @@
     {
       "Name":"Margaret Bishop",
       "Rating":1235,
-      "Seed":258,
+      "Seed":257,
       "LastSeed":258,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3082,7 +3069,7 @@
     {
       "Name":"Barbara Dunn",
       "Rating":1231,
-      "Seed":259,
+      "Seed":258,
       "LastSeed":259,
       "Current":true,
       "Wins":383.5,
@@ -3094,7 +3081,7 @@
       "Name":"Suzanne Liddall",
       "Rating":1229,
       "RatingChange":"( +23 )",
-      "Seed":260,
+      "Seed":259,
       "LastSeed":274,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -3107,7 +3094,7 @@
     {
       "Name":"Peg Barrington",
       "Rating":1229,
-      "Seed":261,
+      "Seed":260,
       "LastSeed":260,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -3119,7 +3106,7 @@
     {
       "Name":"Katrina Allen",
       "Rating":1227,
-      "Seed":262,
+      "Seed":261,
       "LastSeed":261,
       "Status":"(hist)",
       "Current":false,
@@ -3130,7 +3117,7 @@
     {
       "Name":"Helen Corbett",
       "Rating":1224,
-      "Seed":263,
+      "Seed":262,
       "LastSeed":262,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3141,7 +3128,7 @@
     {
       "Name":"Joanne Morley",
       "Rating":1221,
-      "Seed":264,
+      "Seed":263,
       "LastSeed":263,
       "Current":true,
       "Ranking":81,
@@ -3153,7 +3140,7 @@
     {
       "Name":"George Khamis",
       "Rating":1215,
-      "Seed":265,
+      "Seed":264,
       "LastSeed":264,
       "Status":"(hist)",
       "Current":false,
@@ -3165,7 +3152,7 @@
     {
       "Name":"David Bragg",
       "Rating":1213,
-      "Seed":266,
+      "Seed":265,
       "LastSeed":265,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -3177,7 +3164,7 @@
     {
       "Name":"Norman Wheeler",
       "Rating":1213,
-      "Seed":267,
+      "Seed":266,
       "LastSeed":266,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -3189,7 +3176,7 @@
     {
       "Name":"Doreen Davies",
       "Rating":1213,
-      "Seed":268,
+      "Seed":267,
       "LastSeed":267,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -3201,7 +3188,7 @@
     {
       "Name":"Nick Higgins",
       "Rating":1212,
-      "Seed":269,
+      "Seed":268,
       "LastSeed":268,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3212,7 +3199,7 @@
     {
       "Name":"Margaret Pascoe",
       "Rating":1211,
-      "Seed":270,
+      "Seed":269,
       "LastSeed":269,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3223,7 +3210,7 @@
     {
       "Name":"Rhoda Cashman",
       "Rating":1210,
-      "Seed":271,
+      "Seed":270,
       "LastSeed":270,
       "Status":"(hist)",
       "Current":false,
@@ -3234,7 +3221,7 @@
     {
       "Name":"Heather Landon",
       "Rating":1209,
-      "Seed":272,
+      "Seed":271,
       "LastSeed":271,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -3247,7 +3234,7 @@
     {
       "Name":"Lyn Toka",
       "Rating":1209,
-      "Seed":273,
+      "Seed":272,
       "LastSeed":272,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -3260,7 +3247,7 @@
     {
       "Name":"Alison Mudie",
       "Rating":1206,
-      "Seed":274,
+      "Seed":273,
       "LastSeed":273,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3271,7 +3258,7 @@
     {
       "Name":"Reeva Pearson",
       "Rating":1204,
-      "Seed":275,
+      "Seed":274,
       "LastSeed":275,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -3283,7 +3270,7 @@
     {
       "Name":"Rob Hutchinson",
       "Rating":1204,
-      "Seed":276,
+      "Seed":275,
       "LastSeed":276,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -3296,7 +3283,7 @@
     {
       "Name":"Kate Henderson",
       "Rating":1202,
-      "Seed":277,
+      "Seed":276,
       "LastSeed":277,
       "Status":"(hist)",
       "Current":false,
@@ -3307,7 +3294,7 @@
     {
       "Name":"Joan Ball",
       "Rating":1198,
-      "Seed":278,
+      "Seed":277,
       "LastSeed":278,
       "Status":"(hist)",
       "Current":false,
@@ -3318,7 +3305,7 @@
     {
       "Name":"Marj Baillie",
       "Rating":1197,
-      "Seed":279,
+      "Seed":278,
       "LastSeed":279,
       "Status":"(hist)",
       "Current":false,
@@ -3329,7 +3316,7 @@
     {
       "Name":"Peggy Hebden",
       "Rating":1196,
-      "Seed":280,
+      "Seed":279,
       "LastSeed":280,
       "Status":"(hist)",
       "Current":false,
@@ -3340,7 +3327,7 @@
     {
       "Name":"Rachel Wilson",
       "Rating":1193,
-      "Seed":281,
+      "Seed":280,
       "LastSeed":281,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3351,7 +3338,7 @@
     {
       "Name":"Gowan Banbury",
       "Rating":1191,
-      "Seed":282,
+      "Seed":281,
       "LastSeed":282,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3364,7 +3351,7 @@
       "Name":"Joanna Fox",
       "Rating":1191,
       "RatingChange":"( +48 )",
-      "Seed":283,
+      "Seed":282,
       "LastSeed":306,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -3377,7 +3364,7 @@
     {
       "Name":"Vicki Lawn",
       "Rating":1183,
-      "Seed":284,
+      "Seed":283,
       "LastSeed":283,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3389,7 +3376,7 @@
     {
       "Name":"Mo Wetere",
       "Rating":1183,
-      "Seed":285,
+      "Seed":284,
       "LastSeed":284,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -3402,7 +3389,7 @@
     {
       "Name":"Karl Scherer",
       "Rating":1180,
-      "Seed":286,
+      "Seed":285,
       "LastSeed":285,
       "Current":true,
       "Ranking":85,
@@ -3414,7 +3401,7 @@
     {
       "Name":"Janet Thomson",
       "Rating":1179,
-      "Seed":287,
+      "Seed":286,
       "LastSeed":286,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3425,7 +3412,7 @@
     {
       "Name":"Samantha Samuels",
       "Rating":1178,
-      "Seed":288,
+      "Seed":287,
       "LastSeed":287,
       "Status":"(hist)",
       "Current":false,
@@ -3436,7 +3423,7 @@
     {
       "Name":"Noreen Barritt",
       "Rating":1173,
-      "Seed":289,
+      "Seed":288,
       "LastSeed":288,
       "Status":"(hist)",
       "Current":false,
@@ -3447,7 +3434,7 @@
     {
       "Name":"Correne James",
       "Rating":1171,
-      "Seed":290,
+      "Seed":289,
       "LastSeed":289,
       "Status":"(hist)",
       "Current":false,
@@ -3458,7 +3445,7 @@
     {
       "Name":"Marcus Henry",
       "Rating":1170,
-      "Seed":291,
+      "Seed":290,
       "LastSeed":291,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -3469,7 +3456,7 @@
     {
       "Name":"Faye Cronhelm",
       "Rating":1170,
-      "Seed":292,
+      "Seed":291,
       "LastSeed":292,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -3482,7 +3469,7 @@
     {
       "Name":"Margo Bailey",
       "Rating":1166,
-      "Seed":293,
+      "Seed":292,
       "LastSeed":293,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3493,7 +3480,7 @@
     {
       "Name":"Alastair McDougall",
       "Rating":1162,
-      "Seed":294,
+      "Seed":293,
       "LastSeed":294,
       "Status":"(hist)",
       "Current":false,
@@ -3504,7 +3491,7 @@
     {
       "Name":"May Bacon",
       "Rating":1161,
-      "Seed":295,
+      "Seed":294,
       "LastSeed":296,
       "Status":"(hist)",
       "Current":false,
@@ -3515,7 +3502,7 @@
     {
       "Name":"Corale McDonald",
       "Rating":1159,
-      "Seed":296,
+      "Seed":295,
       "LastSeed":297,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3526,7 +3513,7 @@
     {
       "Name":"Margaret Bullen",
       "Rating":1156,
-      "Seed":297,
+      "Seed":296,
       "LastSeed":298,
       "Status":"(hist)",
       "Current":false,
@@ -3538,7 +3525,7 @@
     {
       "Name":"Geoff Vautier",
       "Rating":1155,
-      "Seed":298,
+      "Seed":297,
       "LastSeed":299,
       "Status":"(hist)",
       "Current":false,
@@ -3549,7 +3536,7 @@
     {
       "Name":"Lois Kelly",
       "Rating":1153,
-      "Seed":299,
+      "Seed":298,
       "LastSeed":300,
       "Status":"(hist)",
       "Current":false,
@@ -3560,7 +3547,7 @@
     {
       "Name":"Helen Gilbert",
       "Rating":1151,
-      "Seed":300,
+      "Seed":299,
       "LastSeed":301,
       "Status":"(hist)",
       "Current":false,
@@ -3571,7 +3558,7 @@
     {
       "Name":"Elsie Malkin",
       "Rating":1150,
-      "Seed":301,
+      "Seed":300,
       "LastSeed":302,
       "Status":"(hist)",
       "Current":false,
@@ -3582,7 +3569,7 @@
     {
       "Name":"Ray Goodyear",
       "Rating":1149,
-      "Seed":302,
+      "Seed":301,
       "LastSeed":303,
       "Current":true,
       "Wins":291.5,
@@ -3593,7 +3580,7 @@
     {
       "Name":"Olga Craigie",
       "Rating":1147,
-      "Seed":303,
+      "Seed":302,
       "LastSeed":304,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3606,7 +3593,7 @@
       "Name":"Marian Ross",
       "Rating":1147,
       "RatingChange":"( -15 )",
-      "Seed":304,
+      "Seed":303,
       "LastSeed":295,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -3619,7 +3606,7 @@
     {
       "Name":"Andrea O'Connell",
       "Rating":1146,
-      "Seed":305,
+      "Seed":304,
       "LastSeed":305,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3630,7 +3617,7 @@
     {
       "Name":"Lyn Dawson",
       "Rating":1143,
-      "Seed":306,
+      "Seed":305,
       "LastSeed":307,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -3643,7 +3630,7 @@
     {
       "Name":"Vicki Moore",
       "Rating":1143,
-      "Seed":307,
+      "Seed":306,
       "LastSeed":308,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -3655,7 +3642,7 @@
     {
       "Name":"Margaret Parsons",
       "Rating":1136,
-      "Seed":308,
+      "Seed":307,
       "LastSeed":309,
       "Status":"(hist)",
       "Current":false,
@@ -3666,7 +3653,7 @@
     {
       "Name":"Jenny Garthwaite",
       "Rating":1135,
-      "Seed":309,
+      "Seed":308,
       "LastSeed":310,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3678,7 +3665,7 @@
     {
       "Name":"Megan Scherer",
       "Rating":1135,
-      "Seed":310,
+      "Seed":309,
       "LastSeed":311,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -3691,7 +3678,7 @@
     {
       "Name":"Allison Torrance",
       "Rating":1134,
-      "Seed":311,
+      "Seed":310,
       "LastSeed":312,
       "Status":"(hist)",
       "Current":false,
@@ -3703,7 +3690,7 @@
     {
       "Name":"Sunny Wright",
       "Rating":1133,
-      "Seed":312,
+      "Seed":311,
       "LastSeed":313,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3714,7 +3701,7 @@
     {
       "Name":"Malcolm McKellar",
       "Rating":1131,
-      "Seed":313,
+      "Seed":312,
       "LastSeed":314,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -3726,7 +3713,7 @@
     {
       "Name":"Margaret Cherry",
       "Rating":1131,
-      "Seed":314,
+      "Seed":313,
       "LastSeed":315,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -3739,7 +3726,7 @@
     {
       "Name":"Gwen Robb",
       "Rating":1129,
-      "Seed":315,
+      "Seed":314,
       "LastSeed":316,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3751,7 +3738,7 @@
     {
       "Name":"Johanne Patel",
       "Rating":1129,
-      "Seed":316,
+      "Seed":315,
       "LastSeed":317,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -3763,7 +3750,7 @@
     {
       "Name":"Jan Corry",
       "Rating":1129,
-      "Seed":317,
+      "Seed":316,
       "LastSeed":318,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -3775,7 +3762,7 @@
     {
       "Name":"Wyn Mitchell",
       "Rating":1128,
-      "Seed":318,
+      "Seed":317,
       "LastSeed":319,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3786,7 +3773,7 @@
     {
       "Name":"Lili Shorter",
       "Rating":1127,
-      "Seed":319,
+      "Seed":318,
       "LastSeed":320,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -3798,7 +3785,7 @@
     {
       "Name":"Carol Marshall",
       "Rating":1127,
-      "Seed":320,
+      "Seed":319,
       "LastSeed":321,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -3811,7 +3798,7 @@
       "Name":"Gabrielle Bolt",
       "Rating":1125,
       "RatingChange":"( -45 )",
-      "Seed":321,
+      "Seed":320,
       "LastSeed":290,
       "Current":true,
       "Ranking":90,
@@ -3823,7 +3810,7 @@
     {
       "Name":"Jo Ann Ingram",
       "Rating":1123,
-      "Seed":322,
+      "Seed":321,
       "LastSeed":322,
       "Current":true,
       "Wins":317.0,
@@ -3834,7 +3821,7 @@
     {
       "Name":"Jane Lawless",
       "Rating":1120,
-      "Seed":323,
+      "Seed":322,
       "LastSeed":323,
       "Status":"(hist)",
       "Current":false,
@@ -3845,7 +3832,7 @@
     {
       "Name":"Marje Hughes",
       "Rating":1118,
-      "Seed":324,
+      "Seed":323,
       "LastSeed":324,
       "Status":"(hist)",
       "Current":false,
@@ -3856,7 +3843,7 @@
     {
       "Name":"Margaret Bundock",
       "Rating":1116,
-      "Seed":325,
+      "Seed":324,
       "LastSeed":325,
       "Status":"(hist)",
       "Current":false,
@@ -3867,7 +3854,7 @@
     {
       "Name":"Shirley Wyatt",
       "Rating":1113,
-      "Seed":326,
+      "Seed":325,
       "LastSeed":326,
       "Status":"(hist)",
       "Current":false,
@@ -3878,7 +3865,7 @@
     {
       "Name":"Shirley Gifkins",
       "Rating":1111,
-      "Seed":327,
+      "Seed":326,
       "LastSeed":327,
       "Status":"(hist)",
       "Current":false,
@@ -3889,7 +3876,7 @@
     {
       "Name":"Steve Richards",
       "Rating":1103,
-      "Seed":328,
+      "Seed":327,
       "LastSeed":328,
       "Status":"(hist)",
       "Current":false,
@@ -3900,7 +3887,7 @@
     {
       "Name":"Colleen Cook",
       "Rating":1100,
-      "Seed":329,
+      "Seed":328,
       "LastSeed":329,
       "Current":true,
       "Ranking":91,
@@ -3912,7 +3899,7 @@
     {
       "Name":"Jim Monaghan",
       "Rating":1099,
-      "Seed":330,
+      "Seed":329,
       "LastSeed":330,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3924,7 +3911,7 @@
     {
       "Name":"Tracy Ivamy",
       "Rating":1099,
-      "Seed":331,
+      "Seed":330,
       "LastSeed":331,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -3936,7 +3923,7 @@
     {
       "Name":"George Autridge",
       "Rating":1098,
-      "Seed":332,
+      "Seed":331,
       "LastSeed":332,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -3948,7 +3935,7 @@
     {
       "Name":"Marja Takala",
       "Rating":1098,
-      "Seed":333,
+      "Seed":332,
       "LastSeed":333,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -3961,7 +3948,7 @@
     {
       "Name":"Hazel Drew",
       "Rating":1095,
-      "Seed":334,
+      "Seed":333,
       "LastSeed":334,
       "Status":"(hist)",
       "Current":false,
@@ -3972,7 +3959,7 @@
     {
       "Name":"Lynley Jenness",
       "Rating":1094,
-      "Seed":335,
+      "Seed":334,
       "LastSeed":335,
       "Status":"(prov/hist)",
       "Current":false,
@@ -3983,7 +3970,7 @@
     {
       "Name":"Hine Hemera",
       "Rating":1093,
-      "Seed":336,
+      "Seed":335,
       "LastSeed":336,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -3995,7 +3982,7 @@
     {
       "Name":"Lesley Flodin",
       "Rating":1093,
-      "Seed":337,
+      "Seed":336,
       "LastSeed":337,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4007,7 +3994,7 @@
     {
       "Name":"Gillian Smillie",
       "Rating":1091,
-      "Seed":338,
+      "Seed":337,
       "LastSeed":338,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4018,7 +4005,7 @@
     {
       "Name":"Roger Cole-Baker",
       "Rating":1090,
-      "Seed":339,
+      "Seed":338,
       "LastSeed":339,
       "Current":true,
       "Ranking":92,
@@ -4030,7 +4017,7 @@
     {
       "Name":"Fiona Plews",
       "Rating":1089,
-      "Seed":340,
+      "Seed":339,
       "LastSeed":340,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4041,7 +4028,7 @@
     {
       "Name":"Dean Riesterer",
       "Rating":1087,
-      "Seed":341,
+      "Seed":340,
       "LastSeed":342,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4053,7 +4040,7 @@
     {
       "Name":"Tei Ngatai",
       "Rating":1087,
-      "Seed":342,
+      "Seed":341,
       "LastSeed":343,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4066,7 +4053,7 @@
     {
       "Name":"Sharron Nelley",
       "Rating":1081,
-      "Seed":343,
+      "Seed":342,
       "LastSeed":344,
       "Current":true,
       "Ranking":93,
@@ -4078,7 +4065,7 @@
     {
       "Name":"Jim Wills",
       "Rating":1080,
-      "Seed":344,
+      "Seed":343,
       "LastSeed":345,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4090,7 +4077,7 @@
     {
       "Name":"Mereaina Searancke",
       "Rating":1080,
-      "Seed":345,
+      "Seed":344,
       "LastSeed":346,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4102,7 +4089,7 @@
     {
       "Name":"Glennie Jamieson",
       "Rating":1079,
-      "Seed":346,
+      "Seed":345,
       "LastSeed":347,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4113,7 +4100,7 @@
     {
       "Name":"Jill Moon",
       "Rating":1076,
-      "Seed":347,
+      "Seed":346,
       "LastSeed":348,
       "Status":"(hist)",
       "Current":false,
@@ -4124,7 +4111,7 @@
     {
       "Name":"Paul Marshall",
       "Rating":1075,
-      "Seed":348,
+      "Seed":347,
       "LastSeed":349,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4136,7 +4123,7 @@
       "Name":"Grant Paulin",
       "Rating":1074,
       "RatingChange":"( -13 )",
-      "Seed":349,
+      "Seed":348,
       "LastSeed":341,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -4149,7 +4136,7 @@
     {
       "Name":"Connie Flores",
       "Rating":1074,
-      "Seed":350,
+      "Seed":349,
       "LastSeed":350,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4161,7 +4148,7 @@
     {
       "Name":"Jan Jacobi",
       "Rating":1074,
-      "Seed":351,
+      "Seed":350,
       "LastSeed":351,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -4173,7 +4160,7 @@
     {
       "Name":"Lesley Edgeler",
       "Rating":1067,
-      "Seed":352,
+      "Seed":351,
       "LastSeed":352,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4185,7 +4172,7 @@
     {
       "Name":"Betty Stiff",
       "Rating":1067,
-      "Seed":353,
+      "Seed":352,
       "LastSeed":353,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4197,7 +4184,7 @@
     {
       "Name":"Ernie Gidman",
       "Rating":1060,
-      "Seed":354,
+      "Seed":353,
       "LastSeed":354,
       "Current":true,
       "Wins":471.5,
@@ -4208,7 +4195,7 @@
     {
       "Name":"Alison Holmes",
       "Rating":1057,
-      "Seed":355,
+      "Seed":354,
       "LastSeed":355,
       "Current":true,
       "Ranking":95,
@@ -4220,7 +4207,7 @@
     {
       "Name":"Suzanne Ford",
       "Rating":1056,
-      "Seed":356,
+      "Seed":355,
       "LastSeed":356,
       "Current":true,
       "Wins":257.0,
@@ -4231,7 +4218,7 @@
     {
       "Name":"Ann Candler",
       "Rating":1055,
-      "Seed":357,
+      "Seed":356,
       "LastSeed":357,
       "Status":"(hist)",
       "Current":false,
@@ -4242,7 +4229,7 @@
     {
       "Name":"Joy Jones",
       "Rating":1052,
-      "Seed":358,
+      "Seed":357,
       "LastSeed":358,
       "Current":true,
       "Ranking":96,
@@ -4254,7 +4241,7 @@
     {
       "Name":"Patricia Bennett",
       "Rating":1051,
-      "Seed":359,
+      "Seed":358,
       "LastSeed":359,
       "Current":true,
       "Ranking":97,
@@ -4266,7 +4253,7 @@
     {
       "Name":"Isabel Morris",
       "Rating":1049,
-      "Seed":360,
+      "Seed":359,
       "LastSeed":360,
       "Status":"(hist)",
       "Current":false,
@@ -4277,7 +4264,7 @@
     {
       "Name":"Beryl Mace",
       "Rating":1045,
-      "Seed":361,
+      "Seed":360,
       "LastSeed":361,
       "Status":"(hist)",
       "Current":false,
@@ -4288,7 +4275,7 @@
     {
       "Name":"Jean Boyle",
       "Rating":1043,
-      "Seed":362,
+      "Seed":361,
       "LastSeed":362,
       "Status":"(hist)",
       "Current":false,
@@ -4299,7 +4286,7 @@
     {
       "Name":"Chris Day",
       "Rating":1040,
-      "Seed":363,
+      "Seed":362,
       "LastSeed":363,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -4311,7 +4298,7 @@
     {
       "Name":"Pat Grant",
       "Rating":1040,
-      "Seed":364,
+      "Seed":363,
       "LastSeed":364,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4323,7 +4310,7 @@
     {
       "Name":"Hilda Joyce",
       "Rating":1040,
-      "Seed":365,
+      "Seed":364,
       "LastSeed":365,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -4335,7 +4322,7 @@
     {
       "Name":"Ann Brady",
       "Rating":1039,
-      "Seed":366,
+      "Seed":365,
       "LastSeed":366,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4347,7 +4334,7 @@
     {
       "Name":"Shirley Bonthron",
       "Rating":1039,
-      "Seed":367,
+      "Seed":366,
       "LastSeed":367,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4359,7 +4346,7 @@
     {
       "Name":"Wayne Woods",
       "Rating":1039,
-      "Seed":368,
+      "Seed":367,
       "LastSeed":368,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -4371,7 +4358,7 @@
     {
       "Name":"Carole Coates",
       "Rating":1037,
-      "Seed":369,
+      "Seed":368,
       "LastSeed":369,
       "Current":true,
       "Ranking":98,
@@ -4383,7 +4370,7 @@
     {
       "Name":"Glenda Geard",
       "Rating":1036,
-      "Seed":370,
+      "Seed":369,
       "LastSeed":370,
       "Current":true,
       "Ranking":99,
@@ -4395,7 +4382,7 @@
     {
       "Name":"Lorna Baulcomb",
       "Rating":1035,
-      "Seed":371,
+      "Seed":370,
       "LastSeed":371,
       "Status":"(hist)",
       "Current":false,
@@ -4406,7 +4393,7 @@
     {
       "Name":"Naomi Gilmore",
       "Rating":1033,
-      "Seed":372,
+      "Seed":371,
       "LastSeed":372,
       "Status":"(hist)",
       "Current":false,
@@ -4417,7 +4404,7 @@
     {
       "Name":"Pauline Hayes",
       "Rating":1029,
-      "Seed":373,
+      "Seed":372,
       "LastSeed":373,
       "Status":"(hist)",
       "Current":false,
@@ -4428,7 +4415,7 @@
     {
       "Name":"Stuart Bunker",
       "Rating":1025,
-      "Seed":374,
+      "Seed":373,
       "LastSeed":374,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4440,7 +4427,7 @@
     {
       "Name":"Tobias Devereux",
       "Rating":1025,
-      "Seed":375,
+      "Seed":374,
       "LastSeed":375,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -4452,7 +4439,7 @@
     {
       "Name":"Marion Jones",
       "Rating":1025,
-      "Seed":376,
+      "Seed":375,
       "LastSeed":376,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -4464,7 +4451,7 @@
     {
       "Name":"Sandy Winterton",
       "Rating":1024,
-      "Seed":377,
+      "Seed":376,
       "LastSeed":377,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4475,7 +4462,7 @@
     {
       "Name":"Anne Wilson",
       "Rating":1023,
-      "Seed":378,
+      "Seed":377,
       "LastSeed":378,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4486,7 +4473,7 @@
     {
       "Name":"Karen Rodgers",
       "Rating":1022,
-      "Seed":379,
+      "Seed":378,
       "LastSeed":379,
       "Status":"(hist)",
       "Current":false,
@@ -4497,7 +4484,7 @@
     {
       "Name":"Julia Schiller",
       "Rating":1021,
-      "Seed":380,
+      "Seed":379,
       "LastSeed":380,
       "Current":true,
       "Ranking":100,
@@ -4509,7 +4496,7 @@
     {
       "Name":"Bill McCavitt",
       "Rating":1019,
-      "Seed":381,
+      "Seed":380,
       "LastSeed":381,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4521,7 +4508,7 @@
     {
       "Name":"Roto Mitchell",
       "Rating":1019,
-      "Seed":382,
+      "Seed":381,
       "LastSeed":382,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4533,7 +4520,7 @@
     {
       "Name":"Greta Bradley",
       "Rating":1019,
-      "Seed":383,
+      "Seed":382,
       "LastSeed":383,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -4545,7 +4532,7 @@
     {
       "Name":"John Bell",
       "Rating":1017,
-      "Seed":384,
+      "Seed":383,
       "LastSeed":384,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4557,7 +4544,7 @@
     {
       "Name":"Conny van Tilburg",
       "Rating":1017,
-      "Seed":385,
+      "Seed":384,
       "LastSeed":385,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4569,7 +4556,7 @@
     {
       "Name":"Marissa Newton",
       "Rating":1016,
-      "Seed":386,
+      "Seed":385,
       "LastSeed":386,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4581,7 +4568,7 @@
     {
       "Name":"Lydia White",
       "Rating":1016,
-      "Seed":387,
+      "Seed":386,
       "LastSeed":387,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4593,7 +4580,7 @@
     {
       "Name":"Marie Cairns",
       "Rating":1015,
-      "Seed":388,
+      "Seed":387,
       "LastSeed":388,
       "Status":"(hist)",
       "Current":false,
@@ -4604,7 +4591,7 @@
     {
       "Name":"Kerry McKenna",
       "Rating":1013,
-      "Seed":389,
+      "Seed":388,
       "LastSeed":389,
       "Status":"(hist)",
       "Current":false,
@@ -4615,7 +4602,7 @@
     {
       "Name":"Amanda Clow-Hewer",
       "Rating":1012,
-      "Seed":390,
+      "Seed":389,
       "LastSeed":390,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4627,7 +4614,7 @@
     {
       "Name":"Kim Clifton",
       "Rating":1012,
-      "Seed":391,
+      "Seed":390,
       "LastSeed":391,
       "EqualSeed":"(=2)",
       "Status":"(prov)",
@@ -4640,7 +4627,7 @@
     {
       "Name":"Paula Alchin",
       "Rating":1011,
-      "Seed":392,
+      "Seed":391,
       "LastSeed":392,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4651,7 +4638,7 @@
     {
       "Name":"Leanne Field",
       "Rating":1008,
-      "Seed":393,
+      "Seed":392,
       "LastSeed":393,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4664,7 +4651,7 @@
     {
       "Name":"Susan Olson",
       "Rating":1008,
-      "Seed":394,
+      "Seed":393,
       "LastSeed":394,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4676,7 +4663,7 @@
     {
       "Name":"Jenny Knight",
       "Rating":1007,
-      "Seed":395,
+      "Seed":394,
       "LastSeed":395,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4688,7 +4675,7 @@
       "Name":"Chris Handley",
       "Rating":1006,
       "RatingChange":"( +35 )",
-      "Seed":396,
+      "Seed":395,
       "LastSeed":424,
       "Current":true,
       "Ranking":101,
@@ -4700,7 +4687,7 @@
     {
       "Name":"Jan Evans",
       "Rating":1005,
-      "Seed":397,
+      "Seed":396,
       "LastSeed":396,
       "Status":"(hist)",
       "Current":false,
@@ -4711,7 +4698,7 @@
     {
       "Name":"Hilda Richardson",
       "Rating":1003,
-      "Seed":398,
+      "Seed":397,
       "LastSeed":397,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4722,7 +4709,7 @@
     {
       "Name":"Christine Trubuhovich",
       "Rating":1001,
-      "Seed":399,
+      "Seed":398,
       "LastSeed":398,
       "Status":"(hist)",
       "Current":false,
@@ -4733,7 +4720,7 @@
     {
       "Name":"Jane Martingdale",
       "Rating":1000,
-      "Seed":400,
+      "Seed":399,
       "LastSeed":400,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4745,7 +4732,7 @@
     {
       "Name":"Leigh Mekalik",
       "Rating":1000,
-      "Seed":401,
+      "Seed":400,
       "LastSeed":401,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4757,7 +4744,7 @@
     {
       "Name":"Mark Wilson",
       "Rating":997,
-      "Seed":402,
+      "Seed":401,
       "LastSeed":402,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4768,7 +4755,7 @@
     {
       "Name":"Glen Madigan",
       "Rating":996,
-      "Seed":403,
+      "Seed":402,
       "LastSeed":403,
       "Status":"(hist)",
       "Current":false,
@@ -4779,7 +4766,7 @@
     {
       "Name":"Doreen Poole",
       "Rating":995,
-      "Seed":404,
+      "Seed":403,
       "LastSeed":404,
       "Status":"(hist)",
       "Current":false,
@@ -4791,7 +4778,7 @@
       "Name":"Michael Hyndman",
       "Rating":993,
       "RatingChange":"( -8 )",
-      "Seed":405,
+      "Seed":404,
       "LastSeed":399,
       "Current":true,
       "Ranking":102,
@@ -4803,7 +4790,7 @@
     {
       "Name":"Alice O'Callahan",
       "Rating":991,
-      "Seed":406,
+      "Seed":405,
       "LastSeed":405,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4815,7 +4802,7 @@
     {
       "Name":"Junior Gesmundo",
       "Rating":991,
-      "Seed":407,
+      "Seed":406,
       "LastSeed":406,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -4828,7 +4815,7 @@
     {
       "Name":"Martin Bardell",
       "Rating":990,
-      "Seed":408,
+      "Seed":407,
       "LastSeed":407,
       "Status":"(hist)",
       "Current":false,
@@ -4839,7 +4826,7 @@
     {
       "Name":"Sheila Reed",
       "Rating":989,
-      "Seed":409,
+      "Seed":408,
       "LastSeed":408,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -4852,7 +4839,7 @@
     {
       "Name":"Kathy Solomon",
       "Rating":989,
-      "Seed":410,
+      "Seed":409,
       "LastSeed":409,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4864,7 +4851,7 @@
     {
       "Name":"Shirley Morrison",
       "Rating":986,
-      "Seed":411,
+      "Seed":410,
       "LastSeed":410,
       "Status":"(hist)",
       "Current":false,
@@ -4876,7 +4863,7 @@
     {
       "Name":"Margaret Gibson",
       "Rating":985,
-      "Seed":412,
+      "Seed":411,
       "LastSeed":411,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4888,7 +4875,7 @@
     {
       "Name":"Jill Paterson",
       "Rating":985,
-      "Seed":413,
+      "Seed":412,
       "LastSeed":412,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -4901,7 +4888,7 @@
     {
       "Name":"Athena Mafile'o",
       "Rating":982,
-      "Seed":414,
+      "Seed":413,
       "LastSeed":413,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -4913,7 +4900,7 @@
     {
       "Name":"Rata Burbury",
       "Rating":982,
-      "Seed":415,
+      "Seed":414,
       "LastSeed":414,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -4925,7 +4912,7 @@
     {
       "Name":"Maria Barnes",
       "Rating":982,
-      "Seed":416,
+      "Seed":415,
       "LastSeed":415,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -4937,7 +4924,7 @@
     {
       "Name":"Annette Wilson",
       "Rating":980,
-      "Seed":417,
+      "Seed":416,
       "LastSeed":416,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4949,7 +4936,7 @@
     {
       "Name":"Janet Willison",
       "Rating":980,
-      "Seed":418,
+      "Seed":417,
       "LastSeed":417,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -4961,7 +4948,7 @@
     {
       "Name":"Alan Jamieson",
       "Rating":980,
-      "Seed":419,
+      "Seed":418,
       "LastSeed":418,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -4973,7 +4960,7 @@
     {
       "Name":"Marian Kessler",
       "Rating":978,
-      "Seed":420,
+      "Seed":419,
       "LastSeed":419,
       "Status":"(prov/hist)",
       "Current":false,
@@ -4984,7 +4971,7 @@
     {
       "Name":"Marino Ubalde",
       "Rating":975,
-      "Seed":421,
+      "Seed":420,
       "LastSeed":420,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -4996,7 +4983,7 @@
     {
       "Name":"Rachel Flay",
       "Rating":975,
-      "Seed":422,
+      "Seed":421,
       "LastSeed":421,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5008,7 +4995,7 @@
     {
       "Name":"Bridget French",
       "Rating":973,
-      "Seed":423,
+      "Seed":422,
       "LastSeed":422,
       "Status":"(hist)",
       "Current":false,
@@ -5019,7 +5006,7 @@
     {
       "Name":"Josie Parkin",
       "Rating":972,
-      "Seed":424,
+      "Seed":423,
       "LastSeed":423,
       "Status":"(hist)",
       "Current":false,
@@ -5031,7 +5018,7 @@
     {
       "Name":"Carl Gray",
       "Rating":968,
-      "Seed":425,
+      "Seed":424,
       "LastSeed":425,
       "Status":"(hist)",
       "Current":false,
@@ -5042,7 +5029,7 @@
     {
       "Name":"Susan Horne",
       "Rating":964,
-      "Seed":426,
+      "Seed":425,
       "LastSeed":426,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5053,7 +5040,7 @@
     {
       "Name":"Pam Muirhead",
       "Rating":963,
-      "Seed":427,
+      "Seed":426,
       "LastSeed":427,
       "Status":"(hist)",
       "Current":false,
@@ -5064,7 +5051,7 @@
     {
       "Name":"Marilyn Fleury",
       "Rating":961,
-      "Seed":428,
+      "Seed":427,
       "LastSeed":428,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5075,7 +5062,7 @@
     {
       "Name":"Bunty Blackman",
       "Rating":960,
-      "Seed":429,
+      "Seed":428,
       "LastSeed":429,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5086,7 +5073,7 @@
     {
       "Name":"Gina D",
       "Rating":959,
-      "Seed":430,
+      "Seed":429,
       "LastSeed":430,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5098,7 +5085,7 @@
     {
       "Name":"Willie van Hasselt",
       "Rating":959,
-      "Seed":431,
+      "Seed":430,
       "LastSeed":431,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5110,7 +5097,7 @@
     {
       "Name":"June Mackwell",
       "Rating":958,
-      "Seed":432,
+      "Seed":431,
       "LastSeed":432,
       "Status":"(hist)",
       "Current":false,
@@ -5121,7 +5108,7 @@
     {
       "Name":"Paddy Bradley",
       "Rating":956,
-      "Seed":433,
+      "Seed":432,
       "LastSeed":433,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5132,7 +5119,7 @@
     {
       "Name":"Geoff Bonser",
       "Rating":955,
-      "Seed":434,
+      "Seed":433,
       "LastSeed":434,
       "Status":"(hist)",
       "Current":false,
@@ -5144,7 +5131,7 @@
     {
       "Name":"Tony MacLeod",
       "Rating":954,
-      "Seed":435,
+      "Seed":434,
       "LastSeed":435,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5155,7 +5142,7 @@
     {
       "Name":"Wendy Anastasi",
       "Rating":953,
-      "Seed":436,
+      "Seed":435,
       "LastSeed":436,
       "Current":true,
       "Wins":113.5,
@@ -5166,7 +5153,7 @@
     {
       "Name":"Robin Shaw",
       "Rating":952,
-      "Seed":437,
+      "Seed":436,
       "LastSeed":437,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5179,7 +5166,7 @@
       "Name":"Suzanne Harding",
       "Rating":952,
       "RatingChange":"( +30 )",
-      "Seed":438,
+      "Seed":437,
       "LastSeed":462,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -5192,7 +5179,7 @@
     {
       "Name":"Stewart Archer",
       "Rating":951,
-      "Seed":439,
+      "Seed":438,
       "LastSeed":438,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5203,7 +5190,7 @@
     {
       "Name":"Elaine Moltzen",
       "Rating":950,
-      "Seed":440,
+      "Seed":439,
       "LastSeed":439,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5215,7 +5202,7 @@
     {
       "Name":"Joan White",
       "Rating":950,
-      "Seed":441,
+      "Seed":440,
       "LastSeed":440,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5227,7 +5214,7 @@
     {
       "Name":"Evan Kramer",
       "Rating":949,
-      "Seed":442,
+      "Seed":441,
       "LastSeed":441,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5239,7 +5226,7 @@
     {
       "Name":"Sonia Wright",
       "Rating":949,
-      "Seed":443,
+      "Seed":442,
       "LastSeed":442,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5251,7 +5238,7 @@
     {
       "Name":"Lesley Gill",
       "Rating":949,
-      "Seed":444,
+      "Seed":443,
       "LastSeed":443,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -5263,7 +5250,7 @@
     {
       "Name":"Andree Prentice",
       "Rating":947,
-      "Seed":445,
+      "Seed":444,
       "LastSeed":444,
       "Status":"(hist)",
       "Current":false,
@@ -5274,7 +5261,7 @@
     {
       "Name":"Eleanor Markwick",
       "Rating":945,
-      "Seed":446,
+      "Seed":445,
       "LastSeed":445,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5285,7 +5272,7 @@
     {
       "Name":"Sharon Stewart",
       "Rating":944,
-      "Seed":447,
+      "Seed":446,
       "LastSeed":446,
       "Status":"(hist)",
       "Current":false,
@@ -5296,7 +5283,7 @@
     {
       "Name":"Laney de Gooyer",
       "Rating":943,
-      "Seed":448,
+      "Seed":447,
       "LastSeed":447,
       "Status":"(hist)",
       "Current":false,
@@ -5307,7 +5294,7 @@
     {
       "Name":"Shirley Murcott",
       "Rating":937,
-      "Seed":449,
+      "Seed":448,
       "LastSeed":448,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5319,7 +5306,7 @@
     {
       "Name":"Hazel Peck",
       "Rating":937,
-      "Seed":450,
+      "Seed":449,
       "LastSeed":449,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5331,7 +5318,7 @@
     {
       "Name":"Christina Linwood",
       "Rating":936,
-      "Seed":451,
+      "Seed":450,
       "LastSeed":450,
       "Current":true,
       "Wins":94.5,
@@ -5342,7 +5329,7 @@
     {
       "Name":"Dawn Kitzen",
       "Rating":935,
-      "Seed":452,
+      "Seed":451,
       "LastSeed":451,
       "Status":"(hist)",
       "Current":false,
@@ -5353,7 +5340,7 @@
     {
       "Name":"Janet Brady",
       "Rating":934,
-      "Seed":453,
+      "Seed":452,
       "LastSeed":452,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5364,7 +5351,7 @@
     {
       "Name":"Eileen Mead",
       "Rating":932,
-      "Seed":454,
+      "Seed":453,
       "LastSeed":453,
       "Status":"(hist)",
       "Current":false,
@@ -5375,7 +5362,7 @@
     {
       "Name":"Judy Driscoll",
       "Rating":930,
-      "Seed":455,
+      "Seed":454,
       "LastSeed":454,
       "Current":true,
       "Ranking":107,
@@ -5387,7 +5374,7 @@
     {
       "Name":"Margaret Mourant",
       "Rating":928,
-      "Seed":456,
+      "Seed":455,
       "LastSeed":455,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5399,7 +5386,7 @@
     {
       "Name":"Rahimah Abdullah",
       "Rating":928,
-      "Seed":457,
+      "Seed":456,
       "LastSeed":456,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5411,7 +5398,7 @@
     {
       "Name":"Tim Kyne",
       "Rating":927,
-      "Seed":458,
+      "Seed":457,
       "LastSeed":457,
       "Status":"(hist)",
       "Current":false,
@@ -5422,7 +5409,7 @@
     {
       "Name":"Pam Bardell",
       "Rating":926,
-      "Seed":459,
+      "Seed":458,
       "LastSeed":458,
       "Status":"(hist)",
       "Current":false,
@@ -5433,7 +5420,7 @@
     {
       "Name":"June Ward (IND)",
       "Rating":924,
-      "Seed":460,
+      "Seed":459,
       "LastSeed":459,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5445,7 +5432,7 @@
     {
       "Name":"Jessie Labes",
       "Rating":924,
-      "Seed":461,
+      "Seed":460,
       "LastSeed":460,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5457,7 +5444,7 @@
     {
       "Name":"Leonora Cole",
       "Rating":923,
-      "Seed":462,
+      "Seed":461,
       "LastSeed":461,
       "Status":"(hist)",
       "Current":false,
@@ -5468,7 +5455,7 @@
     {
       "Name":"Bev Henderson",
       "Rating":920,
-      "Seed":463,
+      "Seed":462,
       "LastSeed":463,
       "Status":"(hist)",
       "Current":false,
@@ -5480,7 +5467,7 @@
     {
       "Name":"Mark Hornblow",
       "Rating":919,
-      "Seed":464,
+      "Seed":463,
       "LastSeed":464,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5491,7 +5478,7 @@
     {
       "Name":"Ralph White",
       "Rating":918,
-      "Seed":465,
+      "Seed":464,
       "LastSeed":465,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5502,7 +5489,7 @@
     {
       "Name":"Margaret Schimanski",
       "Rating":917,
-      "Seed":466,
+      "Seed":465,
       "LastSeed":466,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5514,7 +5501,7 @@
     {
       "Name":"Ann Marie Ingram",
       "Rating":917,
-      "Seed":467,
+      "Seed":466,
       "LastSeed":467,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5526,7 +5513,7 @@
     {
       "Name":"Judith Reinken",
       "Rating":916,
-      "Seed":468,
+      "Seed":467,
       "LastSeed":468,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5538,7 +5525,7 @@
     {
       "Name":"Daphne Parker",
       "Rating":916,
-      "Seed":469,
+      "Seed":468,
       "LastSeed":469,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5550,7 +5537,7 @@
     {
       "Name":"Liz Catchpole",
       "Rating":915,
-      "Seed":470,
+      "Seed":469,
       "LastSeed":470,
       "Status":"(hist)",
       "Current":false,
@@ -5561,7 +5548,7 @@
     {
       "Name":"Monica Fitzgerald",
       "Rating":910,
-      "Seed":471,
+      "Seed":470,
       "LastSeed":471,
       "Status":"(hist)",
       "Current":false,
@@ -5572,7 +5559,7 @@
     {
       "Name":"Agnes Rowland",
       "Rating":909,
-      "Seed":472,
+      "Seed":471,
       "LastSeed":472,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5586,7 +5573,7 @@
       "Name":"Marilyn Sinclair",
       "Rating":909,
       "RatingChange":"( +73 )",
-      "Seed":473,
+      "Seed":472,
       "LastSeed":524,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -5599,7 +5586,7 @@
     {
       "Name":"Margaret Forbes",
       "Rating":908,
-      "Seed":474,
+      "Seed":473,
       "LastSeed":473,
       "Status":"(hist)",
       "Current":false,
@@ -5610,7 +5597,7 @@
     {
       "Name":"Shalisha Kunaratnam",
       "Rating":907,
-      "Seed":475,
+      "Seed":474,
       "LastSeed":474,
       "Current":true,
       "Ranking":109,
@@ -5622,7 +5609,7 @@
     {
       "Name":"Neville James",
       "Rating":905,
-      "Seed":476,
+      "Seed":475,
       "LastSeed":475,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5634,7 +5621,7 @@
     {
       "Name":"Bruce Boyd",
       "Rating":905,
-      "Seed":477,
+      "Seed":476,
       "LastSeed":476,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5646,7 +5633,7 @@
     {
       "Name":"Tony Charlton",
       "Rating":904,
-      "Seed":478,
+      "Seed":477,
       "LastSeed":477,
       "Current":true,
       "Ranking":110,
@@ -5658,7 +5645,7 @@
     {
       "Name":"Llane Hadden",
       "Rating":894,
-      "Seed":479,
+      "Seed":478,
       "LastSeed":479,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -5671,7 +5658,7 @@
     {
       "Name":"Eunice Roberts",
       "Rating":894,
-      "Seed":480,
+      "Seed":479,
       "LastSeed":480,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5683,7 +5670,7 @@
     {
       "Name":"Lynne Oates",
       "Rating":892,
-      "Seed":481,
+      "Seed":480,
       "LastSeed":481,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5694,7 +5681,7 @@
     {
       "Name":"Sheila Jefferies",
       "Rating":891,
-      "Seed":482,
+      "Seed":481,
       "LastSeed":482,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5705,7 +5692,7 @@
     {
       "Name":"Veronica Zilinskas",
       "Rating":889,
-      "Seed":483,
+      "Seed":482,
       "LastSeed":483,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5717,7 +5704,7 @@
     {
       "Name":"Melody Freeth",
       "Rating":889,
-      "Seed":484,
+      "Seed":483,
       "LastSeed":484,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5730,7 +5717,7 @@
       "Name":"Hanna Dodge",
       "Rating":886,
       "RatingChange":"( -18 )",
-      "Seed":485,
+      "Seed":484,
       "LastSeed":478,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -5743,7 +5730,7 @@
     {
       "Name":"Barbara Butt",
       "Rating":886,
-      "Seed":486,
+      "Seed":485,
       "LastSeed":485,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5755,7 +5742,7 @@
     {
       "Name":"Linda Kupe",
       "Rating":885,
-      "Seed":487,
+      "Seed":486,
       "LastSeed":486,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5766,7 +5753,7 @@
     {
       "Name":"Evelyn Pullen",
       "Rating":884,
-      "Seed":488,
+      "Seed":487,
       "LastSeed":487,
       "Status":"(hist)",
       "Current":false,
@@ -5777,7 +5764,7 @@
     {
       "Name":"Bernice Hyde",
       "Rating":881,
-      "Seed":489,
+      "Seed":488,
       "LastSeed":488,
       "Status":"(hist)",
       "Current":false,
@@ -5788,7 +5775,7 @@
     {
       "Name":"Shirley Lykles",
       "Rating":880,
-      "Seed":490,
+      "Seed":489,
       "LastSeed":489,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5800,7 +5787,7 @@
     {
       "Name":"Diane Kawana",
       "Rating":880,
-      "Seed":491,
+      "Seed":490,
       "LastSeed":490,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -5812,7 +5799,7 @@
     {
       "Name":"Daisy Madden",
       "Rating":879,
-      "Seed":492,
+      "Seed":491,
       "LastSeed":491,
       "Status":"(hist)",
       "Current":false,
@@ -5823,7 +5810,7 @@
     {
       "Name":"Pat Johnstone",
       "Rating":876,
-      "Seed":493,
+      "Seed":492,
       "LastSeed":492,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5835,7 +5822,7 @@
     {
       "Name":"Marion Rose",
       "Rating":876,
-      "Seed":494,
+      "Seed":493,
       "LastSeed":493,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5847,7 +5834,7 @@
     {
       "Name":"John Sharpe",
       "Rating":875,
-      "Seed":495,
+      "Seed":494,
       "LastSeed":494,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5858,7 +5845,7 @@
     {
       "Name":"Jan Wheeler",
       "Rating":874,
-      "Seed":496,
+      "Seed":495,
       "LastSeed":495,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -5870,7 +5857,7 @@
     {
       "Name":"Andrew Campbell",
       "Rating":874,
-      "Seed":497,
+      "Seed":496,
       "LastSeed":496,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5883,7 +5870,7 @@
     {
       "Name":"June Dowling",
       "Rating":874,
-      "Seed":498,
+      "Seed":497,
       "LastSeed":497,
       "EqualSeed":"(=3)",
       "Current":true,
@@ -5895,7 +5882,7 @@
     {
       "Name":"Jillian Spring",
       "Rating":872,
-      "Seed":499,
+      "Seed":498,
       "LastSeed":498,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5907,7 +5894,7 @@
     {
       "Name":"Anne Reeves",
       "Rating":872,
-      "Seed":500,
+      "Seed":499,
       "LastSeed":499,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5919,7 +5906,7 @@
     {
       "Name":"Judy Giles",
       "Rating":869,
-      "Seed":501,
+      "Seed":500,
       "LastSeed":500,
       "Status":"(hist)",
       "Current":false,
@@ -5930,7 +5917,7 @@
     {
       "Name":"Charley Hamilton",
       "Rating":866,
-      "Seed":502,
+      "Seed":501,
       "LastSeed":501,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5941,7 +5928,7 @@
     {
       "Name":"Frank Newmarch",
       "Rating":864,
-      "Seed":503,
+      "Seed":502,
       "LastSeed":502,
       "Status":"(prov/hist)",
       "Current":false,
@@ -5952,7 +5939,7 @@
     {
       "Name":"Andrew Wylie",
       "Rating":863,
-      "Seed":504,
+      "Seed":503,
       "LastSeed":503,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -5964,7 +5951,7 @@
     {
       "Name":"Elizabeth Arlington",
       "Rating":863,
-      "Seed":505,
+      "Seed":504,
       "LastSeed":504,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -5976,7 +5963,7 @@
     {
       "Name":"Catherine Styles",
       "Rating":862,
-      "Seed":506,
+      "Seed":505,
       "LastSeed":505,
       "Status":"(hist)",
       "Current":false,
@@ -5987,7 +5974,7 @@
     {
       "Name":"Chitra Kartick",
       "Rating":861,
-      "Seed":507,
+      "Seed":506,
       "LastSeed":506,
       "Status":"(prov)",
       "Current":true,
@@ -5999,7 +5986,7 @@
     {
       "Name":"Leighton Gelling",
       "Rating":855,
-      "Seed":508,
+      "Seed":507,
       "LastSeed":507,
       "Status":"(hist)",
       "Current":false,
@@ -6010,7 +5997,7 @@
     {
       "Name":"Kerry Dawkins",
       "Rating":853,
-      "Seed":509,
+      "Seed":508,
       "LastSeed":508,
       "Status":"(hist)",
       "Current":false,
@@ -6021,7 +6008,7 @@
     {
       "Name":"Bev Morris",
       "Rating":851,
-      "Seed":510,
+      "Seed":509,
       "LastSeed":509,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6033,7 +6020,7 @@
     {
       "Name":"Jane Shaw",
       "Rating":851,
-      "Seed":511,
+      "Seed":510,
       "LastSeed":510,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6045,7 +6032,7 @@
     {
       "Name":"Karen Heppleston",
       "Rating":851,
-      "Seed":512,
+      "Seed":511,
       "LastSeed":511,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -6057,7 +6044,7 @@
     {
       "Name":"Gloria Jordan",
       "Rating":851,
-      "Seed":513,
+      "Seed":512,
       "LastSeed":512,
       "EqualSeed":"(=4)",
       "Status":"(prov/hist)",
@@ -6069,7 +6056,7 @@
     {
       "Name":"Ray Jefferies",
       "Rating":851,
-      "Seed":514,
+      "Seed":513,
       "LastSeed":513,
       "EqualSeed":"(=5)",
       "Status":"(prov/hist)",
@@ -6081,7 +6068,7 @@
     {
       "Name":"Liz Richards",
       "Rating":849,
-      "Seed":515,
+      "Seed":514,
       "LastSeed":514,
       "Status":"(hist)",
       "Current":false,
@@ -6092,7 +6079,7 @@
     {
       "Name":"Debbie Lang",
       "Rating":847,
-      "Seed":516,
+      "Seed":515,
       "LastSeed":515,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6104,7 +6091,7 @@
     {
       "Name":"Cecily Brockie",
       "Rating":847,
-      "Seed":517,
+      "Seed":516,
       "LastSeed":516,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6116,7 +6103,7 @@
     {
       "Name":"Margaret Bell",
       "Rating":846,
-      "Seed":518,
+      "Seed":517,
       "LastSeed":517,
       "Status":"(hist)",
       "Current":false,
@@ -6127,7 +6114,7 @@
     {
       "Name":"Terry McLaughlin",
       "Rating":845,
-      "Seed":519,
+      "Seed":518,
       "LastSeed":518,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6139,7 +6126,7 @@
     {
       "Name":"Abby Pluijmers",
       "Rating":845,
-      "Seed":520,
+      "Seed":519,
       "LastSeed":519,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6151,7 +6138,7 @@
     {
       "Name":"Noeline Monsef",
       "Rating":842,
-      "Seed":521,
+      "Seed":520,
       "LastSeed":520,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -6164,7 +6151,7 @@
     {
       "Name":"Sandra Cowen",
       "Rating":842,
-      "Seed":522,
+      "Seed":521,
       "LastSeed":521,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -6176,7 +6163,7 @@
     {
       "Name":"Liz Jackman",
       "Rating":838,
-      "Seed":523,
+      "Seed":522,
       "LastSeed":523,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6188,7 +6175,7 @@
     {
       "Name":"Cathy Casey",
       "Rating":835,
-      "Seed":524,
+      "Seed":523,
       "LastSeed":525,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -6201,7 +6188,7 @@
     {
       "Name":"Rosemary Wauters",
       "Rating":835,
-      "Seed":525,
+      "Seed":524,
       "LastSeed":526,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -6214,7 +6201,7 @@
     {
       "Name":"Susan Ball",
       "Rating":833,
-      "Seed":526,
+      "Seed":525,
       "LastSeed":527,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6225,7 +6212,7 @@
     {
       "Name":"Val Talbot",
       "Rating":832,
-      "Seed":527,
+      "Seed":526,
       "LastSeed":528,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6237,7 +6224,7 @@
     {
       "Name":"Elspeth Twaddle",
       "Rating":832,
-      "Seed":528,
+      "Seed":527,
       "LastSeed":529,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6249,7 +6236,7 @@
     {
       "Name":"Shirley Pedersen",
       "Rating":828,
-      "Seed":529,
+      "Seed":528,
       "LastSeed":530,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6260,7 +6247,7 @@
     {
       "Name":"Joan Pratt",
       "Rating":827,
-      "Seed":530,
+      "Seed":529,
       "LastSeed":531,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6272,7 +6259,7 @@
     {
       "Name":"Trish Hellriegel",
       "Rating":827,
-      "Seed":531,
+      "Seed":530,
       "LastSeed":532,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -6284,7 +6271,7 @@
     {
       "Name":"Valerie Holbrook",
       "Rating":826,
-      "Seed":532,
+      "Seed":531,
       "LastSeed":533,
       "Status":"(hist)",
       "Current":false,
@@ -6295,7 +6282,7 @@
     {
       "Name":"Connie Gervasi",
       "Rating":824,
-      "Seed":533,
+      "Seed":532,
       "LastSeed":534,
       "Status":"(hist)",
       "Current":false,
@@ -6306,7 +6293,7 @@
     {
       "Name":"Jean Walsh",
       "Rating":821,
-      "Seed":534,
+      "Seed":533,
       "LastSeed":535,
       "Status":"(hist)",
       "Current":false,
@@ -6317,7 +6304,7 @@
     {
       "Name":"Leigh Montford",
       "Rating":819,
-      "Seed":535,
+      "Seed":534,
       "LastSeed":536,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6329,7 +6316,7 @@
     {
       "Name":"Merv Fendall",
       "Rating":819,
-      "Seed":536,
+      "Seed":535,
       "LastSeed":537,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6341,7 +6328,7 @@
     {
       "Name":"Pauline Scott",
       "Rating":817,
-      "Seed":537,
+      "Seed":536,
       "LastSeed":538,
       "Status":"(hist)",
       "Current":false,
@@ -6352,7 +6339,7 @@
     {
       "Name":"Michael Groffman",
       "Rating":812,
-      "Seed":538,
+      "Seed":537,
       "LastSeed":539,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -6365,7 +6352,7 @@
     {
       "Name":"Antonia Aarts",
       "Rating":812,
-      "Seed":539,
+      "Seed":538,
       "LastSeed":540,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -6378,7 +6365,7 @@
     {
       "Name":"Catherine Henry",
       "Rating":811,
-      "Seed":540,
+      "Seed":539,
       "LastSeed":541,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6390,7 +6377,7 @@
     {
       "Name":"Mary Thornber",
       "Rating":811,
-      "Seed":541,
+      "Seed":540,
       "LastSeed":542,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6402,7 +6389,7 @@
     {
       "Name":"Yvonne McLaughlan",
       "Rating":810,
-      "Seed":542,
+      "Seed":541,
       "LastSeed":543,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6416,7 +6403,7 @@
       "Name":"Tara Hurley",
       "Rating":810,
       "RatingChange":"( +37 )",
-      "Seed":543,
+      "Seed":542,
       "LastSeed":563,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -6429,7 +6416,7 @@
     {
       "Name":"Rebecca Pullman",
       "Rating":809,
-      "Seed":544,
+      "Seed":543,
       "LastSeed":544,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6441,7 +6428,7 @@
     {
       "Name":"Robert Sinclair",
       "Rating":806,
-      "Seed":545,
+      "Seed":544,
       "LastSeed":545,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6452,7 +6439,7 @@
     {
       "Name":"Philippa Medlock",
       "Rating":805,
-      "Seed":546,
+      "Seed":545,
       "LastSeed":546,
       "Status":"(hist)",
       "Current":false,
@@ -6463,7 +6450,7 @@
     {
       "Name":"Chris Kitzen",
       "Rating":804,
-      "Seed":547,
+      "Seed":546,
       "LastSeed":547,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6474,7 +6461,7 @@
     {
       "Name":"Margaret Carnachan",
       "Rating":803,
-      "Seed":548,
+      "Seed":547,
       "LastSeed":548,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6486,7 +6473,7 @@
     {
       "Name":"Connie Dillon",
       "Rating":803,
-      "Seed":549,
+      "Seed":548,
       "LastSeed":549,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6498,7 +6485,7 @@
     {
       "Name":"Vivienne Williamson",
       "Rating":802,
-      "Seed":550,
+      "Seed":549,
       "LastSeed":550,
       "Status":"(hist)",
       "Current":false,
@@ -6509,7 +6496,7 @@
     {
       "Name":"Ruth Godwin",
       "Rating":800,
-      "Seed":551,
+      "Seed":550,
       "LastSeed":551,
       "Current":true,
       "Ranking":119,
@@ -6521,7 +6508,7 @@
     {
       "Name":"Mike Harris",
       "Rating":798,
-      "Seed":552,
+      "Seed":551,
       "LastSeed":552,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6532,7 +6519,7 @@
     {
       "Name":"Taanga Lawrence",
       "Rating":797,
-      "Seed":553,
+      "Seed":552,
       "LastSeed":553,
       "Status":"(hist)",
       "Current":false,
@@ -6543,7 +6530,7 @@
     {
       "Name":"Deborah Palamountain",
       "Rating":795,
-      "Seed":554,
+      "Seed":553,
       "LastSeed":554,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6554,7 +6541,7 @@
     {
       "Name":"Lisa Burkes",
       "Rating":792,
-      "Seed":555,
+      "Seed":554,
       "LastSeed":555,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6565,7 +6552,7 @@
     {
       "Name":"Maura Teegan",
       "Rating":790,
-      "Seed":556,
+      "Seed":555,
       "LastSeed":556,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6576,7 +6563,7 @@
     {
       "Name":"Edna Morgan",
       "Rating":785,
-      "Seed":557,
+      "Seed":556,
       "LastSeed":557,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6587,7 +6574,7 @@
     {
       "Name":"Jacqueline Coldham-Fussell",
       "Rating":781,
-      "Seed":558,
+      "Seed":557,
       "LastSeed":558,
       "Current":true,
       "Ranking":120,
@@ -6599,7 +6586,7 @@
     {
       "Name":"Dominic Lister",
       "Rating":779,
-      "Seed":559,
+      "Seed":558,
       "LastSeed":559,
       "Status":"(hist)",
       "Current":false,
@@ -6610,7 +6597,7 @@
     {
       "Name":"Ann Smith",
       "Rating":778,
-      "Seed":560,
+      "Seed":559,
       "LastSeed":560,
       "Status":"(hist)",
       "Current":false,
@@ -6621,7 +6608,7 @@
     {
       "Name":"Trish Ropata",
       "Rating":775,
-      "Seed":561,
+      "Seed":560,
       "LastSeed":561,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6633,7 +6620,7 @@
     {
       "Name":"Phyllis Paltridge",
       "Rating":775,
-      "Seed":562,
+      "Seed":561,
       "LastSeed":562,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -6646,7 +6633,7 @@
     {
       "Name":"Mary Pinchin",
       "Rating":771,
-      "Seed":563,
+      "Seed":562,
       "LastSeed":564,
       "Status":"(hist)",
       "Current":false,
@@ -6657,7 +6644,7 @@
     {
       "Name":"Pat Wood",
       "Rating":770,
-      "Seed":564,
+      "Seed":563,
       "LastSeed":565,
       "Status":"(hist)",
       "Current":false,
@@ -6669,7 +6656,7 @@
     {
       "Name":"Lisa Tam",
       "Rating":768,
-      "Seed":565,
+      "Seed":564,
       "LastSeed":566,
       "Status":"(hist)",
       "Current":false,
@@ -6680,7 +6667,7 @@
     {
       "Name":"Jeanette Owler",
       "Rating":766,
-      "Seed":566,
+      "Seed":565,
       "LastSeed":567,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6692,7 +6679,7 @@
     {
       "Name":"Alice Hayward",
       "Rating":766,
-      "Seed":567,
+      "Seed":566,
       "LastSeed":568,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -6704,7 +6691,7 @@
     {
       "Name":"Pam Sinclair",
       "Rating":766,
-      "Seed":568,
+      "Seed":567,
       "LastSeed":569,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -6716,7 +6703,7 @@
     {
       "Name":"Julie Giles",
       "Rating":764,
-      "Seed":569,
+      "Seed":568,
       "LastSeed":570,
       "Status":"(hist)",
       "Current":false,
@@ -6727,7 +6714,7 @@
     {
       "Name":"Vivien Eckhaus",
       "Rating":763,
-      "Seed":570,
+      "Seed":569,
       "LastSeed":571,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6739,7 +6726,7 @@
     {
       "Name":"Hilary Anderson",
       "Rating":763,
-      "Seed":571,
+      "Seed":570,
       "LastSeed":572,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6751,7 +6738,7 @@
     {
       "Name":"Maria Clinton",
       "Rating":762,
-      "Seed":572,
+      "Seed":571,
       "LastSeed":573,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6763,7 +6750,7 @@
     {
       "Name":"Aroha Wetere",
       "Rating":762,
-      "Seed":573,
+      "Seed":572,
       "LastSeed":574,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -6776,7 +6763,7 @@
     {
       "Name":"Joyce Harvey",
       "Rating":760,
-      "Seed":574,
+      "Seed":573,
       "LastSeed":575,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6787,7 +6774,7 @@
     {
       "Name":"Kevin Tregunno",
       "Rating":758,
-      "Seed":575,
+      "Seed":574,
       "LastSeed":576,
       "Status":"(prov/hist)",
       "Current":false,
@@ -6798,7 +6785,7 @@
     {
       "Name":"Jill Johnson",
       "Rating":757,
-      "Seed":576,
+      "Seed":575,
       "LastSeed":577,
       "Status":"(hist)",
       "Current":false,
@@ -6809,7 +6796,7 @@
     {
       "Name":"Jean Clarke",
       "Rating":755,
-      "Seed":577,
+      "Seed":576,
       "LastSeed":578,
       "Status":"(hist)",
       "Current":false,
@@ -6820,7 +6807,7 @@
     {
       "Name":"Chris Guthrey",
       "Rating":754,
-      "Seed":578,
+      "Seed":577,
       "LastSeed":579,
       "Status":"(hist)",
       "Current":false,
@@ -6831,7 +6818,7 @@
     {
       "Name":"Elizabeth Webb",
       "Rating":752,
-      "Seed":579,
+      "Seed":578,
       "LastSeed":580,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6843,7 +6830,7 @@
     {
       "Name":"Heleena Togakilo",
       "Rating":752,
-      "Seed":580,
+      "Seed":579,
       "LastSeed":581,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -6855,7 +6842,7 @@
     {
       "Name":"Liz Webb",
       "Rating":752,
-      "Seed":581,
+      "Seed":580,
       "LastSeed":582,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -6868,7 +6855,7 @@
       "Name":"Malcolm Graham",
       "Rating":751,
       "RatingChange":"( -87 )",
-      "Seed":582,
+      "Seed":581,
       "LastSeed":522,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -6882,7 +6869,7 @@
       "Name":"Sue Hensley",
       "Rating":751,
       "RatingChange":"( +151 )",
-      "Seed":583,
+      "Seed":582,
       "LastSeed":688,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -6895,7 +6882,7 @@
     {
       "Name":"Gladys Bloor",
       "Rating":751,
-      "Seed":584,
+      "Seed":583,
       "LastSeed":583,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -6907,7 +6894,7 @@
     {
       "Name":"Sam Thompson",
       "Rating":749,
-      "Seed":585,
+      "Seed":584,
       "LastSeed":584,
       "Status":"(hist)",
       "Current":false,
@@ -6918,7 +6905,7 @@
     {
       "Name":"Mandy Thorogood",
       "Rating":748,
-      "Seed":586,
+      "Seed":585,
       "LastSeed":585,
       "Current":true,
       "Wins":79.0,
@@ -6929,7 +6916,7 @@
     {
       "Name":"Madelaine Green",
       "Rating":746,
-      "Seed":587,
+      "Seed":586,
       "LastSeed":586,
       "Current":true,
       "Ranking":124,
@@ -6941,7 +6928,7 @@
     {
       "Name":"George Laing",
       "Rating":744,
-      "Seed":588,
+      "Seed":587,
       "LastSeed":587,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -6953,7 +6940,7 @@
     {
       "Name":"Olwen Skelton",
       "Rating":744,
-      "Seed":589,
+      "Seed":588,
       "LastSeed":588,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -6965,7 +6952,7 @@
     {
       "Name":"Irene Hague-Smith",
       "Rating":743,
-      "Seed":590,
+      "Seed":589,
       "LastSeed":589,
       "Status":"(hist)",
       "Current":false,
@@ -6976,7 +6963,7 @@
     {
       "Name":"Brian Horsley",
       "Rating":737,
-      "Seed":591,
+      "Seed":590,
       "LastSeed":590,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -6988,7 +6975,7 @@
     {
       "Name":"Jaiden Tucker",
       "Rating":737,
-      "Seed":592,
+      "Seed":591,
       "LastSeed":591,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -7000,7 +6987,7 @@
     {
       "Name":"Megg Hewlett",
       "Rating":736,
-      "Seed":593,
+      "Seed":592,
       "LastSeed":592,
       "Current":true,
       "Ranking":125,
@@ -7012,7 +6999,7 @@
     {
       "Name":"Ken Morgan",
       "Rating":730,
-      "Seed":594,
+      "Seed":593,
       "LastSeed":593,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7023,7 +7010,7 @@
     {
       "Name":"Susi Nicholson",
       "Rating":729,
-      "Seed":595,
+      "Seed":594,
       "LastSeed":594,
       "Status":"(hist)",
       "Current":false,
@@ -7034,7 +7021,7 @@
     {
       "Name":"Siva Caukwell",
       "Rating":728,
-      "Seed":596,
+      "Seed":595,
       "LastSeed":595,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -7046,7 +7033,7 @@
     {
       "Name":"Jane Gilbert",
       "Rating":728,
-      "Seed":597,
+      "Seed":596,
       "LastSeed":596,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7058,7 +7045,7 @@
     {
       "Name":"Mike Davidson",
       "Rating":727,
-      "Seed":598,
+      "Seed":597,
       "LastSeed":597,
       "Status":"(prov)",
       "Current":true,
@@ -7069,7 +7056,7 @@
     {
       "Name":"Heather Port",
       "Rating":726,
-      "Seed":599,
+      "Seed":598,
       "LastSeed":598,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7081,7 +7068,7 @@
     {
       "Name":"Letitia Vaitupu",
       "Rating":726,
-      "Seed":600,
+      "Seed":599,
       "LastSeed":599,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -7093,7 +7080,7 @@
     {
       "Name":"Lynley Watkin",
       "Rating":721,
-      "Seed":601,
+      "Seed":600,
       "LastSeed":600,
       "Status":"(hist)",
       "Current":false,
@@ -7104,7 +7091,7 @@
     {
       "Name":"Cathie Roxburgh",
       "Rating":720,
-      "Seed":602,
+      "Seed":601,
       "LastSeed":601,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -7116,7 +7103,7 @@
     {
       "Name":"Mary Hapuka",
       "Rating":720,
-      "Seed":603,
+      "Seed":602,
       "LastSeed":602,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7128,7 +7115,7 @@
     {
       "Name":"Ruth Munnings",
       "Rating":718,
-      "Seed":604,
+      "Seed":603,
       "LastSeed":603,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7140,7 +7127,7 @@
     {
       "Name":"Judith Kuchler",
       "Rating":718,
-      "Seed":605,
+      "Seed":604,
       "LastSeed":604,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -7152,7 +7139,7 @@
     {
       "Name":"Claire Hayes",
       "Rating":717,
-      "Seed":606,
+      "Seed":605,
       "LastSeed":605,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7163,7 +7150,7 @@
     {
       "Name":"Tania Pearson",
       "Rating":715,
-      "Seed":607,
+      "Seed":606,
       "LastSeed":606,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7175,7 +7162,7 @@
     {
       "Name":"Jessie Kiu",
       "Rating":715,
-      "Seed":608,
+      "Seed":607,
       "LastSeed":607,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7187,7 +7174,7 @@
     {
       "Name":"Myra Park",
       "Rating":714,
-      "Seed":609,
+      "Seed":608,
       "LastSeed":608,
       "Status":"(hist)",
       "Current":false,
@@ -7198,7 +7185,7 @@
     {
       "Name":"Leah Ward",
       "Rating":712,
-      "Seed":610,
+      "Seed":609,
       "LastSeed":609,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7209,7 +7196,7 @@
     {
       "Name":"Suzanne Anderson",
       "Rating":710,
-      "Seed":611,
+      "Seed":610,
       "LastSeed":610,
       "Status":"(hist)",
       "Current":false,
@@ -7220,7 +7207,7 @@
     {
       "Name":"Sally McNulty",
       "Rating":708,
-      "Seed":612,
+      "Seed":611,
       "LastSeed":611,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7232,7 +7219,7 @@
     {
       "Name":"Jean McDougall",
       "Rating":708,
-      "Seed":613,
+      "Seed":612,
       "LastSeed":612,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -7244,7 +7231,7 @@
     {
       "Name":"Joan Beale",
       "Rating":708,
-      "Seed":614,
+      "Seed":613,
       "LastSeed":613,
       "EqualSeed":"(=3)",
       "Current":true,
@@ -7257,7 +7244,7 @@
     {
       "Name":"Beth Laugesen",
       "Rating":706,
-      "Seed":615,
+      "Seed":614,
       "LastSeed":615,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7269,7 +7256,7 @@
     {
       "Name":"Shirley Robinson",
       "Rating":704,
-      "Seed":616,
+      "Seed":615,
       "LastSeed":616,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7281,7 +7268,7 @@
     {
       "Name":"Alison Vautier",
       "Rating":704,
-      "Seed":617,
+      "Seed":616,
       "LastSeed":617,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -7294,7 +7281,7 @@
       "Name":"Steve Wood",
       "Rating":702,
       "RatingChange":"( +62 )",
-      "Seed":618,
+      "Seed":617,
       "LastSeed":656,
       "Current":true,
       "Ranking":127,
@@ -7306,7 +7293,7 @@
     {
       "Name":"Margaret McKechnie",
       "Rating":701,
-      "Seed":619,
+      "Seed":618,
       "LastSeed":618,
       "Status":"(hist)",
       "Current":false,
@@ -7317,7 +7304,7 @@
     {
       "Name":"Nari Wetere",
       "Rating":700,
-      "Seed":620,
+      "Seed":619,
       "LastSeed":619,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7329,7 +7316,7 @@
     {
       "Name":"Maree Arps",
       "Rating":697,
-      "Seed":621,
+      "Seed":620,
       "LastSeed":620,
       "Status":"(hist)",
       "Current":false,
@@ -7340,7 +7327,7 @@
     {
       "Name":"Judith Thomas",
       "Rating":696,
-      "Seed":622,
+      "Seed":621,
       "LastSeed":621,
       "Current":true,
       "Wins":271.5,
@@ -7351,7 +7338,7 @@
     {
       "Name":"Jane Williment",
       "Rating":694,
-      "Seed":623,
+      "Seed":622,
       "LastSeed":622,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7362,7 +7349,7 @@
     {
       "Name":"Louise Sweeney",
       "Rating":691,
-      "Seed":624,
+      "Seed":623,
       "LastSeed":623,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7373,7 +7360,7 @@
     {
       "Name":"Dorrie Frame",
       "Rating":689,
-      "Seed":625,
+      "Seed":624,
       "LastSeed":624,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7384,7 +7371,7 @@
     {
       "Name":"Lynda Moe",
       "Rating":686,
-      "Seed":626,
+      "Seed":625,
       "LastSeed":625,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7396,7 +7383,7 @@
       "Name":"Anne Scatchard",
       "Rating":685,
       "RatingChange":"( +5 )",
-      "Seed":627,
+      "Seed":626,
       "LastSeed":631,
       "Current":true,
       "Ranking":128,
@@ -7408,7 +7395,7 @@
     {
       "Name":"Margaret Brogan",
       "Rating":684,
-      "Seed":628,
+      "Seed":627,
       "LastSeed":626,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7419,7 +7406,7 @@
     {
       "Name":"Rob Van Slyke",
       "Rating":683,
-      "Seed":629,
+      "Seed":628,
       "LastSeed":627,
       "Status":"(hist)",
       "Current":false,
@@ -7430,7 +7417,7 @@
     {
       "Name":"Paddy Glen",
       "Rating":682,
-      "Seed":630,
+      "Seed":629,
       "LastSeed":628,
       "Status":"(hist)",
       "Current":false,
@@ -7441,7 +7428,7 @@
     {
       "Name":"Tim Henneveld",
       "Rating":681,
-      "Seed":631,
+      "Seed":630,
       "LastSeed":629,
       "Current":true,
       "Ranking":129,
@@ -7453,7 +7440,7 @@
     {
       "Name":"Joan Rawlings",
       "Rating":680,
-      "Seed":632,
+      "Seed":631,
       "LastSeed":630,
       "Status":"(hist)",
       "Current":false,
@@ -7464,7 +7451,7 @@
     {
       "Name":"Liz Pyenburg",
       "Rating":679,
-      "Seed":633,
+      "Seed":632,
       "LastSeed":632,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7475,7 +7462,7 @@
     {
       "Name":"Anton van Essen",
       "Rating":677,
-      "Seed":634,
+      "Seed":633,
       "LastSeed":633,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7487,7 +7474,7 @@
     {
       "Name":"Stephanie Pluck",
       "Rating":677,
-      "Seed":635,
+      "Seed":634,
       "LastSeed":634,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -7499,7 +7486,7 @@
     {
       "Name":"Tina Shryder",
       "Rating":677,
-      "Seed":636,
+      "Seed":635,
       "LastSeed":635,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -7511,7 +7498,7 @@
     {
       "Name":"Isabel Weddell",
       "Rating":675,
-      "Seed":637,
+      "Seed":636,
       "LastSeed":636,
       "Status":"(hist)",
       "Current":false,
@@ -7522,7 +7509,7 @@
     {
       "Name":"Roni Sigley",
       "Rating":673,
-      "Seed":638,
+      "Seed":637,
       "LastSeed":637,
       "Status":"(hist)",
       "Current":false,
@@ -7533,7 +7520,7 @@
     {
       "Name":"Barbara Cornell",
       "Rating":672,
-      "Seed":639,
+      "Seed":638,
       "LastSeed":638,
       "Current":true,
       "Wins":99.5,
@@ -7544,7 +7531,7 @@
     {
       "Name":"Daphne Hick",
       "Rating":670,
-      "Seed":640,
+      "Seed":639,
       "LastSeed":639,
       "Status":"(hist)",
       "Current":false,
@@ -7555,7 +7542,7 @@
     {
       "Name":"Kathleen Mori-Barker",
       "Rating":669,
-      "Seed":641,
+      "Seed":640,
       "LastSeed":640,
       "Current":true,
       "Wins":433.0,
@@ -7566,7 +7553,7 @@
     {
       "Name":"Sala Jones",
       "Rating":664,
-      "Seed":642,
+      "Seed":641,
       "LastSeed":641,
       "Current":true,
       "Wins":19.5,
@@ -7577,7 +7564,7 @@
     {
       "Name":"Bertha Pegler",
       "Rating":658,
-      "Seed":643,
+      "Seed":642,
       "LastSeed":642,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7588,7 +7575,7 @@
     {
       "Name":"Henry Goldstein",
       "Rating":656,
-      "Seed":644,
+      "Seed":643,
       "LastSeed":643,
       "Status":"(hist)",
       "Current":false,
@@ -7599,7 +7586,7 @@
     {
       "Name":"Pam Mayall",
       "Rating":654,
-      "Seed":645,
+      "Seed":644,
       "LastSeed":644,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7611,7 +7598,7 @@
     {
       "Name":"Sharon McKenzie",
       "Rating":654,
-      "Seed":646,
+      "Seed":645,
       "LastSeed":645,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -7624,7 +7611,7 @@
     {
       "Name":"Dorothy Bakel",
       "Rating":654,
-      "Seed":647,
+      "Seed":646,
       "LastSeed":646,
       "EqualSeed":"(=3)",
       "Current":true,
@@ -7637,7 +7624,7 @@
     {
       "Name":"Jeremy Talbot",
       "Rating":652,
-      "Seed":648,
+      "Seed":647,
       "LastSeed":647,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -7649,7 +7636,7 @@
     {
       "Name":"Francisco Araya",
       "Rating":652,
-      "Seed":649,
+      "Seed":648,
       "LastSeed":648,
       "EqualSeed":"(=2)",
       "Status":"(prov)",
@@ -7662,7 +7649,7 @@
     {
       "Name":"Mary Atwater",
       "Rating":649,
-      "Seed":650,
+      "Seed":649,
       "LastSeed":649,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7673,7 +7660,7 @@
     {
       "Name":"Pelema Taulapapa",
       "Rating":645,
-      "Seed":651,
+      "Seed":650,
       "LastSeed":650,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -7685,7 +7672,7 @@
     {
       "Name":"Isobel Gudsell",
       "Rating":645,
-      "Seed":652,
+      "Seed":651,
       "LastSeed":651,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -7697,7 +7684,7 @@
     {
       "Name":"Merlyn Little",
       "Rating":644,
-      "Seed":653,
+      "Seed":652,
       "LastSeed":652,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7708,7 +7695,7 @@
     {
       "Name":"Sue Osborne",
       "Rating":643,
-      "Seed":654,
+      "Seed":653,
       "LastSeed":653,
       "Status":"(hist)",
       "Current":false,
@@ -7719,7 +7706,7 @@
     {
       "Name":"Mary Lennon",
       "Rating":642,
-      "Seed":655,
+      "Seed":654,
       "LastSeed":654,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7730,7 +7717,7 @@
     {
       "Name":"Rose Roselea",
       "Rating":640,
-      "Seed":656,
+      "Seed":655,
       "LastSeed":655,
       "Status":"(hist)",
       "Current":false,
@@ -7741,7 +7728,7 @@
     {
       "Name":"Edna Hanbury",
       "Rating":639,
-      "Seed":657,
+      "Seed":656,
       "LastSeed":657,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -7753,7 +7740,7 @@
     {
       "Name":"Helen Daltry",
       "Rating":639,
-      "Seed":658,
+      "Seed":657,
       "LastSeed":658,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7765,7 +7752,7 @@
     {
       "Name":"Tony Callaghan",
       "Rating":637,
-      "Seed":659,
+      "Seed":658,
       "LastSeed":659,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7776,7 +7763,7 @@
     {
       "Name":"Anthea Jones",
       "Rating":636,
-      "Seed":660,
+      "Seed":659,
       "LastSeed":660,
       "Status":"(hist)",
       "Current":false,
@@ -7787,7 +7774,7 @@
     {
       "Name":"Mike Miller",
       "Rating":634,
-      "Seed":661,
+      "Seed":660,
       "LastSeed":661,
       "Status":"(hist)",
       "Current":false,
@@ -7798,7 +7785,7 @@
     {
       "Name":"Elaine Ware",
       "Rating":633,
-      "Seed":662,
+      "Seed":661,
       "LastSeed":662,
       "Status":"(hist)",
       "Current":false,
@@ -7809,7 +7796,7 @@
     {
       "Name":"Elvie Perrin",
       "Rating":631,
-      "Seed":663,
+      "Seed":662,
       "LastSeed":663,
       "Current":true,
       "Wins":40.0,
@@ -7820,7 +7807,7 @@
     {
       "Name":"Robyn Heenan",
       "Rating":630,
-      "Seed":664,
+      "Seed":663,
       "LastSeed":664,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -7832,7 +7819,7 @@
     {
       "Name":"Anne Draine",
       "Rating":630,
-      "Seed":665,
+      "Seed":664,
       "LastSeed":665,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7844,7 +7831,7 @@
     {
       "Name":"Aaron Peries",
       "Rating":628,
-      "Seed":666,
+      "Seed":665,
       "LastSeed":666,
       "Current":true,
       "Wins":31.0,
@@ -7855,7 +7842,7 @@
     {
       "Name":"Rodney Jardine",
       "Rating":627,
-      "Seed":667,
+      "Seed":666,
       "LastSeed":667,
       "Current":true,
       "Ranking":132,
@@ -7867,7 +7854,7 @@
     {
       "Name":"Margaret Penniket",
       "Rating":624,
-      "Seed":668,
+      "Seed":667,
       "LastSeed":668,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -7880,7 +7867,7 @@
     {
       "Name":"Joy Dawson",
       "Rating":624,
-      "Seed":669,
+      "Seed":668,
       "LastSeed":669,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7892,7 +7879,7 @@
     {
       "Name":"Kristi Letica/Norman",
       "Rating":622,
-      "Seed":670,
+      "Seed":669,
       "LastSeed":670,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7903,7 +7890,7 @@
     {
       "Name":"Marjorie Scott",
       "Rating":620,
-      "Seed":671,
+      "Seed":670,
       "LastSeed":671,
       "Status":"(prov/hist)",
       "Current":false,
@@ -7914,7 +7901,7 @@
     {
       "Name":"Marian Merrin",
       "Rating":618,
-      "Seed":672,
+      "Seed":671,
       "LastSeed":672,
       "Status":"(prov)",
       "Current":true,
@@ -7926,7 +7913,7 @@
     {
       "Name":"Marc Van Hoecke",
       "Rating":616,
-      "Seed":673,
+      "Seed":672,
       "LastSeed":673,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7938,7 +7925,7 @@
     {
       "Name":"Caron Harrison",
       "Rating":616,
-      "Seed":674,
+      "Seed":673,
       "LastSeed":674,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7950,7 +7937,7 @@
     {
       "Name":"Hairi Effendi",
       "Rating":614,
-      "Seed":675,
+      "Seed":674,
       "LastSeed":675,
       "Status":"(prov)",
       "Current":true,
@@ -7963,7 +7950,7 @@
       "Name":"Margaret Toso",
       "Rating":612,
       "RatingChange":"( +22 )",
-      "Seed":676,
+      "Seed":675,
       "LastSeed":693,
       "Current":true,
       "Ranking":134,
@@ -7975,7 +7962,7 @@
     {
       "Name":"Julia Jonas",
       "Rating":610,
-      "Seed":677,
+      "Seed":676,
       "LastSeed":676,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -7987,7 +7974,7 @@
     {
       "Name":"Anne Cook",
       "Rating":610,
-      "Seed":678,
+      "Seed":677,
       "LastSeed":677,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -7999,7 +7986,7 @@
     {
       "Name":"Linda Moore",
       "Rating":610,
-      "Seed":679,
+      "Seed":678,
       "LastSeed":678,
       "EqualSeed":"(=3)",
       "Current":true,
@@ -8011,7 +7998,7 @@
     {
       "Name":"Shirley Kramer",
       "Rating":609,
-      "Seed":680,
+      "Seed":679,
       "LastSeed":679,
       "Status":"(hist)",
       "Current":false,
@@ -8022,7 +8009,7 @@
     {
       "Name":"Margaret Ham",
       "Rating":608,
-      "Seed":681,
+      "Seed":680,
       "LastSeed":680,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -8034,7 +8021,7 @@
     {
       "Name":"Pip Hartley",
       "Rating":608,
-      "Seed":682,
+      "Seed":681,
       "LastSeed":681,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8046,7 +8033,7 @@
     {
       "Name":"Ann Handley",
       "Rating":608,
-      "Seed":683,
+      "Seed":682,
       "LastSeed":682,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -8058,7 +8045,7 @@
     {
       "Name":"Hilary Blacklock",
       "Rating":604,
-      "Seed":684,
+      "Seed":683,
       "LastSeed":684,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8069,7 +8056,7 @@
     {
       "Name":"Barbara Conchie",
       "Rating":603,
-      "Seed":685,
+      "Seed":684,
       "LastSeed":685,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8081,7 +8068,7 @@
     {
       "Name":"Angela Brett",
       "Rating":603,
-      "Seed":686,
+      "Seed":685,
       "LastSeed":686,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -8093,7 +8080,7 @@
     {
       "Name":"Phil Andrews",
       "Rating":600,
-      "Seed":687,
+      "Seed":686,
       "LastSeed":687,
       "Current":true,
       "Wins":24.0,
@@ -8104,7 +8091,7 @@
     {
       "Name":"Val Isherwood",
       "Rating":598,
-      "Seed":688,
+      "Seed":687,
       "LastSeed":689,
       "Current":true,
       "Wins":81.0,
@@ -8115,7 +8102,7 @@
     {
       "Name":"Graham Polglase",
       "Rating":595,
-      "Seed":689,
+      "Seed":688,
       "LastSeed":690,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8126,7 +8113,7 @@
     {
       "Name":"Kath Davies",
       "Rating":593,
-      "Seed":690,
+      "Seed":689,
       "LastSeed":691,
       "Status":"(hist)",
       "Current":false,
@@ -8137,7 +8124,7 @@
     {
       "Name":"Patricia King",
       "Rating":592,
-      "Seed":691,
+      "Seed":690,
       "LastSeed":692,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8148,7 +8135,7 @@
     {
       "Name":"Karen White",
       "Rating":590,
-      "Seed":692,
+      "Seed":691,
       "LastSeed":694,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8159,7 +8146,7 @@
     {
       "Name":"Janet Snelgar",
       "Rating":589,
-      "Seed":693,
+      "Seed":692,
       "LastSeed":695,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8170,7 +8157,7 @@
     {
       "Name":"Colin Claypole",
       "Rating":588,
-      "Seed":694,
+      "Seed":693,
       "LastSeed":696,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8182,7 +8169,7 @@
     {
       "Name":"Pauline Smeaton",
       "Rating":588,
-      "Seed":695,
+      "Seed":694,
       "LastSeed":697,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -8194,7 +8181,7 @@
     {
       "Name":"Kate Davidson",
       "Rating":586,
-      "Seed":696,
+      "Seed":695,
       "LastSeed":698,
       "EqualSeed":"(=1)",
       "Status":"(prov)",
@@ -8206,7 +8193,7 @@
     {
       "Name":"Nola Steevens",
       "Rating":586,
-      "Seed":697,
+      "Seed":696,
       "LastSeed":699,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -8218,7 +8205,7 @@
     {
       "Name":"Ngaire Colville",
       "Rating":585,
-      "Seed":698,
+      "Seed":697,
       "LastSeed":700,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8230,7 +8217,7 @@
     {
       "Name":"Tricia Kenyon",
       "Rating":585,
-      "Seed":699,
+      "Seed":698,
       "LastSeed":701,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -8242,7 +8229,7 @@
     {
       "Name":"Maria Barker",
       "Rating":584,
-      "Seed":700,
+      "Seed":699,
       "LastSeed":702,
       "Status":"(hist)",
       "Current":false,
@@ -8253,7 +8240,7 @@
     {
       "Name":"Jason Isaacs",
       "Rating":583,
-      "Seed":701,
+      "Seed":700,
       "LastSeed":703,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8264,7 +8251,7 @@
     {
       "Name":"Joy Hewson",
       "Rating":581,
-      "Seed":702,
+      "Seed":701,
       "LastSeed":704,
       "Status":"(hist)",
       "Current":false,
@@ -8275,7 +8262,7 @@
     {
       "Name":"Trixie Neil",
       "Rating":579,
-      "Seed":703,
+      "Seed":702,
       "LastSeed":705,
       "Status":"(hist)",
       "Current":false,
@@ -8286,7 +8273,7 @@
     {
       "Name":"Marion McLean",
       "Rating":578,
-      "Seed":704,
+      "Seed":703,
       "LastSeed":706,
       "Current":true,
       "Wins":28.0,
@@ -8297,7 +8284,7 @@
     {
       "Name":"Rene Stringer",
       "Rating":576,
-      "Seed":705,
+      "Seed":704,
       "LastSeed":707,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8308,7 +8295,7 @@
     {
       "Name":"Steve Pearson",
       "Rating":574,
-      "Seed":706,
+      "Seed":705,
       "LastSeed":708,
       "Status":"(hist)",
       "Current":false,
@@ -8319,7 +8306,7 @@
     {
       "Name":"Mary Lewis",
       "Rating":570,
-      "Seed":707,
+      "Seed":706,
       "LastSeed":709,
       "Status":"(hist)",
       "Current":false,
@@ -8330,7 +8317,7 @@
     {
       "Name":"Margy Moore",
       "Rating":568,
-      "Seed":708,
+      "Seed":707,
       "LastSeed":710,
       "Status":"(hist)",
       "Current":false,
@@ -8342,7 +8329,7 @@
       "Name":"Sharon Teasdale",
       "Rating":564,
       "RatingChange":"( -143 )",
-      "Seed":709,
+      "Seed":708,
       "LastSeed":614,
       "Current":true,
       "Ranking":135,
@@ -8354,7 +8341,7 @@
     {
       "Name":"Shyrlee Ryder",
       "Rating":562,
-      "Seed":710,
+      "Seed":709,
       "LastSeed":712,
       "Status":"(hist)",
       "Current":false,
@@ -8365,7 +8352,7 @@
     {
       "Name":"Trevor Rowell",
       "Rating":561,
-      "Seed":711,
+      "Seed":710,
       "LastSeed":713,
       "Status":"(hist)",
       "Current":false,
@@ -8376,7 +8363,7 @@
     {
       "Name":"Beryl Jones",
       "Rating":560,
-      "Seed":712,
+      "Seed":711,
       "LastSeed":714,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8388,7 +8375,7 @@
     {
       "Name":"Tui O'Brien",
       "Rating":560,
-      "Seed":713,
+      "Seed":712,
       "LastSeed":715,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8400,7 +8387,7 @@
     {
       "Name":"Kathie Lark",
       "Rating":557,
-      "Seed":714,
+      "Seed":713,
       "LastSeed":716,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8411,7 +8398,7 @@
     {
       "Name":"Poobie Pillay",
       "Rating":554,
-      "Seed":715,
+      "Seed":714,
       "LastSeed":717,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8422,7 +8409,7 @@
     {
       "Name":"Stella Hasseldine",
       "Rating":552,
-      "Seed":716,
+      "Seed":715,
       "LastSeed":718,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8433,7 +8420,7 @@
     {
       "Name":"Nelson Beach",
       "Rating":551,
-      "Seed":717,
+      "Seed":716,
       "LastSeed":719,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8445,7 +8432,7 @@
     {
       "Name":"Yolande Taylor",
       "Rating":551,
-      "Seed":718,
+      "Seed":717,
       "LastSeed":720,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8457,7 +8444,7 @@
     {
       "Name":"Jillian Greening",
       "Rating":544,
-      "Seed":719,
+      "Seed":718,
       "LastSeed":722,
       "Current":true,
       "Ranking":136,
@@ -8469,7 +8456,7 @@
     {
       "Name":"Patricia Fletcher",
       "Rating":543,
-      "Seed":720,
+      "Seed":719,
       "LastSeed":723,
       "Status":"(hist)",
       "Current":false,
@@ -8480,7 +8467,7 @@
     {
       "Name":"David Skerrett",
       "Rating":542,
-      "Seed":721,
+      "Seed":720,
       "LastSeed":724,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8491,7 +8478,7 @@
     {
       "Name":"Quinny Tarapipipi",
       "Rating":541,
-      "Seed":722,
+      "Seed":721,
       "LastSeed":725,
       "Status":"(hist)",
       "Current":false,
@@ -8503,7 +8490,7 @@
       "Name":"Margaret Peters",
       "Rating":539,
       "RatingChange":"( -6 )",
-      "Seed":723,
+      "Seed":722,
       "LastSeed":721,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -8516,7 +8503,7 @@
     {
       "Name":"Wendy McIlwrick",
       "Rating":539,
-      "Seed":724,
+      "Seed":723,
       "LastSeed":726,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -8528,7 +8515,7 @@
     {
       "Name":"Adrienne McKeown",
       "Rating":538,
-      "Seed":725,
+      "Seed":724,
       "LastSeed":727,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -8541,7 +8528,7 @@
       "Name":"Anne-Louise Milne",
       "Rating":538,
       "RatingChange":"( -68 )",
-      "Seed":726,
+      "Seed":725,
       "LastSeed":683,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -8554,7 +8541,7 @@
     {
       "Name":"Lil Moore",
       "Rating":536,
-      "Seed":727,
+      "Seed":726,
       "LastSeed":728,
       "Status":"(hist)",
       "Current":false,
@@ -8565,7 +8552,7 @@
     {
       "Name":"Nigel Higgins",
       "Rating":533,
-      "Seed":728,
+      "Seed":727,
       "LastSeed":729,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8577,7 +8564,7 @@
     {
       "Name":"Isla Bain",
       "Rating":533,
-      "Seed":729,
+      "Seed":728,
       "LastSeed":730,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8589,7 +8576,7 @@
     {
       "Name":"Ngaro Huhu",
       "Rating":532,
-      "Seed":730,
+      "Seed":729,
       "LastSeed":731,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8600,7 +8587,7 @@
     {
       "Name":"Jacqy Struik",
       "Rating":531,
-      "Seed":731,
+      "Seed":730,
       "LastSeed":732,
       "Status":"(hist)",
       "Current":false,
@@ -8611,7 +8598,7 @@
     {
       "Name":"Joyce Mowbray",
       "Rating":530,
-      "Seed":732,
+      "Seed":731,
       "LastSeed":733,
       "Status":"(hist)",
       "Current":false,
@@ -8623,7 +8610,7 @@
     {
       "Name":"Sally Duffield",
       "Rating":528,
-      "Seed":733,
+      "Seed":732,
       "LastSeed":734,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -8635,7 +8622,7 @@
     {
       "Name":"Alan Medhurst",
       "Rating":528,
-      "Seed":734,
+      "Seed":733,
       "LastSeed":735,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -8647,7 +8634,7 @@
     {
       "Name":"Jill Harris",
       "Rating":528,
-      "Seed":735,
+      "Seed":734,
       "LastSeed":736,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -8659,7 +8646,7 @@
     {
       "Name":"Jan Kite",
       "Rating":528,
-      "Seed":736,
+      "Seed":735,
       "LastSeed":737,
       "EqualSeed":"(=4)",
       "Current":true,
@@ -8671,7 +8658,7 @@
     {
       "Name":"Judith Bach",
       "Rating":527,
-      "Seed":737,
+      "Seed":736,
       "LastSeed":738,
       "Status":"(hist)",
       "Current":false,
@@ -8683,7 +8670,7 @@
     {
       "Name":"June Whitehead",
       "Rating":526,
-      "Seed":738,
+      "Seed":737,
       "LastSeed":739,
       "Status":"(hist)",
       "Current":false,
@@ -8694,7 +8681,7 @@
     {
       "Name":"Vivienne Ogden",
       "Rating":525,
-      "Seed":739,
+      "Seed":738,
       "LastSeed":740,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8705,7 +8692,7 @@
     {
       "Name":"May Gale",
       "Rating":524,
-      "Seed":740,
+      "Seed":739,
       "LastSeed":741,
       "Status":"(hist)",
       "Current":false,
@@ -8716,7 +8703,7 @@
     {
       "Name":"Elise Joy",
       "Rating":523,
-      "Seed":741,
+      "Seed":740,
       "LastSeed":742,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -8728,7 +8715,7 @@
     {
       "Name":"Sue Clements",
       "Rating":523,
-      "Seed":742,
+      "Seed":741,
       "LastSeed":743,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8740,7 +8727,7 @@
     {
       "Name":"Valma Gidman",
       "Rating":522,
-      "Seed":743,
+      "Seed":742,
       "LastSeed":744,
       "Current":true,
       "Wins":760.5,
@@ -8752,7 +8739,7 @@
       "Name":"Graeme Quinn",
       "Rating":520,
       "RatingChange":"( -47 )",
-      "Seed":744,
+      "Seed":743,
       "LastSeed":711,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -8764,7 +8751,7 @@
     {
       "Name":"Janny Henneveld",
       "Rating":520,
-      "Seed":745,
+      "Seed":744,
       "LastSeed":745,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -8777,7 +8764,7 @@
     {
       "Name":"Iris Boulton",
       "Rating":518,
-      "Seed":746,
+      "Seed":745,
       "LastSeed":746,
       "Status":"(hist)",
       "Current":false,
@@ -8788,7 +8775,7 @@
     {
       "Name":"Frances Higham",
       "Rating":517,
-      "Seed":747,
+      "Seed":746,
       "LastSeed":747,
       "Current":true,
       "Ranking":140,
@@ -8800,7 +8787,7 @@
     {
       "Name":"Robyn Stansfield",
       "Rating":516,
-      "Seed":748,
+      "Seed":747,
       "LastSeed":748,
       "Current":true,
       "Wins":9.0,
@@ -8811,7 +8798,7 @@
     {
       "Name":"Dorothy Haining",
       "Rating":514,
-      "Seed":749,
+      "Seed":748,
       "LastSeed":749,
       "Status":"(hist)",
       "Current":false,
@@ -8822,7 +8809,7 @@
     {
       "Name":"Rosemary Balme",
       "Rating":513,
-      "Seed":750,
+      "Seed":749,
       "LastSeed":750,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8834,7 +8821,7 @@
     {
       "Name":"Diana Wilson",
       "Rating":512,
-      "Seed":751,
+      "Seed":750,
       "LastSeed":751,
       "Status":"(prov/hist)",
       "Current":false,
@@ -8845,7 +8832,7 @@
     {
       "Name":"Dael Shaw",
       "Rating":508,
-      "Seed":752,
+      "Seed":751,
       "LastSeed":752,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -8858,7 +8845,7 @@
     {
       "Name":"Jean Craib",
       "Rating":508,
-      "Seed":753,
+      "Seed":752,
       "LastSeed":753,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -8870,7 +8857,7 @@
     {
       "Name":"Judy Cronin",
       "Rating":507,
-      "Seed":754,
+      "Seed":753,
       "LastSeed":754,
       "Current":true,
       "Ranking":142,
@@ -8882,7 +8869,7 @@
     {
       "Name":"Mary Taylor",
       "Rating":506,
-      "Seed":755,
+      "Seed":754,
       "LastSeed":755,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8894,7 +8881,7 @@
     {
       "Name":"David McDonald",
       "Rating":506,
-      "Seed":756,
+      "Seed":755,
       "LastSeed":756,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8906,7 +8893,7 @@
     {
       "Name":"May Meads",
       "Rating":504,
-      "Seed":757,
+      "Seed":756,
       "LastSeed":757,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -8918,7 +8905,7 @@
     {
       "Name":"Peter Charlton",
       "Rating":504,
-      "Seed":758,
+      "Seed":757,
       "LastSeed":758,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -8931,7 +8918,7 @@
     {
       "Name":"Pam Fulton",
       "Rating":504,
-      "Seed":759,
+      "Seed":758,
       "LastSeed":759,
       "EqualSeed":"(=3)",
       "Current":true,
@@ -8944,7 +8931,7 @@
     {
       "Name":"Bill Tozer",
       "Rating":504,
-      "Seed":760,
+      "Seed":759,
       "LastSeed":760,
       "EqualSeed":"(=4)",
       "Status":"(hist)",
@@ -8956,7 +8943,7 @@
     {
       "Name":"Maggie Bentley",
       "Rating":503,
-      "Seed":761,
+      "Seed":760,
       "LastSeed":761,
       "Status":"(hist)",
       "Current":false,
@@ -8967,7 +8954,7 @@
     {
       "Name":"Esther Soffe",
       "Rating":501,
-      "Seed":762,
+      "Seed":761,
       "LastSeed":762,
       "Status":"(hist)",
       "Current":false,
@@ -8978,7 +8965,7 @@
     {
       "Name":"Glenis Jones",
       "Rating":499,
-      "Seed":763,
+      "Seed":762,
       "LastSeed":763,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -8990,7 +8977,7 @@
     {
       "Name":"Glenn Jennings",
       "Rating":499,
-      "Seed":764,
+      "Seed":763,
       "LastSeed":764,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9002,7 +8989,7 @@
     {
       "Name":"Kay O'Connor",
       "Rating":495,
-      "Seed":765,
+      "Seed":764,
       "LastSeed":765,
       "Status":"(hist)",
       "Current":false,
@@ -9013,7 +9000,7 @@
     {
       "Name":"Graeme Brown",
       "Rating":488,
-      "Seed":766,
+      "Seed":765,
       "LastSeed":766,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9024,7 +9011,7 @@
     {
       "Name":"Anne Smith",
       "Rating":486,
-      "Seed":767,
+      "Seed":766,
       "LastSeed":767,
       "Status":"(hist)",
       "Current":false,
@@ -9035,7 +9022,7 @@
     {
       "Name":"Marie Kingi",
       "Rating":485,
-      "Seed":768,
+      "Seed":767,
       "LastSeed":768,
       "Status":"(hist)",
       "Current":false,
@@ -9046,7 +9033,7 @@
     {
       "Name":"Dave Harper",
       "Rating":483,
-      "Seed":769,
+      "Seed":768,
       "LastSeed":769,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9057,7 +9044,7 @@
     {
       "Name":"Daniel Edgeler",
       "Rating":482,
-      "Seed":770,
+      "Seed":769,
       "LastSeed":770,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9068,7 +9055,7 @@
     {
       "Name":"Vivian Henderson",
       "Rating":481,
-      "Seed":771,
+      "Seed":770,
       "LastSeed":771,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9079,7 +9066,7 @@
     {
       "Name":"Gaye Wilson",
       "Rating":479,
-      "Seed":772,
+      "Seed":771,
       "LastSeed":772,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9092,7 +9079,7 @@
     {
       "Name":"Kaye Hubner",
       "Rating":479,
-      "Seed":773,
+      "Seed":772,
       "LastSeed":773,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -9104,7 +9091,7 @@
     {
       "Name":"Valerie Pinchin",
       "Rating":478,
-      "Seed":774,
+      "Seed":773,
       "LastSeed":774,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9116,7 +9103,7 @@
     {
       "Name":"Jenny Sharpe",
       "Rating":478,
-      "Seed":775,
+      "Seed":774,
       "LastSeed":775,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9128,7 +9115,7 @@
     {
       "Name":"Dawn Smith",
       "Rating":476,
-      "Seed":776,
+      "Seed":775,
       "LastSeed":776,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -9140,7 +9127,7 @@
     {
       "Name":"Ian Handricks",
       "Rating":476,
-      "Seed":777,
+      "Seed":776,
       "LastSeed":777,
       "EqualSeed":"(=2)",
       "Status":"(prov)",
@@ -9153,7 +9140,7 @@
     {
       "Name":"Paula Gibbons",
       "Rating":474,
-      "Seed":778,
+      "Seed":777,
       "LastSeed":778,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -9165,7 +9152,7 @@
     {
       "Name":"Joan Stanners",
       "Rating":474,
-      "Seed":779,
+      "Seed":778,
       "LastSeed":779,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -9177,7 +9164,7 @@
     {
       "Name":"Peter Gordon",
       "Rating":472,
-      "Seed":780,
+      "Seed":779,
       "LastSeed":780,
       "Status":"(hist)",
       "Current":false,
@@ -9188,7 +9175,7 @@
     {
       "Name":"Thelma Smith",
       "Rating":471,
-      "Seed":781,
+      "Seed":780,
       "LastSeed":781,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9199,7 +9186,7 @@
     {
       "Name":"Naveen Sivasankar",
       "Rating":469,
-      "Seed":782,
+      "Seed":781,
       "LastSeed":782,
       "Status":"(hist)",
       "Current":false,
@@ -9210,7 +9197,7 @@
     {
       "Name":"Bev Munro",
       "Rating":468,
-      "Seed":783,
+      "Seed":782,
       "LastSeed":783,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9221,7 +9208,7 @@
     {
       "Name":"Janelle Wheatley",
       "Rating":463,
-      "Seed":784,
+      "Seed":783,
       "LastSeed":784,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9232,7 +9219,7 @@
     {
       "Name":"Marjorie Lythgoe",
       "Rating":460,
-      "Seed":785,
+      "Seed":784,
       "LastSeed":785,
       "Status":"(hist)",
       "Current":false,
@@ -9243,7 +9230,7 @@
     {
       "Name":"Annette Coombes",
       "Rating":457,
-      "Seed":786,
+      "Seed":785,
       "LastSeed":786,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -9256,7 +9243,7 @@
     {
       "Name":"Ngaire Kemp",
       "Rating":457,
-      "Seed":787,
+      "Seed":786,
       "LastSeed":787,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9268,7 +9255,7 @@
     {
       "Name":"Dean Reaney",
       "Rating":454,
-      "Seed":788,
+      "Seed":787,
       "LastSeed":788,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9280,7 +9267,7 @@
     {
       "Name":"Jackie Reid",
       "Rating":454,
-      "Seed":789,
+      "Seed":788,
       "LastSeed":789,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -9293,7 +9280,7 @@
     {
       "Name":"Di Barritt",
       "Rating":453,
-      "Seed":790,
+      "Seed":789,
       "LastSeed":790,
       "Status":"(hist)",
       "Current":false,
@@ -9304,7 +9291,7 @@
     {
       "Name":"Elaine Robertson",
       "Rating":450,
-      "Seed":791,
+      "Seed":790,
       "LastSeed":791,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9315,7 +9302,7 @@
     {
       "Name":"Kate Truman",
       "Rating":449,
-      "Seed":792,
+      "Seed":791,
       "LastSeed":792,
       "Status":"(hist)",
       "Current":false,
@@ -9326,7 +9313,7 @@
     {
       "Name":"Kath James",
       "Rating":448,
-      "Seed":793,
+      "Seed":792,
       "LastSeed":793,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -9338,7 +9325,7 @@
     {
       "Name":"Ray Young",
       "Rating":448,
-      "Seed":794,
+      "Seed":793,
       "LastSeed":794,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -9351,7 +9338,7 @@
     {
       "Name":"Alan Henley",
       "Rating":443,
-      "Seed":795,
+      "Seed":794,
       "LastSeed":795,
       "Status":"(hist)",
       "Current":false,
@@ -9362,7 +9349,7 @@
     {
       "Name":"Anne Shaw",
       "Rating":441,
-      "Seed":796,
+      "Seed":795,
       "LastSeed":796,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9374,7 +9361,7 @@
     {
       "Name":"Amrish Shreedam",
       "Rating":441,
-      "Seed":797,
+      "Seed":796,
       "LastSeed":797,
       "EqualSeed":"(=2)",
       "Status":"(prov)",
@@ -9386,7 +9373,7 @@
     {
       "Name":"Donnelle Willcocks",
       "Rating":438,
-      "Seed":798,
+      "Seed":797,
       "LastSeed":798,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9397,7 +9384,7 @@
     {
       "Name":"Sue Mayn",
       "Rating":437,
-      "Seed":799,
+      "Seed":798,
       "LastSeed":799,
       "Status":"(hist)",
       "Current":false,
@@ -9408,7 +9395,7 @@
     {
       "Name":"Paddy Hoffman",
       "Rating":435,
-      "Seed":800,
+      "Seed":799,
       "LastSeed":800,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -9420,7 +9407,7 @@
     {
       "Name":"Myrtle Travis",
       "Rating":435,
-      "Seed":801,
+      "Seed":800,
       "LastSeed":801,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9432,7 +9419,7 @@
     {
       "Name":"Ollie Reid",
       "Rating":434,
-      "Seed":802,
+      "Seed":801,
       "LastSeed":802,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9441,20 +9428,9 @@
       "PercentText":"20%"
     },
     {
-      "Name":"Shirley Brake",
-      "Rating":433,
-      "Seed":803,
-      "LastSeed":803,
-      "Status":"(hist)",
-      "Current":false,
-      "Wins":39.0,
-      "Games":93,
-      "PercentText":"42%"
-    },
-    {
       "Name":"Dorothy Latta",
       "Rating":432,
-      "Seed":804,
+      "Seed":802,
       "LastSeed":804,
       "Status":"(hist)",
       "Current":false,
@@ -9466,7 +9442,7 @@
     {
       "Name":"Gill Charlton",
       "Rating":431,
-      "Seed":805,
+      "Seed":803,
       "LastSeed":805,
       "Current":true,
       "Wins":57.5,
@@ -9477,7 +9453,7 @@
     {
       "Name":"Eric Dodson",
       "Rating":429,
-      "Seed":806,
+      "Seed":804,
       "LastSeed":806,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9488,7 +9464,7 @@
     {
       "Name":"Sue McKenzie",
       "Rating":426,
-      "Seed":807,
+      "Seed":805,
       "LastSeed":807,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9499,7 +9475,7 @@
     {
       "Name":"Paula Stapel",
       "Rating":424,
-      "Seed":808,
+      "Seed":806,
       "LastSeed":808,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9510,7 +9486,7 @@
     {
       "Name":"Patrick Lister",
       "Rating":423,
-      "Seed":809,
+      "Seed":807,
       "LastSeed":809,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9522,7 +9498,7 @@
     {
       "Name":"Amanda Jones",
       "Rating":423,
-      "Seed":810,
+      "Seed":808,
       "LastSeed":810,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9534,7 +9510,7 @@
     {
       "Name":"Merle Spinetto",
       "Rating":422,
-      "Seed":811,
+      "Seed":809,
       "LastSeed":811,
       "Status":"(hist)",
       "Current":false,
@@ -9545,7 +9521,7 @@
     {
       "Name":"Jenepher Cummins",
       "Rating":421,
-      "Seed":812,
+      "Seed":810,
       "LastSeed":812,
       "Status":"(hist)",
       "Current":false,
@@ -9556,7 +9532,7 @@
     {
       "Name":"Lyn Blaker",
       "Rating":413,
-      "Seed":813,
+      "Seed":811,
       "LastSeed":813,
       "Status":"(hist)",
       "Current":false,
@@ -9568,7 +9544,7 @@
     {
       "Name":"David Sutcliffe",
       "Rating":409,
-      "Seed":814,
+      "Seed":812,
       "LastSeed":814,
       "Status":"(hist)",
       "Current":false,
@@ -9579,7 +9555,7 @@
     {
       "Name":"Gail Cotton",
       "Rating":404,
-      "Seed":815,
+      "Seed":813,
       "LastSeed":815,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9591,7 +9567,7 @@
     {
       "Name":"Janetta Reitsma",
       "Rating":404,
-      "Seed":816,
+      "Seed":814,
       "LastSeed":816,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9604,7 +9580,7 @@
     {
       "Name":"Judith Madarasz",
       "Rating":403,
-      "Seed":817,
+      "Seed":815,
       "LastSeed":817,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9616,7 +9592,7 @@
     {
       "Name":"Grant Waghorn",
       "Rating":403,
-      "Seed":818,
+      "Seed":816,
       "LastSeed":818,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -9628,7 +9604,7 @@
     {
       "Name":"Faye Leach",
       "Rating":402,
-      "Seed":819,
+      "Seed":817,
       "LastSeed":819,
       "Current":true,
       "Ranking":146,
@@ -9640,7 +9616,7 @@
     {
       "Name":"Kath Cooper",
       "Rating":401,
-      "Seed":820,
+      "Seed":818,
       "LastSeed":820,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9651,7 +9627,7 @@
     {
       "Name":"Eveline Seddon",
       "Rating":400,
-      "Seed":821,
+      "Seed":819,
       "LastSeed":821,
       "EqualSeed":"(=1)",
       "Status":"(prov)",
@@ -9664,7 +9640,7 @@
     {
       "Name":"Stephen Hunt",
       "Rating":400,
-      "Seed":822,
+      "Seed":820,
       "LastSeed":822,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9676,7 +9652,7 @@
     {
       "Name":"Jenny Reed",
       "Rating":400,
-      "Seed":823,
+      "Seed":821,
       "LastSeed":823,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -9688,7 +9664,7 @@
     {
       "Name":"Karen Robertson",
       "Rating":394,
-      "Seed":824,
+      "Seed":822,
       "LastSeed":824,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9699,7 +9675,7 @@
     {
       "Name":"Ananda Anandan",
       "Rating":393,
-      "Seed":825,
+      "Seed":823,
       "LastSeed":825,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9711,7 +9687,7 @@
     {
       "Name":"Robin Sun",
       "Rating":387,
-      "Seed":826,
+      "Seed":824,
       "LastSeed":826,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9722,7 +9698,7 @@
     {
       "Name":"Bronwyn Llewellyn",
       "Rating":383,
-      "Seed":827,
+      "Seed":825,
       "LastSeed":827,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9733,7 +9709,7 @@
     {
       "Name":"Marcus Pearson",
       "Rating":378,
-      "Seed":828,
+      "Seed":826,
       "LastSeed":828,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9744,7 +9720,7 @@
     {
       "Name":"Barbara King",
       "Rating":374,
-      "Seed":829,
+      "Seed":827,
       "LastSeed":829,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9755,7 +9731,7 @@
     {
       "Name":"Audrey Plane",
       "Rating":373,
-      "Seed":830,
+      "Seed":828,
       "LastSeed":830,
       "Status":"(hist)",
       "Current":false,
@@ -9766,7 +9742,7 @@
     {
       "Name":"Gill Medhurst",
       "Rating":370,
-      "Seed":831,
+      "Seed":829,
       "LastSeed":831,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9777,7 +9753,7 @@
     {
       "Name":"Ellen Laurie",
       "Rating":369,
-      "Seed":832,
+      "Seed":830,
       "LastSeed":832,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9788,7 +9764,7 @@
     {
       "Name":"Tony Turner",
       "Rating":367,
-      "Seed":833,
+      "Seed":831,
       "LastSeed":833,
       "Status":"(hist)",
       "Current":false,
@@ -9799,7 +9775,7 @@
     {
       "Name":"Alma Bartosh",
       "Rating":366,
-      "Seed":834,
+      "Seed":832,
       "LastSeed":834,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9810,7 +9786,7 @@
     {
       "Name":"Margaret Brown",
       "Rating":365,
-      "Seed":835,
+      "Seed":833,
       "LastSeed":835,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9821,7 +9797,7 @@
     {
       "Name":"Dale McMillen",
       "Rating":361,
-      "Seed":836,
+      "Seed":834,
       "LastSeed":836,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9832,7 +9808,7 @@
     {
       "Name":"Sue Underwood",
       "Rating":360,
-      "Seed":837,
+      "Seed":835,
       "LastSeed":837,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9843,7 +9819,7 @@
     {
       "Name":"Caroline Higby",
       "Rating":359,
-      "Seed":838,
+      "Seed":836,
       "LastSeed":838,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9854,7 +9830,7 @@
     {
       "Name":"Anne Holmes",
       "Rating":353,
-      "Seed":839,
+      "Seed":837,
       "LastSeed":839,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9865,7 +9841,7 @@
     {
       "Name":"Karen Ansett",
       "Rating":352,
-      "Seed":840,
+      "Seed":838,
       "LastSeed":840,
       "Status":"(prov/hist)",
       "Current":false,
@@ -9876,7 +9852,7 @@
     {
       "Name":"Vivienne Mickleson",
       "Rating":350,
-      "Seed":841,
+      "Seed":839,
       "LastSeed":841,
       "Status":"(prov)",
       "Current":true,
@@ -9888,7 +9864,7 @@
     {
       "Name":"Mia Saunders",
       "Rating":348,
-      "Seed":842,
+      "Seed":840,
       "LastSeed":842,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -9900,7 +9876,7 @@
     {
       "Name":"Gary Mintrom",
       "Rating":348,
-      "Seed":843,
+      "Seed":841,
       "LastSeed":843,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -9912,7 +9888,7 @@
     {
       "Name":"Kasi Mooney",
       "Rating":348,
-      "Seed":844,
+      "Seed":842,
       "LastSeed":844,
       "EqualSeed":"(=3)",
       "Status":"(hist)",
@@ -9924,7 +9900,7 @@
     {
       "Name":"Joy Keeley",
       "Rating":348,
-      "Seed":845,
+      "Seed":843,
       "LastSeed":845,
       "EqualSeed":"(=4)",
       "Status":"(prov/hist)",
@@ -9936,7 +9912,7 @@
     {
       "Name":"June Dodson",
       "Rating":348,
-      "Seed":846,
+      "Seed":844,
       "LastSeed":846,
       "EqualSeed":"(=5)",
       "Status":"(prov/hist)",
@@ -9948,7 +9924,7 @@
     {
       "Name":"Chris Pasco",
       "Rating":347,
-      "Seed":847,
+      "Seed":845,
       "LastSeed":847,
       "Status":"(prov)",
       "Current":true,
@@ -9960,7 +9936,7 @@
     {
       "Name":"Noelene Bettjeman",
       "Rating":346,
-      "Seed":848,
+      "Seed":846,
       "LastSeed":848,
       "Current":true,
       "Ranking":147,
@@ -9972,7 +9948,7 @@
     {
       "Name":"Valerie Scott",
       "Rating":345,
-      "Seed":849,
+      "Seed":847,
       "LastSeed":849,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -9984,7 +9960,7 @@
     {
       "Name":"Corey Symon",
       "Rating":345,
-      "Seed":850,
+      "Seed":848,
       "LastSeed":850,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -9996,7 +9972,7 @@
     {
       "Name":"Sammy Sanders",
       "Rating":344,
-      "Seed":851,
+      "Seed":849,
       "LastSeed":851,
       "Status":"(hist)",
       "Current":false,
@@ -10007,7 +9983,7 @@
     {
       "Name":"Margaret Durdle",
       "Rating":339,
-      "Seed":852,
+      "Seed":850,
       "LastSeed":852,
       "Status":"(hist)",
       "Current":false,
@@ -10018,7 +9994,7 @@
     {
       "Name":"Joyce Mence",
       "Rating":338,
-      "Seed":853,
+      "Seed":851,
       "LastSeed":853,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10030,7 +10006,7 @@
     {
       "Name":"Jamie Adams",
       "Rating":338,
-      "Seed":854,
+      "Seed":852,
       "LastSeed":854,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -10042,7 +10018,7 @@
     {
       "Name":"Geoff Good",
       "Rating":336,
-      "Seed":855,
+      "Seed":853,
       "LastSeed":855,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10053,7 +10029,7 @@
     {
       "Name":"Sharon Clarke",
       "Rating":332,
-      "Seed":856,
+      "Seed":854,
       "LastSeed":856,
       "Status":"(hist)",
       "Current":false,
@@ -10064,7 +10040,7 @@
     {
       "Name":"Gaye Dunbier",
       "Rating":330,
-      "Seed":857,
+      "Seed":855,
       "LastSeed":857,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10075,7 +10051,7 @@
     {
       "Name":"Jewel Parkinson",
       "Rating":325,
-      "Seed":858,
+      "Seed":856,
       "LastSeed":858,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10087,7 +10063,7 @@
     {
       "Name":"Marion Godfrey",
       "Rating":325,
-      "Seed":859,
+      "Seed":857,
       "LastSeed":859,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10099,7 +10075,7 @@
     {
       "Name":"Penny Irvine",
       "Rating":323,
-      "Seed":860,
+      "Seed":858,
       "LastSeed":860,
       "Status":"(hist)",
       "Current":false,
@@ -10110,7 +10086,7 @@
     {
       "Name":"Vivien Henderson",
       "Rating":322,
-      "Seed":861,
+      "Seed":859,
       "LastSeed":861,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10121,7 +10097,7 @@
     {
       "Name":"Joyce Warner",
       "Rating":319,
-      "Seed":862,
+      "Seed":860,
       "LastSeed":862,
       "Status":"(hist)",
       "Current":false,
@@ -10132,7 +10108,7 @@
     {
       "Name":"Kate Leslie",
       "Rating":318,
-      "Seed":863,
+      "Seed":861,
       "LastSeed":863,
       "Current":true,
       "Wins":30.0,
@@ -10143,7 +10119,7 @@
     {
       "Name":"Val Jones",
       "Rating":317,
-      "Seed":864,
+      "Seed":862,
       "LastSeed":864,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10152,20 +10128,9 @@
       "PercentText":"43%"
     },
     {
-      "Name":"Allison Maclean",
-      "Rating":316,
-      "Seed":865,
-      "LastSeed":865,
-      "Status":"(hist)",
-      "Current":false,
-      "Wins":41.0,
-      "Games":76,
-      "PercentText":"54%"
-    },
-    {
       "Name":"Nola Edwards",
       "Rating":315,
-      "Seed":866,
+      "Seed":863,
       "LastSeed":866,
       "Status":"(hist)",
       "Current":false,
@@ -10176,7 +10141,7 @@
     {
       "Name":"Pat Hardman",
       "Rating":312,
-      "Seed":867,
+      "Seed":864,
       "LastSeed":867,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10187,7 +10152,7 @@
     {
       "Name":"Robert Old",
       "Rating":311,
-      "Seed":868,
+      "Seed":865,
       "LastSeed":868,
       "Status":"(prov)",
       "Current":true,
@@ -10199,7 +10164,7 @@
     {
       "Name":"Mary van Crasbeek",
       "Rating":310,
-      "Seed":869,
+      "Seed":866,
       "LastSeed":869,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10212,7 +10177,7 @@
     {
       "Name":"Elaine Hunter",
       "Rating":310,
-      "Seed":870,
+      "Seed":867,
       "LastSeed":870,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10224,7 +10189,7 @@
     {
       "Name":"Monica Simpson",
       "Rating":309,
-      "Seed":871,
+      "Seed":868,
       "LastSeed":871,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10235,7 +10200,7 @@
     {
       "Name":"Sylvia Nicholas",
       "Rating":305,
-      "Seed":872,
+      "Seed":869,
       "LastSeed":872,
       "Status":"(hist)",
       "Current":false,
@@ -10246,7 +10211,7 @@
     {
       "Name":"Sue McQuade",
       "Rating":304,
-      "Seed":873,
+      "Seed":870,
       "LastSeed":873,
       "Status":"(prov)",
       "Current":true,
@@ -10258,7 +10223,7 @@
     {
       "Name":"Margaret Miller",
       "Rating":303,
-      "Seed":874,
+      "Seed":871,
       "LastSeed":874,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10270,7 +10235,7 @@
     {
       "Name":"Connie Dixon",
       "Rating":303,
-      "Seed":875,
+      "Seed":872,
       "LastSeed":875,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -10282,7 +10247,7 @@
     {
       "Name":"Eileen Jones",
       "Rating":303,
-      "Seed":876,
+      "Seed":873,
       "LastSeed":876,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -10295,7 +10260,7 @@
       "Name":"Lynn Thompson",
       "Rating":301,
       "RatingChange":"( +3 )",
-      "Seed":877,
+      "Seed":874,
       "LastSeed":878,
       "Current":true,
       "Ranking":148,
@@ -10307,7 +10272,7 @@
     {
       "Name":"Noel Davenhill",
       "Rating":300,
-      "Seed":878,
+      "Seed":875,
       "LastSeed":877,
       "Status":"(hist)",
       "Current":false,
@@ -10318,7 +10283,7 @@
     {
       "Name":"Robyn Whalley",
       "Rating":298,
-      "Seed":879,
+      "Seed":876,
       "LastSeed":879,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10329,7 +10294,7 @@
     {
       "Name":"Hannah Roberts",
       "Rating":289,
-      "Seed":880,
+      "Seed":877,
       "LastSeed":880,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10342,7 +10307,7 @@
     {
       "Name":"Zelma Old",
       "Rating":289,
-      "Seed":881,
+      "Seed":878,
       "LastSeed":881,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -10354,7 +10319,7 @@
     {
       "Name":"Joan Bishop",
       "Rating":288,
-      "Seed":882,
+      "Seed":879,
       "LastSeed":882,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10365,7 +10330,7 @@
     {
       "Name":"Karen Brookes",
       "Rating":286,
-      "Seed":883,
+      "Seed":880,
       "LastSeed":883,
       "EqualSeed":"(=1)",
       "Current":true,
@@ -10377,7 +10342,7 @@
     {
       "Name":"Adam Young",
       "Rating":286,
-      "Seed":884,
+      "Seed":881,
       "LastSeed":884,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -10389,7 +10354,7 @@
     {
       "Name":"Heather Amos",
       "Rating":286,
-      "Seed":885,
+      "Seed":882,
       "LastSeed":885,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -10401,7 +10366,7 @@
     {
       "Name":"Mary Beech",
       "Rating":284,
-      "Seed":886,
+      "Seed":883,
       "LastSeed":886,
       "Status":"(hist)",
       "Current":false,
@@ -10412,7 +10377,7 @@
     {
       "Name":"Karen Stewart",
       "Rating":282,
-      "Seed":887,
+      "Seed":884,
       "LastSeed":887,
       "Current":true,
       "Ranking":149,
@@ -10424,7 +10389,7 @@
     {
       "Name":"Gordon Pinchin",
       "Rating":280,
-      "Seed":888,
+      "Seed":885,
       "LastSeed":888,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10436,7 +10401,7 @@
     {
       "Name":"Douaine Simmons",
       "Rating":280,
-      "Seed":889,
+      "Seed":886,
       "LastSeed":889,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10448,7 +10413,7 @@
     {
       "Name":"Jenny Rowe",
       "Rating":271,
-      "Seed":890,
+      "Seed":887,
       "LastSeed":890,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10459,7 +10424,7 @@
     {
       "Name":"Mary King",
       "Rating":270,
-      "Seed":891,
+      "Seed":888,
       "LastSeed":891,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10470,7 +10435,7 @@
     {
       "Name":"Stella Dekker",
       "Rating":268,
-      "Seed":892,
+      "Seed":889,
       "LastSeed":892,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10481,7 +10446,7 @@
     {
       "Name":"Amy Tiopira",
       "Rating":266,
-      "Seed":893,
+      "Seed":890,
       "LastSeed":893,
       "Status":"(hist)",
       "Current":false,
@@ -10492,7 +10457,7 @@
     {
       "Name":"Patricia Wareing",
       "Rating":258,
-      "Seed":894,
+      "Seed":891,
       "LastSeed":894,
       "Status":"(hist)",
       "Current":false,
@@ -10504,7 +10469,7 @@
     {
       "Name":"Ian Cutcher",
       "Rating":250,
-      "Seed":895,
+      "Seed":892,
       "LastSeed":895,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10516,7 +10481,7 @@
     {
       "Name":"Diana Quennell-Smith",
       "Rating":243,
-      "Seed":896,
+      "Seed":893,
       "LastSeed":896,
       "Status":"(hist)",
       "Current":false,
@@ -10527,7 +10492,7 @@
     {
       "Name":"Margaret Hanson",
       "Rating":242,
-      "Seed":897,
+      "Seed":894,
       "LastSeed":897,
       "Status":"(hist)",
       "Current":false,
@@ -10538,7 +10503,7 @@
     {
       "Name":"Lee-Anne Cameron",
       "Rating":241,
-      "Seed":898,
+      "Seed":895,
       "LastSeed":898,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10550,7 +10515,7 @@
     {
       "Name":"Daphne Flett",
       "Rating":241,
-      "Seed":899,
+      "Seed":896,
       "LastSeed":899,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10562,7 +10527,7 @@
     {
       "Name":"Ed Olson",
       "Rating":232,
-      "Seed":900,
+      "Seed":897,
       "LastSeed":900,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10574,7 +10539,7 @@
     {
       "Name":"Julie Cook",
       "Rating":232,
-      "Seed":901,
+      "Seed":898,
       "LastSeed":901,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10586,7 +10551,7 @@
     {
       "Name":"Verna Alding",
       "Rating":231,
-      "Seed":902,
+      "Seed":899,
       "LastSeed":902,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10598,7 +10563,7 @@
     {
       "Name":"Ellen Cooper",
       "Rating":231,
-      "Seed":903,
+      "Seed":900,
       "LastSeed":903,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10610,7 +10575,7 @@
     {
       "Name":"Charles Kiewiet",
       "Rating":229,
-      "Seed":904,
+      "Seed":901,
       "LastSeed":904,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10622,7 +10587,7 @@
     {
       "Name":"Ray Seddon",
       "Rating":229,
-      "Seed":905,
+      "Seed":902,
       "LastSeed":905,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -10634,7 +10599,7 @@
     {
       "Name":"John Cirne",
       "Rating":224,
-      "Seed":906,
+      "Seed":903,
       "LastSeed":906,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10645,7 +10610,7 @@
     {
       "Name":"Molly Hall",
       "Rating":223,
-      "Seed":907,
+      "Seed":904,
       "LastSeed":907,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10656,7 +10621,7 @@
     {
       "Name":"Lyn Blow",
       "Rating":222,
-      "Seed":908,
+      "Seed":905,
       "LastSeed":908,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10668,7 +10633,7 @@
     {
       "Name":"Betty Wyatt",
       "Rating":222,
-      "Seed":909,
+      "Seed":906,
       "LastSeed":909,
       "EqualSeed":"(=2)",
       "Status":"(hist)",
@@ -10680,7 +10645,7 @@
     {
       "Name":"Gwenda Sears",
       "Rating":217,
-      "Seed":910,
+      "Seed":907,
       "LastSeed":910,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10691,7 +10656,7 @@
     {
       "Name":"Chris Christie",
       "Rating":216,
-      "Seed":911,
+      "Seed":908,
       "LastSeed":911,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10703,7 +10668,7 @@
     {
       "Name":"Jane Gannaway",
       "Rating":216,
-      "Seed":912,
+      "Seed":909,
       "LastSeed":912,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10715,7 +10680,7 @@
     {
       "Name":"Nora Thornton",
       "Rating":214,
-      "Seed":913,
+      "Seed":910,
       "LastSeed":913,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10726,7 +10691,7 @@
     {
       "Name":"Jack McArtney",
       "Rating":212,
-      "Seed":914,
+      "Seed":911,
       "LastSeed":914,
       "Status":"(hist)",
       "Current":false,
@@ -10737,7 +10702,7 @@
     {
       "Name":"Hazel Smith",
       "Rating":205,
-      "Seed":915,
+      "Seed":912,
       "LastSeed":915,
       "Status":"(hist)",
       "Current":false,
@@ -10748,7 +10713,7 @@
     {
       "Name":"Jo Simmons",
       "Rating":203,
-      "Seed":916,
+      "Seed":913,
       "LastSeed":916,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10759,7 +10724,7 @@
     {
       "Name":"Gary Falconer",
       "Rating":200,
-      "Seed":917,
+      "Seed":914,
       "LastSeed":917,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10770,7 +10735,7 @@
     {
       "Name":"Loretta Taylor",
       "Rating":199,
-      "Seed":918,
+      "Seed":915,
       "LastSeed":918,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10781,7 +10746,7 @@
     {
       "Name":"Debbie Nickalls",
       "Rating":198,
-      "Seed":919,
+      "Seed":916,
       "LastSeed":919,
       "Status":"(prov)",
       "Current":true,
@@ -10793,7 +10758,7 @@
     {
       "Name":"Bruce Weatherall",
       "Rating":197,
-      "Seed":920,
+      "Seed":917,
       "LastSeed":920,
       "Current":true,
       "Wins":10.5,
@@ -10804,7 +10769,7 @@
     {
       "Name":"Yvonne Brown",
       "Rating":195,
-      "Seed":921,
+      "Seed":918,
       "LastSeed":921,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10815,7 +10780,7 @@
     {
       "Name":"Moyra Sweetnam-Evans",
       "Rating":193,
-      "Seed":922,
+      "Seed":919,
       "LastSeed":922,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10826,7 +10791,7 @@
     {
       "Name":"Madge Watson",
       "Rating":191,
-      "Seed":923,
+      "Seed":920,
       "LastSeed":923,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -10838,7 +10803,7 @@
     {
       "Name":"Gaye Peterson",
       "Rating":191,
-      "Seed":924,
+      "Seed":921,
       "LastSeed":924,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10850,7 +10815,7 @@
     {
       "Name":"Aiwa Pooamorn",
       "Rating":190,
-      "Seed":925,
+      "Seed":922,
       "LastSeed":925,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10862,7 +10827,7 @@
     {
       "Name":"Zara Schofield",
       "Rating":190,
-      "Seed":926,
+      "Seed":923,
       "LastSeed":926,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10874,7 +10839,7 @@
     {
       "Name":"Scott Chisholm",
       "Rating":188,
-      "Seed":927,
+      "Seed":924,
       "LastSeed":927,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10886,7 +10851,7 @@
     {
       "Name":"Glenice Jenkinson",
       "Rating":188,
-      "Seed":928,
+      "Seed":925,
       "LastSeed":928,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10898,7 +10863,7 @@
     {
       "Name":"Cindy Hurley",
       "Rating":187,
-      "Seed":929,
+      "Seed":926,
       "LastSeed":929,
       "Status":"(prov)",
       "Current":true,
@@ -10910,7 +10875,7 @@
     {
       "Name":"Brian Mahood",
       "Rating":184,
-      "Seed":930,
+      "Seed":927,
       "LastSeed":930,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10921,7 +10886,7 @@
     {
       "Name":"Peter Godfrey",
       "Rating":183,
-      "Seed":931,
+      "Seed":928,
       "LastSeed":931,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10932,7 +10897,7 @@
     {
       "Name":"Joy Owen",
       "Rating":182,
-      "Seed":932,
+      "Seed":929,
       "LastSeed":932,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -10944,7 +10909,7 @@
     {
       "Name":"Oscar Mcguire",
       "Rating":182,
-      "Seed":933,
+      "Seed":930,
       "LastSeed":933,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -10956,7 +10921,7 @@
     {
       "Name":"Shirley Sarten",
       "Rating":180,
-      "Seed":934,
+      "Seed":931,
       "LastSeed":934,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10967,7 +10932,7 @@
     {
       "Name":"Nan Oxnam",
       "Rating":179,
-      "Seed":935,
+      "Seed":932,
       "LastSeed":935,
       "Status":"(prov/hist)",
       "Current":false,
@@ -10978,7 +10943,7 @@
     {
       "Name":"Pam Bosch",
       "Rating":178,
-      "Seed":936,
+      "Seed":933,
       "LastSeed":936,
       "Status":"(prov)",
       "Current":true,
@@ -10990,7 +10955,7 @@
     {
       "Name":"Alisi Kataonga",
       "Rating":174,
-      "Seed":937,
+      "Seed":934,
       "LastSeed":937,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11001,9 +10966,8 @@
     {
       "Name":"Tyler Proctor",
       "Rating":173,
-      "Seed":938,
+      "Seed":935,
       "LastSeed":938,
-      "EqualSeed":"(=1)",
       "Status":"(hist)",
       "Current":false,
       "Wins":12.5,
@@ -11011,22 +10975,9 @@
       "PercentText":"28%"
     },
     {
-      "Name":"Anne Larkin",
-      "Rating":173,
-      "Seed":939,
-      "LastSeed":939,
-      "EqualSeed":"(=2)",
-      "Status":"(prov)",
-      "Current":true,
-      "Wins":3.0,
-      "Games":12,
-      "PercentText":"25%",
-      "Club":"Rotorua"
-    },
-    {
       "Name":"Bill Ramsay",
       "Rating":170,
-      "Seed":940,
+      "Seed":936,
       "LastSeed":940,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11037,7 +10988,7 @@
     {
       "Name":"Merilyn Anderson",
       "Rating":162,
-      "Seed":941,
+      "Seed":937,
       "LastSeed":941,
       "Status":"(hist)",
       "Current":false,
@@ -11049,7 +11000,7 @@
     {
       "Name":"Lucy Pollock",
       "Rating":160,
-      "Seed":942,
+      "Seed":938,
       "LastSeed":942,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11060,7 +11011,7 @@
     {
       "Name":"Iris Gardner",
       "Rating":159,
-      "Seed":943,
+      "Seed":939,
       "LastSeed":943,
       "Status":"(hist)",
       "Current":false,
@@ -11071,7 +11022,7 @@
     {
       "Name":"Ethan Hawkins",
       "Rating":158,
-      "Seed":944,
+      "Seed":940,
       "LastSeed":944,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -11083,7 +11034,7 @@
     {
       "Name":"Cheryl Parsons",
       "Rating":158,
-      "Seed":945,
+      "Seed":941,
       "LastSeed":945,
       "EqualSeed":"(=2)",
       "Current":true,
@@ -11096,7 +11047,7 @@
     {
       "Name":"Fay Wenzlick",
       "Rating":156,
-      "Seed":946,
+      "Seed":942,
       "LastSeed":946,
       "Current":true,
       "Wins":36.0,
@@ -11107,7 +11058,7 @@
     {
       "Name":"Genie Em",
       "Rating":153,
-      "Seed":947,
+      "Seed":943,
       "LastSeed":947,
       "Current":true,
       "Wins":3.0,
@@ -11118,7 +11069,7 @@
     {
       "Name":"Meg Van Stokkum",
       "Rating":152,
-      "Seed":948,
+      "Seed":944,
       "LastSeed":948,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11129,7 +11080,7 @@
     {
       "Name":"Robert Hogg",
       "Rating":151,
-      "Seed":949,
+      "Seed":945,
       "LastSeed":949,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11140,7 +11091,7 @@
     {
       "Name":"Bev Allen",
       "Rating":150,
-      "Seed":950,
+      "Seed":946,
       "LastSeed":950,
       "Current":true,
       "Wins":66.5,
@@ -11151,7 +11102,7 @@
     {
       "Name":"Joseph Araya",
       "Rating":149,
-      "Seed":951,
+      "Seed":947,
       "LastSeed":951,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11162,7 +11113,7 @@
     {
       "Name":"James Flynn",
       "Rating":148,
-      "Seed":952,
+      "Seed":948,
       "LastSeed":952,
       "Status":"(hist)",
       "Current":false,
@@ -11174,7 +11125,7 @@
     {
       "Name":"Jessie Lewis",
       "Rating":131,
-      "Seed":953,
+      "Seed":949,
       "LastSeed":953,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11185,7 +11136,7 @@
     {
       "Name":"Tony Warren",
       "Rating":127,
-      "Seed":954,
+      "Seed":950,
       "LastSeed":954,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11196,7 +11147,7 @@
     {
       "Name":"Jeannie Lambert",
       "Rating":126,
-      "Seed":955,
+      "Seed":951,
       "LastSeed":955,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -11209,7 +11160,7 @@
       "Name":"Louise Hosking",
       "Rating":126,
       "RatingChange":"( +126 )",
-      "Seed":956,
+      "Seed":952,
       "LastSeed":9999,
       "EqualSeed":"(=2)",
       "Status":"(prov)",
@@ -11221,7 +11172,7 @@
     {
       "Name":"Lorna Smith",
       "Rating":116,
-      "Seed":957,
+      "Seed":953,
       "LastSeed":956,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11232,7 +11183,7 @@
     {
       "Name":"Janita Isaacs",
       "Rating":113,
-      "Seed":958,
+      "Seed":954,
       "LastSeed":957,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11243,7 +11194,7 @@
     {
       "Name":"Dot Kirkpatrick",
       "Rating":106,
-      "Seed":959,
+      "Seed":955,
       "LastSeed":958,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11254,7 +11205,7 @@
     {
       "Name":"Delwyn Hall",
       "Rating":104,
-      "Seed":960,
+      "Seed":956,
       "LastSeed":959,
       "Status":"(hist)",
       "Current":false,
@@ -11265,7 +11216,7 @@
     {
       "Name":"John Niwa",
       "Rating":101,
-      "Seed":961,
+      "Seed":957,
       "LastSeed":960,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -11277,7 +11228,7 @@
     {
       "Name":"Louie Bernhardt",
       "Rating":101,
-      "Seed":962,
+      "Seed":958,
       "LastSeed":961,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -11289,7 +11240,7 @@
     {
       "Name":"Margaret Chandler",
       "Rating":93,
-      "Seed":963,
+      "Seed":959,
       "LastSeed":962,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11300,7 +11251,7 @@
     {
       "Name":"Ruth Hustler",
       "Rating":92,
-      "Seed":964,
+      "Seed":960,
       "LastSeed":963,
       "EqualSeed":"(=1)",
       "Status":"(prov/hist)",
@@ -11312,7 +11263,7 @@
     {
       "Name":"Suzanne Edwards",
       "Rating":92,
-      "Seed":965,
+      "Seed":961,
       "LastSeed":964,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -11324,7 +11275,7 @@
     {
       "Name":"Errol Hooker",
       "Rating":88,
-      "Seed":966,
+      "Seed":962,
       "LastSeed":965,
       "Status":"(hist)",
       "Current":false,
@@ -11335,7 +11286,7 @@
     {
       "Name":"Christopher Denton",
       "Rating":74,
-      "Seed":967,
+      "Seed":963,
       "LastSeed":966,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11346,7 +11297,7 @@
     {
       "Name":"Pat Stefferson",
       "Rating":71,
-      "Seed":968,
+      "Seed":964,
       "LastSeed":967,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -11358,7 +11309,7 @@
     {
       "Name":"Margaret Preston",
       "Rating":71,
-      "Seed":969,
+      "Seed":965,
       "LastSeed":968,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -11370,7 +11321,7 @@
     {
       "Name":"Susan Milne",
       "Rating":70,
-      "Seed":970,
+      "Seed":966,
       "LastSeed":969,
       "Status":"(hist)",
       "Current":false,
@@ -11381,7 +11332,7 @@
     {
       "Name":"June McConnell",
       "Rating":68,
-      "Seed":971,
+      "Seed":967,
       "LastSeed":970,
       "Status":"(hist)",
       "Current":false,
@@ -11392,7 +11343,7 @@
     {
       "Name":"Vicky Clark",
       "Rating":67,
-      "Seed":972,
+      "Seed":968,
       "LastSeed":971,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11403,7 +11354,7 @@
     {
       "Name":"Janet Williamson",
       "Rating":65,
-      "Seed":973,
+      "Seed":969,
       "LastSeed":972,
       "Status":"(hist)",
       "Current":false,
@@ -11414,7 +11365,7 @@
     {
       "Name":"Iris Hodgson",
       "Rating":63,
-      "Seed":974,
+      "Seed":970,
       "LastSeed":973,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11425,7 +11376,7 @@
     {
       "Name":"Noreen Harvey",
       "Rating":58,
-      "Seed":975,
+      "Seed":971,
       "LastSeed":974,
       "Status":"(prov)",
       "Current":true,
@@ -11437,7 +11388,7 @@
     {
       "Name":"Mariah Henderson",
       "Rating":53,
-      "Seed":976,
+      "Seed":972,
       "LastSeed":975,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11448,7 +11399,7 @@
     {
       "Name":"Trish Fox",
       "Rating":49,
-      "Seed":977,
+      "Seed":973,
       "LastSeed":976,
       "Current":true,
       "Ranking":151,
@@ -11460,7 +11411,7 @@
     {
       "Name":"Joan Nel-Swartz",
       "Rating":45,
-      "Seed":978,
+      "Seed":974,
       "LastSeed":977,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11471,7 +11422,7 @@
     {
       "Name":"Mary Casse",
       "Rating":44,
-      "Seed":979,
+      "Seed":975,
       "LastSeed":978,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -11483,7 +11434,7 @@
     {
       "Name":"Ted Somerville",
       "Rating":44,
-      "Seed":980,
+      "Seed":976,
       "LastSeed":979,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -11495,7 +11446,7 @@
     {
       "Name":"Valerie Smith",
       "Rating":42,
-      "Seed":981,
+      "Seed":977,
       "LastSeed":980,
       "Current":true,
       "Wins":92.5,
@@ -11506,7 +11457,7 @@
     {
       "Name":"Sue Foster",
       "Rating":30,
-      "Seed":982,
+      "Seed":978,
       "LastSeed":981,
       "Status":"(hist)",
       "Current":false,
@@ -11517,7 +11468,7 @@
     {
       "Name":"Frances Herbert",
       "Rating":23,
-      "Seed":983,
+      "Seed":979,
       "LastSeed":982,
       "Status":"(prov/hist)",
       "Current":false,
@@ -11528,7 +11479,7 @@
     {
       "Name":"Susan Schiller",
       "Rating":6,
-      "Seed":984,
+      "Seed":980,
       "LastSeed":983,
       "Current":true,
       "Ranking":152,
@@ -11540,7 +11491,7 @@
     {
       "Name":"Maureen Rippey",
       "Rating":0,
-      "Seed":985,
+      "Seed":981,
       "LastSeed":984,
       "EqualSeed":"(=1)",
       "Status":"(hist)",
@@ -11552,7 +11503,7 @@
     {
       "Name":"Joan Jones",
       "Rating":0,
-      "Seed":986,
+      "Seed":982,
       "LastSeed":985,
       "EqualSeed":"(=2)",
       "Status":"(prov/hist)",
@@ -11564,7 +11515,7 @@
     {
       "Name":"Trish McIntosh",
       "Rating":0,
-      "Seed":987,
+      "Seed":983,
       "LastSeed":986,
       "EqualSeed":"(=3)",
       "Status":"(prov/hist)",
@@ -11576,7 +11527,7 @@
     {
       "Name":"Val Nicholson",
       "Rating":0,
-      "Seed":988,
+      "Seed":984,
       "LastSeed":987,
       "EqualSeed":"(=4)",
       "Status":"(prov/hist)",
@@ -11588,7 +11539,7 @@
     {
       "Name":"Ivan Marshall",
       "Rating":0,
-      "Seed":989,
+      "Seed":985,
       "LastSeed":988,
       "EqualSeed":"(=5)",
       "Status":"(prov/hist)",
@@ -11600,7 +11551,7 @@
     {
       "Name":"Sue Purdie",
       "Rating":0,
-      "Seed":990,
+      "Seed":986,
       "LastSeed":989,
       "EqualSeed":"(=6)",
       "Status":"(prov/hist)",
@@ -11612,7 +11563,7 @@
     {
       "Name":"Joy Reiha",
       "Rating":0,
-      "Seed":991,
+      "Seed":987,
       "LastSeed":990,
       "EqualSeed":"(=7)",
       "Status":"(prov/hist)",
@@ -11624,7 +11575,7 @@
     {
       "Name":"Michelle Hawes",
       "Rating":0,
-      "Seed":992,
+      "Seed":988,
       "LastSeed":991,
       "EqualSeed":"(=8)",
       "Status":"(prov/hist)",
@@ -11636,7 +11587,7 @@
     {
       "Name":"Eleanor McDougall",
       "Rating":0,
-      "Seed":993,
+      "Seed":989,
       "LastSeed":992,
       "EqualSeed":"(=9)",
       "Status":"(prov/hist)",
@@ -11648,7 +11599,7 @@
     {
       "Name":"Christine Doolan",
       "Rating":0,
-      "Seed":994,
+      "Seed":990,
       "LastSeed":993,
       "EqualSeed":"(=10)",
       "Status":"(prov/hist)",
@@ -11660,7 +11611,7 @@
     {
       "Name":"Erana Davis",
       "Rating":0,
-      "Seed":995,
+      "Seed":991,
       "LastSeed":994,
       "EqualSeed":"(=11)",
       "Status":"(prov/hist)",
@@ -11672,7 +11623,7 @@
     {
       "Name":"Tim Barham",
       "Rating":0,
-      "Seed":996,
+      "Seed":992,
       "LastSeed":995,
       "EqualSeed":"(=12)",
       "Status":"(prov/hist)",
@@ -11684,7 +11635,7 @@
     {
       "Name":"Emilia Hazzard",
       "Rating":0,
-      "Seed":997,
+      "Seed":993,
       "LastSeed":996,
       "EqualSeed":"(=13)",
       "Status":"(prov/hist)",
@@ -11696,7 +11647,7 @@
     {
       "Name":"Max Beale",
       "Rating":0,
-      "Seed":998,
+      "Seed":994,
       "LastSeed":997,
       "EqualSeed":"(=14)",
       "Status":"(prov/hist)",
@@ -11708,7 +11659,7 @@
     {
       "Name":"Alison Connolly",
       "Rating":0,
-      "Seed":999,
+      "Seed":995,
       "LastSeed":998,
       "EqualSeed":"(=15)",
       "Status":"(prov/hist)",
@@ -11720,7 +11671,7 @@
     {
       "Name":"Margery Dawson",
       "Rating":0,
-      "Seed":1000,
+      "Seed":996,
       "LastSeed":999,
       "EqualSeed":"(=16)",
       "Status":"(prov/hist)",
@@ -11731,24 +11682,11 @@
       "Club":"Rotorua"
     },
     {
-      "Name":"Diane Pasco",
-      "Rating":0,
-      "Seed":1001,
-      "LastSeed":1000,
-      "EqualSeed":"(=17)",
-      "Status":"(prov/hist)",
-      "Current":false,
-      "Wins":0.0,
-      "Games":13,
-      "PercentText":"0%",
-      "Club":"Rotorua"
-    },
-    {
       "Name":"Margaret Webb",
       "Rating":0,
-      "Seed":1002,
+      "Seed":997,
       "LastSeed":1001,
-      "EqualSeed":"(=18)",
+      "EqualSeed":"(=17)",
       "Current":true,
       "Wins":4.0,
       "Games":39,
@@ -11758,9 +11696,9 @@
     {
       "Name":"Pam Ellender",
       "Rating":0,
-      "Seed":1003,
+      "Seed":998,
       "LastSeed":1002,
-      "EqualSeed":"(=19)",
+      "EqualSeed":"(=18)",
       "Status":"(prov)",
       "Current":true,
       "Wins":0.0,
@@ -11771,9 +11709,9 @@
     {
       "Name":"Mark Wehi",
       "Rating":0,
-      "Seed":1004,
+      "Seed":999,
       "LastSeed":1003,
-      "EqualSeed":"(=20)",
+      "EqualSeed":"(=19)",
       "Status":"(prov)",
       "Current":true,
       "Wins":0.0,
@@ -11784,9 +11722,9 @@
     {
       "Name":"Sue Harris",
       "Rating":0,
-      "Seed":1005,
+      "Seed":1000,
       "LastSeed":1004,
-      "EqualSeed":"(=21)",
+      "EqualSeed":"(=20)",
       "Status":"(prov)",
       "Current":true,
       "Wins":1.0,
@@ -11797,9 +11735,9 @@
     {
       "Name":"Jenny Miller",
       "Rating":0,
-      "Seed":1006,
+      "Seed":1001,
       "LastSeed":1005,
-      "EqualSeed":"(=22)",
+      "EqualSeed":"(=21)",
       "Status":"(prov)",
       "Current":true,
       "Wins":3.0,
@@ -11810,9 +11748,9 @@
     {
       "Name":"Maria Quigg",
       "Rating":0,
-      "Seed":1007,
+      "Seed":1002,
       "LastSeed":1006,
-      "EqualSeed":"(=23)",
+      "EqualSeed":"(=22)",
       "Status":"(prov)",
       "Current":true,
       "Wins":3.0,
