@@ -1,5 +1,5 @@
 {
-  "Date":"as at Sunday, 14 November 2021",
+  "Date":"as at Friday, 31 December 2021",
   "List":[
     {
       "Name":"Alastair Richards",
@@ -306,7 +306,7 @@
       "Wins":1280.0,
       "Games":2367,
       "PercentText":"54%",
-      "Club":"Independent"
+      "Club":"Mt Albert"
     },
     {
       "Name":"Maurine Sullivan",
@@ -361,7 +361,6 @@
       "Name":"Cicely Bruce",
       "LifetimeAward":"(GM)",
       "Rating":1898,
-      "RatingChange":"( -28 )",
       "Seed":30,
       "LastSeed":25,
       "Current":true,
@@ -740,7 +739,6 @@
       "Name":"Murray Rogers",
       "LifetimeAward":"(E)",
       "Rating":1761,
-      "RatingChange":"( +2 )",
       "Seed":62,
       "LastSeed":62,
       "Current":true,
@@ -802,7 +800,6 @@
     {
       "Name":"Lois Binnie",
       "Rating":1716,
-      "RatingChange":"( +32 )",
       "Seed":67,
       "LastSeed":74,
       "Current":true,
@@ -1000,7 +997,7 @@
       "Wins":1647.0,
       "Games":3388,
       "PercentText":"49%",
-      "Club":"Independent"
+      "Club":"Mt Albert"
     },
     {
       "Name":"Margaret White",
@@ -1087,7 +1084,6 @@
     {
       "Name":"Karen Gray",
       "Rating":1622,
-      "RatingChange":"( +15 )",
       "Seed":91,
       "LastSeed":98,
       "Current":true,
@@ -1180,7 +1176,6 @@
     {
       "Name":"Peter Johnstone",
       "Rating":1602,
-      "RatingChange":"( -35 )",
       "Seed":99,
       "LastSeed":90,
       "Current":true,
@@ -1205,7 +1200,6 @@
     {
       "Name":"Lynn Wood",
       "Rating":1595,
-      "RatingChange":"( +43 )",
       "Seed":101,
       "LastSeed":117,
       "Current":true,
@@ -1310,7 +1304,6 @@
     {
       "Name":"Margie Hurly",
       "Rating":1578,
-      "RatingChange":"( +28 )",
       "Seed":110,
       "LastSeed":118,
       "Current":true,
@@ -1357,7 +1350,6 @@
     {
       "Name":"Jason Simpson",
       "Rating":1564,
-      "RatingChange":"( +67 )",
       "Seed":114,
       "LastSeed":146,
       "Current":true,
@@ -1764,7 +1756,6 @@
     {
       "Name":"Helen Sillis",
       "Rating":1491,
-      "RatingChange":"( +27 )",
       "Seed":149,
       "LastSeed":158,
       "EqualSeed":"(=2)",
@@ -1773,7 +1764,7 @@
       "Wins":925.0,
       "Games":1888,
       "PercentText":"49%",
-      "Club":"Independent"
+      "Club":"Waitara"
     },
     {
       "Name":"Jo Burnside",
@@ -1848,7 +1839,6 @@
     {
       "Name":"Allie Quinn",
       "Rating":1453,
-      "RatingChange":"( -27 )",
       "Seed":156,
       "LastSeed":151,
       "EqualSeed":"(=1)",
@@ -1921,7 +1911,6 @@
     {
       "Name":"Anne Goldstein",
       "Rating":1432,
-      "RatingChange":"( -61 )",
       "Seed":162,
       "LastSeed":147,
       "Current":true,
@@ -2076,7 +2065,6 @@
     {
       "Name":"Bev Edwards",
       "Rating":1397,
-      "RatingChange":"( -22 )",
       "Seed":175,
       "LastSeed":167,
       "Current":true,
@@ -2279,7 +2267,6 @@
     {
       "Name":"Jenny Litchfield",
       "Rating":1368,
-      "RatingChange":"( -10 )",
       "Seed":192,
       "LastSeed":190,
       "EqualSeed":"(=1)",
@@ -2413,7 +2400,6 @@
     {
       "Name":"Jean O'Brien",
       "Rating":1357,
-      "RatingChange":"( -11 )",
       "Seed":203,
       "LastSeed":196,
       "EqualSeed":"(=1)",
@@ -2427,7 +2413,6 @@
     {
       "Name":"Shirley Hol",
       "Rating":1357,
-      "RatingChange":"( +68 )",
       "Seed":204,
       "LastSeed":230,
       "EqualSeed":"(=2)",
@@ -2490,7 +2475,6 @@
     {
       "Name":"Carolyn Kyle",
       "Rating":1346,
-      "RatingChange":"( -60 )",
       "Seed":209,
       "LastSeed":173,
       "Current":true,
@@ -2503,7 +2487,6 @@
     {
       "Name":"Ruth Groffman",
       "Rating":1344,
-      "RatingChange":"( +15 )",
       "Seed":210,
       "LastSeed":215,
       "Current":true,
@@ -2562,7 +2545,6 @@
     {
       "Name":"Betty Eriksen",
       "Rating":1332,
-      "RatingChange":"( -36 )",
       "Seed":215,
       "LastSeed":197,
       "EqualSeed":"(=2)",
@@ -3080,7 +3062,6 @@
     {
       "Name":"Suzanne Liddall",
       "Rating":1229,
-      "RatingChange":"( +23 )",
       "Seed":259,
       "LastSeed":274,
       "EqualSeed":"(=1)",
@@ -3350,7 +3331,6 @@
     {
       "Name":"Joanna Fox",
       "Rating":1191,
-      "RatingChange":"( +48 )",
       "Seed":282,
       "LastSeed":306,
       "EqualSeed":"(=2)",
@@ -3451,7 +3431,8 @@
       "Current":true,
       "Wins":11.0,
       "Games":36,
-      "PercentText":"31%"
+      "PercentText":"31%",
+      "Club":"Wellington"
     },
     {
       "Name":"Faye Cronhelm",
@@ -3592,7 +3573,6 @@
     {
       "Name":"Marian Ross",
       "Rating":1147,
-      "RatingChange":"( -15 )",
       "Seed":303,
       "LastSeed":295,
       "EqualSeed":"(=2)",
@@ -3797,7 +3777,6 @@
     {
       "Name":"Gabrielle Bolt",
       "Rating":1125,
-      "RatingChange":"( -45 )",
       "Seed":320,
       "LastSeed":290,
       "Current":true,
@@ -4122,7 +4101,6 @@
     {
       "Name":"Grant Paulin",
       "Rating":1074,
-      "RatingChange":"( -13 )",
       "Seed":348,
       "LastSeed":341,
       "EqualSeed":"(=1)",
@@ -4674,7 +4652,6 @@
     {
       "Name":"Chris Handley",
       "Rating":1006,
-      "RatingChange":"( +35 )",
       "Seed":395,
       "LastSeed":424,
       "Current":true,
@@ -4777,7 +4754,6 @@
     {
       "Name":"Michael Hyndman",
       "Rating":993,
-      "RatingChange":"( -8 )",
       "Seed":404,
       "LastSeed":399,
       "Current":true,
@@ -5165,7 +5141,6 @@
     {
       "Name":"Suzanne Harding",
       "Rating":952,
-      "RatingChange":"( +30 )",
       "Seed":437,
       "LastSeed":462,
       "EqualSeed":"(=2)",
@@ -5572,7 +5547,6 @@
     {
       "Name":"Marilyn Sinclair",
       "Rating":909,
-      "RatingChange":"( +73 )",
       "Seed":472,
       "LastSeed":524,
       "EqualSeed":"(=2)",
@@ -5716,7 +5690,6 @@
     {
       "Name":"Hanna Dodge",
       "Rating":886,
-      "RatingChange":"( -18 )",
       "Seed":484,
       "LastSeed":478,
       "EqualSeed":"(=1)",
@@ -6402,7 +6375,6 @@
     {
       "Name":"Tara Hurley",
       "Rating":810,
-      "RatingChange":"( +37 )",
       "Seed":542,
       "LastSeed":563,
       "EqualSeed":"(=2)",
@@ -6854,7 +6826,6 @@
     {
       "Name":"Malcolm Graham",
       "Rating":751,
-      "RatingChange":"( -87 )",
       "Seed":581,
       "LastSeed":522,
       "EqualSeed":"(=1)",
@@ -6863,12 +6834,11 @@
       "Wins":794.5,
       "Games":1608,
       "PercentText":"49%",
-      "Club":"Christchurch"
+      "Club":"Independent"
     },
     {
       "Name":"Sue Hensley",
       "Rating":751,
-      "RatingChange":"( +151 )",
       "Seed":582,
       "LastSeed":688,
       "EqualSeed":"(=2)",
@@ -7280,7 +7250,6 @@
     {
       "Name":"Steve Wood",
       "Rating":702,
-      "RatingChange":"( +62 )",
       "Seed":617,
       "LastSeed":656,
       "Current":true,
@@ -7382,7 +7351,6 @@
     {
       "Name":"Anne Scatchard",
       "Rating":685,
-      "RatingChange":"( +5 )",
       "Seed":626,
       "LastSeed":631,
       "Current":true,
@@ -7949,7 +7917,6 @@
     {
       "Name":"Margaret Toso",
       "Rating":612,
-      "RatingChange":"( +22 )",
       "Seed":675,
       "LastSeed":693,
       "Current":true,
@@ -8328,7 +8295,6 @@
     {
       "Name":"Sharon Teasdale",
       "Rating":564,
-      "RatingChange":"( -143 )",
       "Seed":708,
       "LastSeed":614,
       "Current":true,
@@ -8489,7 +8455,6 @@
     {
       "Name":"Margaret Peters",
       "Rating":539,
-      "RatingChange":"( -6 )",
       "Seed":722,
       "LastSeed":721,
       "EqualSeed":"(=1)",
@@ -8527,7 +8492,6 @@
     {
       "Name":"Anne-Louise Milne",
       "Rating":538,
-      "RatingChange":"( -68 )",
       "Seed":725,
       "LastSeed":683,
       "EqualSeed":"(=2)",
@@ -8738,7 +8702,6 @@
     {
       "Name":"Graeme Quinn",
       "Rating":520,
-      "RatingChange":"( -47 )",
       "Seed":743,
       "LastSeed":711,
       "EqualSeed":"(=1)",
@@ -10259,7 +10222,6 @@
     {
       "Name":"Lynn Thompson",
       "Rating":301,
-      "RatingChange":"( +3 )",
       "Seed":874,
       "LastSeed":878,
       "Current":true,
@@ -11159,7 +11121,6 @@
     {
       "Name":"Louise Hosking",
       "Rating":126,
-      "RatingChange":"( +126 )",
       "Seed":952,
       "LastSeed":9999,
       "EqualSeed":"(=2)",
