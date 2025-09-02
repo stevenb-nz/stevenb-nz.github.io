@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ratings for Elixs
+title: All Ratings for Elixs
 list: true
 permalink: /scrabble/allratingsforelixs/
 previouslink: /scrabble/oldallratingsforelixs/
